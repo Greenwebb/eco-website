@@ -125,7 +125,7 @@
       .wizard .content .form-control::placeholder {
         color: #919aa3; }
   .wizard .actions {
-    border-top: 1px solid #e9ecf4;
+    /* border-top: 1px solid #e9ecf4; */
     padding-top: 26px; }
     .wizard .actions > ul {
       list-style: none;
