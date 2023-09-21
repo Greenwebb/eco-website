@@ -51,6 +51,7 @@ $("#wizard").steps({
         // Gather all the saved data from the session
         const businessType = sessionStorage.getItem('businessType');
         const fullname = sessionStorage.getItem('fullname');
+        const name = sessionStorage.getItem('fullname');
         const phoneNumber = sessionStorage.getItem('phoneNumber');
         const city = sessionStorage.getItem('city');
         const province = sessionStorage.getItem('province');
@@ -59,6 +60,9 @@ $("#wizard").steps({
         const languages = sessionStorage.getItem('languages');
         const employment = sessionStorage.getItem('employment');
         const service = sessionStorage.getItem('service');
+        const email = 'nyeleti.bremah@gmail.com';
+        const password = 'eco12345';
+        const password_confirmation = 'eco12345';
 
         // Create an object with the collected data
         const formData = {
@@ -72,24 +76,38 @@ $("#wizard").steps({
             languages,
             employment,
             service,
+            name,
+            email,
+            password,
+            password_confirmation,
         };
+        
+        // Define the API endpoint URL
+        const apiUrl = 'http://localhost:9000/api/register';
 
-        // Send the data to your PHP/MySQLi backend
+        // Make the asynchronous API request using jQuery AJAX
         $.ajax({
-            url: 'app/OnboardingController.php', // Replace with your PHP script URL
+            url: apiUrl,
             type: 'POST',
-            data: formData,
+            contentType: 'application/json',
+            data: JSON.stringify(formData),
             success: function (response) {
-                // Handle the response from your PHP script (e.g., display a success message)
-                // alert('Form submitted successfully');
-                sessionStorage.clear(); // Clear session data after submission
-                alert("Form successfully submitted!");
+                // Handle the response data here
+                // sessionStorage.clear(); // Clear session data after submission
+                // alert('Form successfully submitted!');
+                // Save the token and user data in session storage
+                sessionStorage.setItem('token', response.token);
+                sessionStorage.setItem('authuser', JSON.stringify(response.data));
+
+                // Then reload the page
                 location.reload();
             },
-            error: function () {
-                alert('An error occurred while submitting the form');
+            error: function (error) {
+                sessionStorage.clear();
+                alert('An error occurred while submitting the form: ' + error.statusText);
             },
         });
+        
     },
     labels: {
         previous: "Back",

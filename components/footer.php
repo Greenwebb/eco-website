@@ -318,6 +318,6 @@
                     </div>
                 </div>
             </footer><!-- /.footer_wrap -->
-
-            
 <?php include 'components/modal.php' ?>
+<script src="script/routes.js"></script>
+<script src="script/main.js"></script>

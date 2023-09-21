@@ -2053,21 +2053,17 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a
-                                                                                                                href="risk-management.html">The
-                                                                                                                Call
-                                                                                                                Center</a>
+                                                                                                            <a onclick="redirectToCallCenter()" href="#call-center">The Call Center</a>
                                                                                                         </h6>
                                                                                                         <div
                                                                                                             class="sc_services_item_text">
-                                                                                                            <p>Consectetur
-                                                                                                                adipiscing
+                                                                                                            <p>
+                                                                                                            Obtain call center services
                                                                                                             </p>
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="sc_services_item_button sc_item_button">
-                                                                                                            <a href="risk-management.html"
-                                                                                                                class="sc_services_item_more_link">
+                                                                                                            <a onclick="redirectToCallCenter()" href="#call-center" class="sc_services_item_more_link">
                                                                                                                 <span
                                                                                                                     class="link_text">Read
                                                                                                                     more</span><span
@@ -2077,7 +2073,7 @@
                                                                                                     </div>
                                                                                                 </div><a
                                                                                                     class="sc_services_item_link"
-                                                                                                    href="risk-management.html"></a>
+                                                                                                    href="#call-center"></a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -2093,20 +2089,18 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a
-                                                                                                                href="feed-solutions.html">Advisory
+                                                                                                            <a onclick="redirectToAdvisory()" href="#advisory-services">Advisory
                                                                                                                 Services</a>
                                                                                                         </h6>
                                                                                                         <div
                                                                                                             class="sc_services_item_text">
-                                                                                                            <p>Consectetur
-                                                                                                                adipiscing
+                                                                                                            <p>
+                                                                                                                Start providing advisory services
                                                                                                             </p>
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="sc_services_item_button sc_item_button">
-                                                                                                            <a href="feed-solutions.html"
-                                                                                                                class="sc_services_item_more_link">
+                                                                                                            <a onclick="redirectToAdvisory()" href="#advisory-services" class="sc_services_item_more_link">
                                                                                                                 <span
                                                                                                                     class="link_text">Read
                                                                                                                     more</span><span
@@ -2116,7 +2110,7 @@
                                                                                                     </div>
                                                                                                 </div><a
                                                                                                     class="sc_services_item_link"
-                                                                                                    href="feed-solutions.html"></a>
+                                                                                                    href="#advisory-services"></a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -2132,8 +2126,7 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a
-                                                                                                                href="markethome.php">
+                                                                                                            <a onclick="redirectToMarketplace()" href="#marketplace">
                                                                                                                 Marketplace</a>
                                                                                                         </h6>
                                                                                                         <div
@@ -2146,8 +2139,7 @@
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="sc_services_item_button sc_item_button">
-                                                                                                            <a href="markethome.php"
-                                                                                                                class="sc_services_item_more_link">
+                                                                                                            <a onclick="redirectToMarketplace()" href="#marketplace" class="sc_services_item_more_link">
                                                                                                                 <span
                                                                                                                     class="link_text">Read
                                                                                                                     more</span><span
@@ -2157,7 +2149,7 @@
                                                                                                     </div>
                                                                                                 </div><a
                                                                                                     class="sc_services_item_link"
-                                                                                                    href="markethome.php"></a>
+                                                                                                    href="#marketplace"></a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -2173,20 +2165,18 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a
-                                                                                                                href="elevator-network.html">Payment
+                                                                                                            <a onclick="redirectToPaymentSolutions()" href="#payment-solution">Payment
                                                                                                                 Solutions</a>
                                                                                                         </h6>
                                                                                                         <div
                                                                                                             class="sc_services_item_text">
-                                                                                                            <p>Consectetur
-                                                                                                                adipiscing
+                                                                                                            <p> 
+                                                                                                            Access to payment solutions
                                                                                                             </p>
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="sc_services_item_button sc_item_button">
-                                                                                                            <a href="elevator-network.html"
-                                                                                                                class="sc_services_item_more_link">
+                                                                                                            <a onclick="redirectToPaymentSolutions()" href="#payment-solution" class="sc_services_item_more_link">
                                                                                                                 <span
                                                                                                                     class="link_text">Read
                                                                                                                     more</span><span
@@ -2196,7 +2186,7 @@
                                                                                                     </div>
                                                                                                 </div><a
                                                                                                     class="sc_services_item_link"
-                                                                                                    href="elevator-network.html"></a>
+                                                                                                    href="#payment-solution"></a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -3351,17 +3341,13 @@
                                                                                                     class="fas fa-minus"></i></span>
                                                                                         </span>
                                                                                         <a class="elementor-accordion-title"
-                                                                                            href="agro-services.html">Adipiscing
-                                                                                            elit, sed do eiusmod?</a>
+                                                                                            href="agro-services.html">Sustainable Agriculture</a>
                                                                                     </div>
                                                                                     <div id="elementor-tab-content-1081"
                                                                                         class="elementor-tab-content elementor-clearfix"
                                                                                         data-tab="1" role="tabpanel"
                                                                                         aria-labelledby="elementor-tab-title-1081">
-                                                                                        <p>Sed do eiusmod tempor
-                                                                                            incididunt ut labore et
-                                                                                            dolore magna aliqua. Ut enim
-                                                                                            ad minim.</p>
+                                                                                        <p>Ecoagro emphasizes sustainable agriculture, which involves practices that maintain or enhance soil quality, conserve water, and minimize the use of synthetic chemicals.</p>
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="elementor-accordion-item">
@@ -3381,17 +3367,13 @@
                                                                                                     class="fas fa-minus"></i></span>
                                                                                         </span>
                                                                                         <a class="elementor-accordion-title"
-                                                                                            href="agro-services.html">Consectetur
-                                                                                            adipiscing elit?</a>
+                                                                                            href="agro-services.html">Education and Outreach</a>
                                                                                     </div>
                                                                                     <div id="elementor-tab-content-1082"
                                                                                         class="elementor-tab-content elementor-clearfix"
                                                                                         data-tab="2" role="tabpanel"
                                                                                         aria-labelledby="elementor-tab-title-1082">
-                                                                                        <p>Sed do eiusmod tempor
-                                                                                            incididunt ut labore et
-                                                                                            dolore magna aliqua. Ut enim
-                                                                                            ad minim.</p>
+                                                                                        <p>Ecoagro often engages in education and outreach programs to promote sustainable farming practices within communities.</p>
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="elementor-accordion-item">
@@ -3411,18 +3393,16 @@
                                                                                                     class="fas fa-minus"></i></span>
                                                                                         </span>
                                                                                         <a class="elementor-accordion-title"
-                                                                                            href="agro-services.html">Adipiscing
-                                                                                            elit nunc porta
-                                                                                            fringilla?</a>
+                                                                                            href="#">Local and Global Impact</a>
                                                                                     </div>
                                                                                     <div id="elementor-tab-content-1083"
                                                                                         class="elementor-tab-content elementor-clearfix"
                                                                                         data-tab="3" role="tabpanel"
                                                                                         aria-labelledby="elementor-tab-title-1083">
-                                                                                        <p>Sed do eiusmod tempor
-                                                                                            incididunt ut labore et
-                                                                                            dolore magna aliqua. Ut enim
-                                                                                            ad minim.</p>
+                                                                                        <p>
+                                                                                        Locally, it may help farmers increase their yields and income while reducing environmental harm.
+                                                                                        Globally, sustainable agriculture contributes to addressing food security and climate change.
+                                                                                        </p>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -3893,10 +3873,7 @@
 
 
         </div>
-
-
     </div>
-
 
 
     <script data-cfasync="false" src="js/cloudflare-static-email-decode.min.js"></script>
