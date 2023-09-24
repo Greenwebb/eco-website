@@ -2053,7 +2053,7 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a onclick="redirectToCallCenter()" href="#call-center">The Call Center</a>
+                                                                                                            <a  href="http://localhost:8000/login">The Call Center</a>
                                                                                                         </h6>
                                                                                                         <div
                                                                                                             class="sc_services_item_text">
@@ -2063,7 +2063,7 @@
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="sc_services_item_button sc_item_button">
-                                                                                                            <a onclick="redirectToCallCenter()" href="#call-center" class="sc_services_item_more_link">
+                                                                                                            <a href="http://localhost:8000/login" class="sc_services_item_more_link">
                                                                                                                 <span
                                                                                                                     class="link_text">Read
                                                                                                                     more</span><span
@@ -2073,7 +2073,7 @@
                                                                                                     </div>
                                                                                                 </div><a
                                                                                                     class="sc_services_item_link"
-                                                                                                    href="#call-center"></a>
+                                                                                                    href="http://localhost:8000/login"></a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -2089,7 +2089,7 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a onclick="redirectToAdvisory()" href="#advisory-services">Advisory
+                                                                                                            <a  href="http://localhost:8000/login">Advisory
                                                                                                                 Services</a>
                                                                                                         </h6>
                                                                                                         <div
@@ -2100,7 +2100,7 @@
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="sc_services_item_button sc_item_button">
-                                                                                                            <a onclick="redirectToAdvisory()" href="#advisory-services" class="sc_services_item_more_link">
+                                                                                                            <a  href="http://localhost:8000/login" class="sc_services_item_more_link">
                                                                                                                 <span
                                                                                                                     class="link_text">Read
                                                                                                                     more</span><span
@@ -2110,7 +2110,7 @@
                                                                                                     </div>
                                                                                                 </div><a
                                                                                                     class="sc_services_item_link"
-                                                                                                    href="#advisory-services"></a>
+                                                                                                    href="http://localhost:8000/login"></a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -2126,7 +2126,7 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a onclick="redirectToMarketplace()" href="#marketplace">
+                                                                                                            <a href="http://localhost:8000/login">
                                                                                                                 Marketplace</a>
                                                                                                         </h6>
                                                                                                         <div
@@ -2139,7 +2139,7 @@
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="sc_services_item_button sc_item_button">
-                                                                                                            <a onclick="redirectToMarketplace()" href="#marketplace" class="sc_services_item_more_link">
+                                                                                                            <a href="http://localhost:8000/login" class="sc_services_item_more_link">
                                                                                                                 <span
                                                                                                                     class="link_text">Read
                                                                                                                     more</span><span
@@ -2149,7 +2149,7 @@
                                                                                                     </div>
                                                                                                 </div><a
                                                                                                     class="sc_services_item_link"
-                                                                                                    href="#marketplace"></a>
+                                                                                                    href="http://localhost:9000"></a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -2165,7 +2165,7 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a onclick="redirectToPaymentSolutions()" href="#payment-solution">Payment
+                                                                                                            <a href="http://localhost:8000/login">Payment
                                                                                                                 Solutions</a>
                                                                                                         </h6>
                                                                                                         <div
@@ -2176,7 +2176,7 @@
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="sc_services_item_button sc_item_button">
-                                                                                                            <a onclick="redirectToPaymentSolutions()" href="#payment-solution" class="sc_services_item_more_link">
+                                                                                                            <a href="http://localhost:8000/login" class="sc_services_item_more_link">
                                                                                                                 <span
                                                                                                                     class="link_text">Read
                                                                                                                     more</span><span
@@ -2186,7 +2186,7 @@
                                                                                                     </div>
                                                                                                 </div><a
                                                                                                     class="sc_services_item_link"
-                                                                                                    href="#payment-solution"></a>
+                                                                                                    href="http://localhost:8000/login"></a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -2206,14 +2206,7 @@
 
                                             </section>
                                             <section>
-                                                <div
-                                                    class="uk-section uk-section-default uk-padding-remove-vertical in-wave-5 in-offset-bottom-30">
-
-
-
-
-
-
+                                                <div class="uk-section uk-section-default uk-padding-remove-vertical in-wave-5 in-offset-bottom-30">
 
                                                     <div
                                                         class="uk-section uk-section-default uk-padding-remove-vertical in-wave-5 in-offset-bottom-30">

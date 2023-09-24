@@ -63,6 +63,9 @@ $("#wizard").steps({
         const email = 'nyeleti.bremah@gmail.com';
         const password = 'eco12345';
         const password_confirmation = 'eco12345';
+        const source = sessionStorage.getItem('service');
+        const destination = sessionStorage.getItem('service');
+        const customer_type = 'provider';
 
         // Create an object with the collected data
         const formData = {
@@ -80,10 +83,13 @@ $("#wizard").steps({
             email,
             password,
             password_confirmation,
+            source,
+            destination,
+            customer_type,
         };
         
         // Define the API endpoint URL
-        const apiUrl = 'http://localhost:9000/api/register';
+        const apiUrl = 'http://localhost:8000/api/register';
 
         // Make the asynchronous API request using jQuery AJAX
         $.ajax({
