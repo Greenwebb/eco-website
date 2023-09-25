@@ -55,10 +55,16 @@
                             <h3>Personal</h3>
                             <section style="color:white">
                                 <h5 class="step-heading"> A Little bit more about yourself </h5>
-                                <div class="row">
+                                <div style="padding:4%">
                                     <div class="form-group">
                                         <label for="fullname" class="sr-only">Name</label>
                                         <input type="text" name="fullname" id="fullname" class="form-control" placeholder="Fullnames" required>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="form-group">
+                                        <label for="fullname" class="sr-only">Email</label>
+                                        <input type="text" name="email" id="email" class="form-control" placeholder="Your Email" required>
                                     </div>
                                     <div class="form-group">
                                         <label for="phoneNumber" class="sr-only">Phone Number</label>
@@ -156,7 +162,7 @@
                                     </div>
                                 </div>
                             </section>
-                            <h3>Confirm</h3>
+                            <!-- <h3>Confirm</h3>
                             <section style="color:white">
                                 <div class="mb-4"><span class="font-weight-bold">Business selected</span> : <span id="selectedBusiness"></span> </div>
                                 <p style="color:#fff" class="mb-0">Name : <span id="enteredUsername"></span></p>
@@ -175,7 +181,7 @@
                                         <span>I agree to the terms and conditions</span>
                                     </label>
                                 </div>
-                            </section>
+                            </section> -->
                         </div>
                     </main>
                 </center>
