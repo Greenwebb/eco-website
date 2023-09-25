@@ -130,7 +130,7 @@
                                                                 <!-- If yes, display the user's name -->
                                                                 <!-- If not, display "Get Started" -->
                                                                 <script>
-                                                                    const userData = JSON.parse(sessionStorage.getItem('user'));
+                                                                    const userData = JSON.parse(sessionStorage.getItem('authuser'));
                                                                     if (userData && userData.name) {
                                                                         document.write(userData.name);
                                                                     } else {
@@ -140,7 +140,7 @@
                                                             </span>
                                                         </span>
                                                     </a>
-                                                    <a id="showLoginLink" style="display:none" href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                    <a id="showLoginLink" style="display:none" href="http://localhost:8000/login?source=marketplace&destination=marketplace" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                                                         <span class="sc_button_text">
                                                             <span class="sc_button_title">
                                                                 Login

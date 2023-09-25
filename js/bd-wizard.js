@@ -98,6 +98,7 @@ $("#wizard").steps({
             contentType: 'application/json',
             data: JSON.stringify(formData),
             success: function (response) {
+                // console.log(response);
                 // Handle the response data here
                 // sessionStorage.clear(); // Clear session data after submission
                 // alert('Form successfully submitted!');
