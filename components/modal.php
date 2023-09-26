@@ -26,7 +26,7 @@
                                     </div>
                                     <div class="purpose-radio">
                                         <input type="radio" name="user_type" id="agronomists"
-                                            class="purpose-radio-input" value="Agronomists">
+                                            class="purpose-radio-input" value="agronomist">
                                         <label for="agronomists" class="purpose-radio-label">
                                             <span class="label-icon">
                                                 <img src="images/2.svg" alt="agronomists"
@@ -39,7 +39,7 @@
                                     </div>
                                     <div class="purpose-radio">
                                         <input type="radio" name="user_type" id="web-design" class="purpose-radio-input"
-                                            value="Guest">
+                                            value="guest">
                                         <label for="web-design" class="purpose-radio-label">
                                             <span class="label-icon">
                                                 <img src="images/3.svg" alt="Guest"
@@ -139,7 +139,7 @@
                                 </div>
                                 <div class="purpose-radios-wrapper">
                                     <div class="purpose-radio">
-                                        <input type="radio" name="purpose" id="call-center" class="purpose-radio-input" value="Call Center">
+                                        <input type="radio" name="purpose" id="call-center" class="purpose-radio-input" value="call center">
                                         <label for="call-center" class="purpose-radio-label">
                                             <span class="label-icon" style="color:white">
                                                 <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-headset" viewBox="0 0 16 16">
@@ -150,7 +150,7 @@
                                         </label>
                                     </div>
                                     <div class="purpose-radio">
-                                        <input type="radio" name="purpose" id="payments-solution" class="purpose-radio-input" value="Payments Solutionn">
+                                        <input type="radio" name="purpose" id="payments-solution" class="purpose-radio-input" value="payment solution">
                                         <label for="payments-solution" class="purpose-radio-label">
                                             <span class="label-icon" style="color:white">
                                                 <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-credit-card-2-back-fill" viewBox="0 0 16 16">
