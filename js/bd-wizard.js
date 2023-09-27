@@ -89,7 +89,7 @@ $("#wizard").steps({
         };
         
         // Define the API endpoint URL
-        const apiUrl = 'http://localhost:8000/api/register';
+        const apiUrl = 'http://auth.greenwebbtech.com/api/register';
 
         // Make the asynchronous API request using jQuery AJAX
         $.ajax({
