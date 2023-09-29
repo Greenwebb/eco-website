@@ -89,7 +89,7 @@ $("#wizard").steps({
         };
         
         // Define the API endpoint URL
-        const apiUrl = 'http://localhost:8000/api/register';
+        const apiUrl = 'http://auth.greenwebbtech.com/api/register';
 
         // Make the asynchronous API request using jQuery AJAX
         $.ajax({
@@ -98,6 +98,7 @@ $("#wizard").steps({
             contentType: 'application/json',
             data: JSON.stringify(formData),
             success: function (response) {
+                // console.log(response);
                 // Handle the response data here
                 // sessionStorage.clear(); // Clear session data after submission
                 // alert('Form successfully submitted!');

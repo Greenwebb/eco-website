@@ -10,10 +10,16 @@
                             <h3>Personal</h3>
                             <section style="color:white">
                                 <h5 class="step-heading"> A Little bit more about yourself </h5>
-                                <div class="row">
+                                <div style="padding:4%">
                                     <div class="form-group">
                                         <label for="fullname" class="sr-only">Name</label>
                                         <input type="text" name="fullname" id="fullname" class="form-control" placeholder="Fullnames" required>
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="form-group">
+                                        <label for="fullname" class="sr-only">Email</label>
+                                        <input type="text" name="email" id="email" class="form-control" placeholder="Your Email" required>
                                     </div>
                                     <div class="form-group">
                                         <label for="phoneNumber" class="sr-only">Phone Number</label>
@@ -88,7 +94,7 @@
                                 </div>
                                 <div class="purpose-radios-wrapper">
                                     <div class="purpose-radio">
-                                        <input type="radio" name="purpose" id="call-center" class="purpose-radio-input" value="Call Center">
+                                        <input type="radio" name="purpose" id="call-center" class="purpose-radio-input" value="call center">
                                         <label for="call-center" class="purpose-radio-label">
                                             <span class="label-icon" style="color:white">
                                                 <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-headset" viewBox="0 0 16 16">
@@ -99,7 +105,7 @@
                                         </label>
                                     </div>
                                     <div class="purpose-radio">
-                                        <input type="radio" name="purpose" id="payments-solution" class="purpose-radio-input" value="Payments Solutionn">
+                                        <input type="radio" name="purpose" id="payments-solution" class="purpose-radio-input" value="payment solution">
                                         <label for="payments-solution" class="purpose-radio-label">
                                             <span class="label-icon" style="color:white">
                                                 <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="currentColor" class="bi bi-credit-card-2-back-fill" viewBox="0 0 16 16">
@@ -111,7 +117,7 @@
                                     </div>
                                 </div>
                             </section>
-                            <h3>Confirm</h3>
+                            <!-- <h3>Confirm</h3>
                             <section style="color:white">
                                 <div class="mb-4"><span class="font-weight-bold">Business selected</span> : <span id="selectedBusiness"></span> </div>
                                 <p style="color:#fff" class="mb-0">Name : <span id="enteredUsername"></span></p>
@@ -130,7 +136,7 @@
                                         <span>I agree to the terms and conditions</span>
                                     </label>
                                 </div>
-                            </section>
+                            </section> -->
                         </div>
                     </main>
                 </center>

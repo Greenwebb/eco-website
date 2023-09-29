@@ -25,16 +25,16 @@
                                                             <a href="services.php"><span>Services</span></a>
                                                             <ul class="sub-menu">
                                                                 <li id="menu-item-18280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18280">
-                                                                    <a href="http://localhost:8000/login"><span>The Call Center</span></a>
+                                                                    <a href="http://auth.greenwebbtech.com/login"><span>The Call Center</span></a>
                                                                 </li>
                                                                 <li id="menu-item-18286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18286">
-                                                                    <a href="http://localhost:8000/login"><span>Online Advisory Services</span></a>
+                                                                    <a href="http://auth.greenwebbtech.com/login"><span>Online Advisory Services</span></a>
                                                                 </li>
                                                                 <li id="menu-item-18288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18288">
-                                                                    <a  href="http://localhost:9000"><span>The Marketplace</span></a>
+                                                                    <a  href="http://market.greenwebbtech.com"><span>The Marketplace</span></a>
                                                                 </li>
                                                                 <li id="menu-item-18287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18287">
-                                                                    <a href="http://localhost:8000/login"><span>Ecopay Payment Gateway</span></a>
+                                                                    <a href="http://auth.greenwebbtech.com/login"><span>Ecopay Payment Gateway</span></a>
                                                                 </li>
 
                                                             </ul>
@@ -44,7 +44,7 @@
 
                                                         </li>
                                                         <li id="menu-item-18300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18300">
-                                                            <a href="http://localhost:9000"><span>Marketplace</span></a>
+                                                            <a href="http://market.greenwebbtech.com"><span>Marketplace</span></a>
 
                                                         </li>
                                                         <li id="menu-item-17194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17194">
@@ -140,7 +140,7 @@
                                                         <span class="sc_button_text">
                                                             <span class="sc_button_title">
                                                                 <script>
-                                                                    const userData = JSON.parse(sessionStorage.getItem('user'));
+                                                                    const userData = JSON.parse(sessionStorage.getItem('authuser'));
                                                                     if (userData && userData.name) {
                                                                         document.write(userData.name);
                                                                     } 
