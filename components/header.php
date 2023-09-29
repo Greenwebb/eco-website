@@ -22,7 +22,7 @@
 
                                                         </li>
                                                         <li id="menu-item-17651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17651">
-                                                            <a href="services.php"><span>Our Services</span></a>
+                                                            <a href="services.php"><span>Services</span></a>
                                                             <ul class="sub-menu">
                                                                 <li id="menu-item-18280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18280">
                                                                     <a href="http://localhost:8000/login"><span>The Call Center</span></a>
@@ -40,7 +40,7 @@
                                                             </ul>
                                                         </li>
                                                         <li id="menu-item-18295" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18295">
-                                                            <a href="about.php"><span>About Us</span></a>
+                                                            <a href="about.php"><span>About</span></a>
 
                                                         </li>
                                                         <li id="menu-item-18300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18300">
@@ -57,7 +57,7 @@
                                         <div class="sc_layouts_item elementor-element elementor-element-3fb9c4d sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_search" data-id="3fb9c4d" data-element_type="widget" data-widget_type="trx_sc_layouts_search.default">
                                             <div class="elementor-widget-container">
                                                 <div class="sc_layouts_search">
-                                                    <div class="search_modern">
+                                                    <!-- <div class="search_modern">
                                                         <span class="search_submit"></span>
                                                         <div class="search_wrap scheme_dark">
                                                             <div class="search_header_wrap"><img class="logo_image" src="images/logo-inverse.png" srcset="images/logo-inverse.png 2x" alt="Ecoagro" width="173" height="53">
@@ -72,13 +72,11 @@
                                                             </div>
                                                         </div>
                                                         <div class="search_overlay scheme_dark"></div>
-                                                    </div>
-
-
+                                                    </div> -->
                                                 </div><!-- /.sc_layouts_search -->
                                             </div>
                                         </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-18b55c6 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_cart" data-id="18b55c6" data-element_type="widget" data-widget_type="trx_sc_layouts_cart.default">
+                                        <!-- <div class="sc_layouts_item elementor-element elementor-element-18b55c6 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_cart" data-id="18b55c6" data-element_type="widget" data-widget_type="trx_sc_layouts_cart.default">
                                             <div class="elementor-widget-container">
                                                 <div class="sc_layouts_cart sc_layouts_cart_market_woocommerce">
                                                     <span class="sc_layouts_item_icon sc_layouts_cart_icon sc_icons_type_icons trx_addons_icon-basket"></span>
@@ -99,7 +97,7 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
                                     </div>
                                 </div>
                             </div>
@@ -123,23 +121,33 @@
                                         <div class="sc_layouts_item elementor-element elementor-element-d662b41 sc_fly_static elementor-widget elementor-widget-trx_sc_button" data-id="d662b41" data-element_type="widget" data-widget_type="trx_sc_button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="sc_item_button sc_button_wrap">
-                                                    <a href="#" id="openSideMenu" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                    <a title="Register as a Farmer" href="#" id="openSideMenu" data-bs-toggle="modal" data-bs-target="#staticBackdropFarmer" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                                                         <span class="sc_button_text">
                                                             <span class="sc_button_title">
-                                                                <!-- Check if user data is available in sessionStorage -->
-                                                                <!-- If yes, display the user's name -->
-                                                                <!-- If not, display "Get Started" -->
+                                                            Farmer
+                                                            </span>
+                                                        </span>
+                                                    </a>
+                                                <div class="sc_item_button sc_button_wrap">
+                                                    <a title="Register as an Agronomist" href="#" id="openSideMenu" data-bs-toggle="modal" data-bs-target="#staticBackdropAgronomist" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                        <span class="sc_button_text">
+                                                            <span class="sc_button_title">
+                                                                Agronomist
+                                                            </span>
+                                                        </span>
+                                                    </a>
+                                                    <!-- <a href="#" id="openSideMenu" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                        <span class="sc_button_text">
+                                                            <span class="sc_button_title">
                                                                 <script>
                                                                     const userData = JSON.parse(sessionStorage.getItem('user'));
                                                                     if (userData && userData.name) {
                                                                         document.write(userData.name);
-                                                                    } else {
-                                                                        document.write("Get Started");
-                                                                    }
+                                                                    } 
                                                                 </script>
                                                             </span>
                                                         </span>
-                                                    </a>
+                                                    </a> -->
                                                     <a id="showLoginLink" style="display:none" href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                                                         <span class="sc_button_text">
                                                             <span class="sc_button_title">
@@ -161,7 +169,7 @@
                     <div class="elementor-container elementor-column-gap-no">
                         <div class="elementor-row">
                             <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-20ea2c9 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="20ea2c9" data-element_type="column">
-                                <div class="elementor-column-wrap elementor-element-populated">
+                                <!-- <div class="elementor-column-wrap elementor-element-populated">
                                     <div class="elementor-widget-wrap">
                                         <div class="sc_layouts_item elementor-element elementor-element-703d5de sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="703d5de" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
                                             <div class="elementor-widget-container">
@@ -169,13 +177,13 @@
                                             </div>
                                         </div>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                             <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-89c39a1 sc_layouts_column_align_right sc_layouts_column sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="89c39a1" data-element_type="column">
                                 <div class="elementor-column-wrap elementor-element-populated">
                                     <div class="elementor-widget-wrap">
 
-                                        <div class="sc_layouts_item elementor-element elementor-element-f59f78f sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_search" data-id="f59f78f" data-element_type="widget" data-widget_type="trx_sc_layouts_search.default">
+                                        <!-- <div class="sc_layouts_item elementor-element elementor-element-f59f78f sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_search" data-id="f59f78f" data-element_type="widget" data-widget_type="trx_sc_layouts_search.default">
                                             <div class="elementor-widget-container">
                                                 <div class="sc_layouts_search">
                                                     <div class="search_modern">
@@ -196,10 +204,10 @@
                                                     </div>
 
 
-                                                </div><!-- /.sc_layouts_search -->
+                                                </div>
                                             </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-18b55c6 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_cart" data-id="18b55c6" data-element_type="widget" data-widget_type="trx_sc_layouts_cart.default">
+                                        </div> -->
+                                        <!-- <div class="sc_layouts_item elementor-element elementor-element-18b55c6 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_cart" data-id="18b55c6" data-element_type="widget" data-widget_type="trx_sc_layouts_cart.default">
                                             <div class="elementor-widget-container">
                                                 <div class="sc_layouts_cart sc_layouts_cart_market_woocommerce">
                                                     <span class="sc_layouts_item_icon sc_layouts_cart_icon sc_icons_type_icons trx_addons_icon-basket"></span>
@@ -220,8 +228,8 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
-                                        <div class="sc_layouts_item elementor-element elementor-element-062ccbf sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_menu" data-id="062ccbf" data-element_type="widget" data-widget_type="trx_sc_layouts_menu.default">
+                                        </div> -->
+                                        <!-- <div class="sc_layouts_item elementor-element elementor-element-062ccbf sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_menu" data-id="062ccbf" data-element_type="widget" data-widget_type="trx_sc_layouts_menu.default">
                                             <div class="elementor-widget-container">
                                                 <div class="sc_layouts_iconed_text sc_layouts_menu_mobile_button_burger sc_layouts_menu_mobile_button without_menu">
                                                     <a class="sc_layouts_item_link sc_layouts_iconed_text_link" href="#">
@@ -229,7 +237,7 @@
                                                     </a>
                                                 </div>
                                             </div>
-                                        </div>
+                                        </div> -->
 
                                         <div class="sc_layouts_item elementor-element elementor-element-feaea9d sc_layouts_hide_on_mobile sc_fly_static elementor-widget elementor-widget-trx_sc_button" data-id="feaea9d" data-element_type="widget" data-widget_type="trx_sc_button.default">
                                             <div class="elementor-widget-container">
