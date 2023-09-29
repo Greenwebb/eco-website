@@ -5,15 +5,19 @@
 
             <div class="modal-body"><button type="button" class="btn-close" style="position: fixed; right: 3.5rem;" data-bs-dismiss="modal" aria-label="Close"></button>
                 <center> 
-                    <main class="m-auto p-2 mw-100"></main>
+                    <main class="m-auto mw-100"></main>
                         <div id="wizard">
                             <h3>Personal</h3>
                             <section style="color:white">
                                 <h5 class="step-heading"> A Little bit more about yourself </h5>
-                                <div style="padding:4%">
+                                <div class="row">
                                     <div class="form-group">
-                                        <label for="fullname" class="sr-only">Name</label>
-                                        <input type="text" name="fullname" id="fullname" class="form-control" placeholder="Fullnames" required>
+                                        <label for="firstname" class="sr-only">First Name</label>
+                                        <input type="text" name="firstname" id="firstname" class="form-control" placeholder="First Name" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="lastname" class="sr-only">Last Name</label>
+                                        <input type="tel" name="firstname" id="lastname" class="form-control" placeholder="Last Name">
                                     </div>
                                 </div>
                                 <div class="row">
@@ -61,6 +65,32 @@
                                         <label for="employement" class="sr-only">Employement Status</label>
                                         <input type="text" name="employement" id="employement" class="form-control"
                                             placeholder="Are you currently in gainful employement">
+                                    </div>
+                                </div>
+                            </section>
+                            <h3>Upload Documents</h3>
+                            <section style="color:white">
+                                <h5 class="step-heading"> Upload any relevant documents (NRC) </h5>
+                                <div class="row">
+                                    <div class="form-group">
+                                        <label for="national_doc" class="sr-only">National Documents</label>
+                                        <input type="file" name="national_doc" id="national_doc" class="form-control" placeholder="Your Email" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="educational_doc" class="sr-only">Educational Documents</label>
+                                        <input type="file" name="educational_doc" id="educational_doc" class="form-control"
+                                            placeholder="Last Name">
+                                    </div>
+                                </div>
+                                <div class="row">
+                                    <div class="form-group">
+                                        <label for="legal_doc" class="sr-only">Legal Documents</label>
+                                        <input type="file" name="legal_doc" id="legal_doc" class="form-control" placeholder="Your Email" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="qualification_doc" class="sr-only">Qualification/Awards</label>
+                                        <input type="file" name="qualification_doc" id="qualification_doc" class="form-control"
+                                            placeholder="Phone number">
                                     </div>
                                 </div>
                             </section>

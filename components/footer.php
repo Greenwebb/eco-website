@@ -319,5 +319,6 @@
                 </div>
             </footer><!-- /.footer_wrap -->
 <?php include 'components/modal.php' ?>
+<?php include 'components/agronomist.php' ?>
 <script src="script/routes.js"></script>
 <script src="script/main.js"></script>
