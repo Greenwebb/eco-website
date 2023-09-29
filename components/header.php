@@ -121,7 +121,8 @@
                                         <div class="sc_layouts_item elementor-element elementor-element-d662b41 sc_fly_static elementor-widget elementor-widget-trx_sc_button" data-id="d662b41" data-element_type="widget" data-widget_type="trx_sc_button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="sc_item_button sc_button_wrap">
-                                                    <a title="Register as a Farmer" href="#" id="openSideMenu" data-bs-toggle="modal" data-bs-target="#staticBackdropFarmer" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                <!-- data-bs-toggle="modal" data-bs-target="#staticBackdropFarmer" -->
+                                                    <a title="Register as a Farmer" href="http://auth.greenwebbtech.com/register?source=website&destination=website&type=farmer" id="openSideMenu"  class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                                                         <span class="sc_button_text">
                                                             <span class="sc_button_title">
                                                             Farmer
@@ -129,7 +130,7 @@
                                                         </span>
                                                     </a>
                                                 <div class="sc_item_button sc_button_wrap">
-                                                    <a title="Register as an Agronomist" href="#" id="openSideMenu" data-bs-toggle="modal" data-bs-target="#staticBackdropAgronomist" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                    <a title="Register as an Agronomist" href="http://auth.greenwebbtech.com/register?source=website&destination=website&type=agronomist" id="openSideMenu" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                                                         <span class="sc_button_text">
                                                             <span class="sc_button_title">
                                                                 Agronomist
