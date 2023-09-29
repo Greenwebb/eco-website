@@ -4447,6 +4447,8 @@
     <script type="text/javascript" src="js/js-frontend.min.js" id="elementor-frontend-js"></script>
     <script type="text/javascript" src="js/js-preloaded-modules.min.js" id="preloaded-modules-js"></script>
     <script>
+       
+
     // Get all slider items
     // Variables
     const slider = document.querySelector('.uk-slider-container');

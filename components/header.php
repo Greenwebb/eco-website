@@ -120,43 +120,46 @@
                                         
                                         <div class="sc_layouts_item elementor-element elementor-element-d662b41 sc_fly_static elementor-widget elementor-widget-trx_sc_button" data-id="d662b41" data-element_type="widget" data-widget_type="trx_sc_button.default">
                                             <div class="elementor-widget-container">
-                                                <div class="sc_item_button sc_button_wrap">
+                                                <div class="sc_item_button sc_button_wrap" style="width: 100%;">
                                                 <!-- data-bs-toggle="modal" data-bs-target="#staticBackdropFarmer" -->
-                                                    <a title="Register as a Farmer" href="http://auth.greenwebbtech.com/register?source=website&destination=website&type=farmer" id="openSideMenu"  class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                    <a id="as_farmer" title="Register as a Farmer" href="http://auth.greenwebbtech.com/register?source=website&destination=website&type=farmer"  class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                                                         <span class="sc_button_text">
                                                             <span class="sc_button_title">
                                                             Farmer
                                                             </span>
                                                         </span>
                                                     </a>
-                                                <div class="sc_item_button sc_button_wrap">
-                                                    <a title="Register as an Agronomist" href="http://auth.greenwebbtech.com/register?source=website&destination=website&type=agronomist" id="openSideMenu" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                    <a id="as_agronomist" title="Register as an Agronomist" href="http://auth.greenwebbtech.com/register?source=website&destination=website&type=agronomist"  class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                                                         <span class="sc_button_text">
                                                             <span class="sc_button_title">
                                                                 Agronomist
                                                             </span>
                                                         </span>
                                                     </a>
-                                                    <!-- <a href="#" id="openSideMenu" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
-                                                        <span class="sc_button_text">
-                                                            <span class="sc_button_title">
-                                                                <script>
-                                                                    const userData = JSON.parse(sessionStorage.getItem('authuser'));
-                                                                    if (userData && userData.name) {
-                                                                        document.write(userData.name);
-                                                                    } 
-                                                                </script>
+                                                    <!-- <a id="as_agronomist" title="Register as an Agronomist" href="http://auth.greenwebbtech.com/register?source=website&destination=website&type=agronomist"  class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                            <span class="sc_button_text">
+                                                                <span class="sc_button_title">
+                                                                    Login
+                                                                </span>
                                                             </span>
-                                                        </span>
-                                                    </a> -->
-                                                    <a id="showLoginLink" style="display:none" href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
-                                                        <span class="sc_button_text">
-                                                            <span class="sc_button_title">
-                                                                Login
+                                                        </a> -->
+                                                    <div class="sc_item_button sc_button_wrap">
+                                                       
+                                                        <a href="#" style="display: none;" id="profile_details" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                            <span class="sc_button_text">
+                                                                <span class="sc_button_title">
+                                                                    <span id="auth_username"></span>
+                                                                </span>
                                                             </span>
-                                                        </span>
-                                                    </a>
-                                                </div>
+                                                        </a>
+                                                        <a id="showLoginLink" style="display:none" href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                            <span class="sc_button_text">
+                                                                <span class="sc_button_title">
+                                                                    Login
+                                                                </span>
+                                                            </span>
+                                                        </a>
+                                                    </div>
                                             </div>
                                         </div>
                                     </div>
