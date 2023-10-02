@@ -7,32 +7,32 @@ if (userData) {
     // sessionStorage.setItem('token', csrf);
     sessionStorage.setItem('user', JSON.stringify(user));
     const profileDetailsLink = document.getElementById('profile_details');
-    const asFarmerLink = document.getElementById('as_farmer');
-    const asAgronomistLink = document.getElementById('as_agronomist');
+    const loginBtn = document.getElementById('showLoginLink');
+    const register_now = document.getElementById('register_now');
     const username = document.getElementById('auth_username');
     
     // Check if the link element exists
     if (profileDetailsLink) {
         // Change its display property to "block"
         profileDetailsLink.style.display = 'block';
-        asFarmerLink.style.display = 'none';
-        asAgronomistLink.style.display = 'none';
+        register_now.style.display = 'none';
+        loginBtn.style.display = 'none';
         username.textContent = user.name;
     }
 
 }else{
     const usr = JSON.parse(sessionStorage.getItem('user'));
     const profileDetailsLink = document.getElementById('profile_details');
-    const asFarmerLink = document.getElementById('as_farmer');
-    const asAgronomistLink = document.getElementById('as_agronomist');
+    const loginBtn = document.getElementById('showLoginLink');
+    const register_now = document.getElementById('register_now');
     const username = document.getElementById('auth_username');
     
     // Check if the link element exists
     if (profileDetailsLink && usr) {
         // Change its display property to "block"
         profileDetailsLink.style.display = 'block';
-        asFarmerLink.style.display = 'none';
-        asAgronomistLink.style.display = 'none';
+        register_now.style.display = 'none';
+        loginBtn.style.display = 'none';
         username.textContent = usr.name;
     }
 }

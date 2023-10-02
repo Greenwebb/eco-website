@@ -124,14 +124,7 @@
                                                 <!-- data-bs-toggle="modal" data-bs-target="#staticBackdropFarmer" -->
                                                 
                                                     <div class="sc_item_button sc_button_wrap">
-                                                    <!-- <a id="as_farmer" title="Register as a Farmer" href="http://auth.greenwebbtech.com/register?source=website&destination=website&type=farmer"  class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
-                                                        <span class="sc_button_text">
-                                                            <span class="sc_button_title">
-                                                            Farmer
-                                                            </span>
-                                                        </span>
-                                                    </a> -->
-                                                    <a id="as_agronomist" title="Register as an Agronomist" href="http://auth.greenwebbtech.com/register?source=website&destination=website&type=agronomist"  class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                    <a id="register_now" title="Register as an Agronomist" href="http://auth.greenwebbtech.com/register?source=website&destination=website&type=agronomist"  class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                                                         <span class="sc_button_text">
                                                             <span class="sc_button_title">
                                                                 Create an Account
