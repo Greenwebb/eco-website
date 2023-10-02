@@ -28,7 +28,7 @@ if (userData) {
     const username = document.getElementById('auth_username');
     
     // Check if the link element exists
-    if (profileDetailsLink) {
+    if (profileDetailsLink && usr) {
         // Change its display property to "block"
         profileDetailsLink.style.display = 'block';
         asFarmerLink.style.display = 'none';

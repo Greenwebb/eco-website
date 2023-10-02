@@ -321,5 +321,67 @@
 
 <?php include 'components/modal.php' ?>
 <?php include 'components/agronomist.php' ?>
+<div id="myModal" class="modal">
+  <div class="modal-content">
+    <span class="close-modal" id="closeModal">&times;</span>
+    <div class="items-row">
+        <div class="item1">
+            <h4>Register as an Agronomist</h4>
+            <img src="images/1.jpg" width="54%">
+            <a href="http://auth.greenwebbtech.com/register?source=website&destination=website&type=agronomist" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                <span class="sc_button_text">
+                    <span class="sc_button_title">
+                    Agronomist
+                    </span>
+                </span>
+            </a>
+        </div>
+        <div class="item2">
+            <h4>Register as Farmer</h4>
+            <img src="images/5.jpg" width="50%">
+            <a href="http://auth.greenwebbtech.com/register?source=website&destination=website&type=farmer" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+            <span class="sc_button_text">
+                <span class="sc_button_title">
+                Farmer
+                </span>
+            </span>
+            </a>
+        </div>
+    </div>
+  </div>
+</div>
+
+
+<script>
+    // Get the Agronomist link and the modal elements
+const agronomistLink = document.getElementById('as_agronomist');
+const modal = document.getElementById('myModal');
+const closeModalButton = document.getElementById('closeModal');
+
+// Function to display the modal
+function openModal() {
+  modal.style.display = 'block';
+}
+
+// Function to close the modal
+function closeModal() {
+  modal.style.display = 'none';
+}
+
+// Event listeners
+agronomistLink.addEventListener('click', function (e) {
+  e.preventDefault(); // Prevent the default link behavior
+  openModal();
+});
+
+closeModalButton.addEventListener('click', closeModal);
+
+// Close the modal if the user clicks outside of it
+window.addEventListener('click', function (e) {
+  if (e.target === modal) {
+    closeModal();
+  }
+});
+</script>
 <script src="script/main.js"></script>
 <script src="script/routes.js"></script>

@@ -19,6 +19,60 @@
  
 
     <style type="text/css">
+/* Styles for the modal */
+.modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  z-index: 1000;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-content {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.close-modal {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 24px;
+  cursor: pointer;
+}
+.items-row {
+    margin-top: 10%;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.item2{
+    border-left: 1px solid #DDDAD3 ;
+}
+.item1,
+.item2 {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center content vertically */
+}
+
+/* Make the images responsive */
+.item1 img,
+.item2 img {
+  max-width: 100%; /* Ensure the image doesn't exceed its container's width */
+  height: auto; /* Maintain aspect ratio */
+}
+
+
+
          img.wp-smiley,
         img.emoji {
         display: inline !important;
@@ -2206,10 +2260,9 @@
 
                                             </section>
                                             <section>
-                                                <div class="uk-section uk-section-default uk-padding-remove-vertical in-wave-5 in-offset-bottom-30">
+                                                <!-- <div class="uk-section uk-section-default uk-padding-remove-vertical in-wave-5 in-offset-bottom-30">
 
-                                                    <div
-                                                        class="uk-section uk-section-default uk-padding-remove-vertical in-wave-5 in-offset-bottom-30">
+                                                    <div class="uk-section uk-section-default uk-padding-remove-vertical in-wave-5 in-offset-bottom-30">
                                                         <div class="uk-container">
                                                             <div class="uk-grid">
 
@@ -2289,11 +2342,7 @@
                                                         </div>
                                                     </div>
                                                     <hr style="margin: 1.7857em 0 !important;">
-
-
-
-
-                                                </div>
+                                                </div> -->
                                             </section>
                                             <section
                                                 class="elementor-section elementor-top-section elementor-element elementor-element-13d55f9 elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static"

@@ -1512,3 +1512,8 @@ background: url('https://nsansawellness.com/uploads/sites/304/2022/…-woman-tal
 			</section> --}}
 </div>
 @include('layouts.footer')
+
+display: flex; /* Use flexbox for centering */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  text-align: center; /* Center the content inside the modal */
