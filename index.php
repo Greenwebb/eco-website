@@ -2107,7 +2107,7 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a  href="http://localhost/eco-auth/eco-auth/login?source=website&destination=call-center">Call Center</a>
+                                                                                                            <a  href="https://greenwebbtech.com/auth/login?source=website&destination=call-center">Call Center</a>
                                                                                                         </h6>
                                                                                                         <div
                                                                                                             class="sc_services_item_text">
@@ -2117,18 +2117,18 @@
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="sc_services_item_button sc_item_button">
-                                                                                                            <!-- <a href="http://auth.greenwebbtech.com/login" class="sc_services_item_more_link">
-                                                                                                                <span
-                                                                                                                    class="link_text">Read
-                                                                                                                    more</span><span
-                                                                                                                    class="link_icon"></span>
-                                                                                                            </a> -->
-                                                                                                             <a href="http://localhost/eco-auth/eco-auth/login?source=website&destination=call-center" class="sc_services_item_more_link">
+                                                                                                            <a href="https://greenwebbtech.com/auth/login?source=website&destination=call-center" class="sc_services_item_more_link">
                                                                                                                 <span
                                                                                                                     class="link_text">Read
                                                                                                                     more</span><span
                                                                                                                     class="link_icon"></span>
                                                                                                             </a>
+                                                                                                             <!-- <a href="http://localhost/eco-auth/eco-auth/login?source=website&destination=call-center" class="sc_services_item_more_link">
+                                                                                                                <span
+                                                                                                                    class="link_text">Read
+                                                                                                                    more</span><span
+                                                                                                                    class="link_icon"></span>
+                                                                                                            </a> -->
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
@@ -2147,7 +2147,7 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a  href="http://localhost/eco-auth/eco-auth/login?source=website&destination=call-center">Advisory
+                                                                                                            <a  href="https://greenwebbtech.com/auth/login?source=website&destination=website">Advisory
                                                                                                                 Services</a>
                                                                                                         </h6>
                                                                                                         <div
@@ -2158,7 +2158,7 @@
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="sc_services_item_button sc_item_button">
-                                                                                                            <a href="http://localhost/eco-auth/eco-auth/login?source=website&destination=call-center" class="sc_services_item_more_link">
+                                                                                                            <a href="https://greenwebbtech.com/auth/login?source=website&destination=website" class="sc_services_item_more_link">
                                                                                                                 <span
                                                                                                                     class="link_text">Read
                                                                                                                     more</span><span
@@ -2168,7 +2168,7 @@
                                                                                                     </div>
                                                                                                 </div><a
                                                                                                     class="sc_services_item_link"
-                                                                                                    href="http://localhost/eco-auth/eco-auth/login?source=website&destination=call-center"></a>
+                                                                                                    href="https://greenwebbtech.com/auth/login?source=website&destination=website"></a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -2184,7 +2184,7 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a href="http://localhost/eco-auth/eco-auth/login?source=website&destination=marketplace">
+                                                                                                            <a href="https://greenwebbtech.com/auth/login?source=website&destination=marketplace">
                                                                                                                 Marketplace</a>
                                                                                                         </h6>
                                                                                                         <div
@@ -2197,7 +2197,7 @@
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="sc_services_item_button sc_item_button">
-                                                                                                            <a href="http://localhost/eco-auth/eco-auth/login?source=website&destination=marketplace" class="sc_services_item_more_link">
+                                                                                                            <a href="https://greenwebbtech.com/auth/login?source=website&destination=marketplace" class="sc_services_item_more_link">
                                                                                                                 <span
                                                                                                                     class="link_text">Read
                                                                                                                     more</span><span
@@ -2207,7 +2207,7 @@
                                                                                                     </div>
                                                                                                 </div><a
                                                                                                     class="sc_services_item_link"
-                                                                                                    href="http://localhost/eco-auth/eco-auth/login?source=website&destination=marketplace"></a>
+                                                                                                    href="https://greenwebbtech.com/auth/login?source=website&destination=marketplace"></a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -2223,7 +2223,7 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a href="http://auth.greenwebbtech.com/login">Payment
+                                                                                                            <a href="https://greenwebbtech.com/auth/login?source=website&destination=website">Payment
                                                                                                                 Solutions</a>
                                                                                                         </h6>
                                                                                                         <div
@@ -2234,7 +2234,7 @@
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="sc_services_item_button sc_item_button">
-                                                                                                            <a href="http://auth.greenwebbtech.com/login" class="sc_services_item_more_link">
+                                                                                                            <a href="https://greenwebbtech.com/auth/login?source=website&destination=website" class="sc_services_item_more_link">
                                                                                                                 <span
                                                                                                                     class="link_text">Read
                                                                                                                     more</span><span
@@ -2244,7 +2244,7 @@
                                                                                                     </div>
                                                                                                 </div><a
                                                                                                     class="sc_services_item_link"
-                                                                                                    href="http://auth.greenwebbtech.com/login"></a>
+                                                                                                    href="https://greenwebbtech.com/auth/login?source=website&destination=website"></a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>

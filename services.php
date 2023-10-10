@@ -5993,7 +5993,7 @@
                                                                                         <div class="elementor-widget-container">
 
                                                                                             <div class="banner-widget banner-widget-type-2">
-                                                                                                <a href="http://auth.greenwebbtech.com/login" class="banner-inner" target="_blank"><span class="banner-bg"></span><span class="banner-overlay"></span><span class="banner-content"><span class="additional-title">Call Center</span><span class="overlay-title">Call Center</span></span></a>
+                                                                                                <a href="https://greenwebbtech.com/auth/login?source=website&destination=call-center" class="banner-inner" target="_blank"><span class="banner-bg"></span><span class="banner-overlay"></span><span class="banner-content"><span class="additional-title">Call Center</span><span class="overlay-title">Call Center</span></span></a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -6007,7 +6007,7 @@
                                                                                         <div class="elementor-widget-container">
 
                                                                                             <div class="banner-widget banner-widget-type-2">
-                                                                                                <a href="http://auth.greenwebbtech.com/login" class="banner-inner" target="_blank"><span class="banner-bg"></span><span class="banner-overlay"></span><span class="banner-content"><span class="additional-title">Advisory Services</span><span class="overlay-title">Advisory Services</span></span></a>
+                                                                                                <a href="https://greenwebbtech.com/auth/login?source=website&destination=website" class="banner-inner" target="_blank"><span class="banner-bg"></span><span class="banner-overlay"></span><span class="banner-content"><span class="additional-title">Advisory Services</span><span class="overlay-title">Advisory Services</span></span></a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -6021,7 +6021,7 @@
                                                                                         <div class="elementor-widget-container">
 
                                                                                             <div class="banner-widget banner-widget-type-2">
-                                                                                                <a href="http://market.greenwebbtech.com" class="banner-inner" target="_blank"><span class="banner-bg"></span><span class="banner-overlay"></span><span class="banner-content"><span class="additional-title">Marketplace</span><span class="overlay-title">Marketplace</span></span></a>
+                                                                                                <a href="https://greenwebbtech.com/auth/login?source=website&destination=marketplace" class="banner-inner" target="_blank"><span class="banner-bg"></span><span class="banner-overlay"></span><span class="banner-content"><span class="additional-title">Marketplace</span><span class="overlay-title">Marketplace</span></span></a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -6035,7 +6035,7 @@
                                                                                         <div class="elementor-widget-container">
 
                                                                                             <div class="banner-widget banner-widget-type-2">
-                                                                                                <a href="modern-agro-machinery.html" class="banner-inner" target="_blank"><span class="banner-bg"></span><span class="banner-overlay"></span><span class="banner-content"><span class="additional-title">
+                                                                                                <a href="https://greenwebbtech.com/auth/login?source=website&destination=website" class="banner-inner" target="_blank"><span class="banner-bg"></span><span class="banner-overlay"></span><span class="banner-content"><span class="additional-title">
                                                                                                             Payment Solutions</span><span class="overlay-title">Payment Gateway</span></span></a>
                                                                                             </div>
                                                                                         </div>
