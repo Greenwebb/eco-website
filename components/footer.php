@@ -328,7 +328,8 @@
         <div class="item1">
             <h4>Register as an Agronomist</h4>
             <img src="images/1.jpg" width="54%">
-            <a href="http://auth.greenwebbtech.com/register?source=website&destination=website&type=agronomist" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+            <!-- <a href="http://auth.greenwebbtech.com/register?source=website&destination=website&type=agronomist" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2"> -->
+            <a href="http://localhost/eco-auth/eco-auth/register?source=website&destination=website&type=agronomist" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                 <span class="sc_button_text">
                     <span class="sc_button_title">
                     Agronomist
@@ -339,7 +340,8 @@
         <div class="item2">
             <h4>Register as Farmer</h4>
             <img src="images/5.jpg" width="50%">
-            <a href="http://auth.greenwebbtech.com/register?source=website&destination=website&type=farmer" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+            <!-- <a href="http://auth.greenwebbtech.com/register?source=website&destination=website&type=farmer" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2"> -->
+            <a href="http://localhost/eco-auth/eco-auth/register?source=website&destination=website&type=farmer" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
             <span class="sc_button_text">
                 <span class="sc_button_title">
                 Farmer
@@ -354,7 +356,7 @@
 
 <script>
     // Get the Agronomist link and the modal elements
-const agronomistLink = document.getElementById('as_agronomist');
+const registerNow = document.getElementById('register_now');
 const modal = document.getElementById('myModal');
 const closeModalButton = document.getElementById('closeModal');
 
@@ -369,7 +371,7 @@ function closeModal() {
 }
 
 // Event listeners
-agronomistLink.addEventListener('click', function (e) {
+registerNow.addEventListener('click', function (e) {
   e.preventDefault(); // Prevent the default link behavior
   openModal();
 });

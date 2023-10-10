@@ -121,16 +121,15 @@
                                         <div class="sc_layouts_item elementor-element elementor-element-d662b41 sc_fly_static elementor-widget elementor-widget-trx_sc_button" data-id="d662b41" data-element_type="widget" data-widget_type="trx_sc_button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="sc_item_button sc_button_wrap" style="width: 100%;">
-                                                <!-- data-bs-toggle="modal" data-bs-target="#staticBackdropFarmer" -->
-                                                
+                                                <!-- http://auth.greenwebbtech.com/register?source=website&destination=website&type=agronomist -->
                                                     <div class="sc_item_button sc_button_wrap">
-                                                    <a id="register_now" title="Register as an Agronomist" href="http://auth.greenwebbtech.com/register?source=website&destination=website&type=agronomist"  class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
-                                                        <span class="sc_button_text">
-                                                            <span class="sc_button_title">
-                                                                Create an Account
+                                                        <a id="register_now" title="Register as an Agronomist" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2 registerMyAccount">
+                                                            <span class="sc_button_text">
+                                                                <span class="sc_button_title">
+                                                                    Create an Account
+                                                                </span>
                                                             </span>
-                                                        </span>
-                                                    </a>
+                                                        </a>
                                                         <a href="#" style="display: none;" id="profile_details" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                                                             <span class="sc_button_text">
                                                                 <span class="sc_button_title">
@@ -138,7 +137,8 @@
                                                                 </span>
                                                             </span>
                                                         </a>
-                                                        <a id="showLoginLink" href="http://auth.greenwebbtech.com/login?source=website&destination=website" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                        <!-- <a id="showLoginLink" href="http://auth.greenwebbtech.com/login?source=website&destination=website" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2"> -->
+                                                        <a id="showLoginLink" href="http://localhost/eco-auth/eco-auth/login?source=website&destination=website" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                                                             <span class="sc_button_text">
                                                                 <span class="sc_button_title">
                                                                     Login
