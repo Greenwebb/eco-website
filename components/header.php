@@ -137,7 +137,7 @@
                                                                 </span>
                                                             </span>
                                                         </a>
-                                                        <a id="showLoginLink" href="https://auth.greenwebbtech.com/login?source=website&destination=website" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                        <a id="showLoginLink" href="https://auth.greenwebbtech.com/login?source=website&destination=website" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                                                         <!-- <a id="showLoginLink" href="http://localhost/eco-auth/eco-auth/login?source=website&destination=website" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2"> -->
                                                             <span class="sc_button_text">
                                                                 <span class="sc_button_title">
