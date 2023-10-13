@@ -2600,7 +2600,7 @@
         }
 
         .page-title-container .page-title-bg {
-            background-image: url("images/bg.webp");
+            background-image: url("images/site/3.jpg");
         }
 
         .page-title-container h1.page-title,
@@ -5978,12 +5978,12 @@
                                                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-725383cb" data-id="725383cb" data-element_type="column">
                                                     <div class="elementor-column-wrap elementor-element-populated">
                                                         <div class="elementor-widget-wrap">
-                                                            <div class="elementor-element elementor-element-3fab1ea8 elementor-widget elementor-widget-agrarium_special_text" data-id="3fab1ea8" data-element_type="widget" data-widget_type="agrarium_special_text.default">
-                                                                <div class="elementor-widget-container">
+                                                            <!-- <div class="elementor-element elementor-element-3fab1ea8 elementor-widget elementor-widget-agrarium_special_text" data-id="3fab1ea8" data-element_type="widget" data-widget_type="agrarium_special_text.default">
+                                                                <div class="">
                                                                     <div class="special-text">Ecoagro</div>
                                                                 </div>
-                                                            </div>
-                                                            <section class="elementor-section elementor-inner-section elementor-element elementor-element-27e45935 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="27e45935" data-element_type="section" data-settings='{"animation":"none"}'>
+                                                            </div> -->
+                                                            <section style="margin-top: -10%;" class="elementor-section elementor-inner-section elementor-element elementor-element-27e45935 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="27e45935" data-element_type="section" data-settings='{"animation":"none"}'>
                                                                 <div class="elementor-container elementor-column-gap-extended">
                                                                     <div class="elementor-row">
                                                                         <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-4f106a13" data-id="4f106a13" data-element_type="column">
@@ -6158,7 +6158,7 @@
                                             </div>
                                         </div>
                                     </section>
-                                    <section class="elementor-section elementor-top-section elementor-element elementor-element-79d6658 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="79d6658" data-element_type="section" data-settings='{"stretch_section":"section-stretched"}'>
+                                    <section style="padding-bottom:4%;" class="elementor-section elementor-top-section elementor-element elementor-element-79d6658 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="79d6658" data-element_type="section" data-settings='{"stretch_section":"section-stretched"}'>
                                         <div class="elementor-container elementor-column-gap-extended">
                                             <div class="elementor-row">
                                                 <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7ff58a0" data-id="7ff58a0" data-element_type="column" data-settings='{"animation":"none"}'>
@@ -6168,12 +6168,18 @@
                                                                 <div class="elementor-widget-container">
 
                                                                     <div class="banner-widget banner-widget-type-2">
-                                                                        <span class="banner-inner"><span class="banner-bg"></span><span class="banner-overlay"></span><span class="banner-content"><span class="banner-title">Awesome harvest we
-                                                                                    grow last 10 years</span><span class="banner-description">Wrasse
-                                                                                    climbing gourami amur pike Arctic char,
-                                                                                    steelhead sprat sea lamprey grunion.
-                                                                                    Walleye poolfish sand goby</span><span class="banner-button underline"><a class="agrarium-button" href="modern-agro-machinery.html" target="_blank">Read
-                                                                                        more</a></span></span></span>
+                                                                        <span class="banner-inner">
+                                                                            <span class="banner-bg"></span><span class="banner-overlay"></span><span class="banner-content"><span class="banner-title">
+                                                                                Skilled Agricultural Experts</span><span class="banner-description">
+                                                                                Our team of experts possess in-depth knowledge of various farming 
+                                                                                practices, crop cultivation, livestock management, 
+                                                                                and agricultural technologies. 
+                                                                                </span>
+                                                                                    <span class="banner-button underline">
+                                                                                        <!-- <a class="agrarium-button" href="modern-agro-machinery.html" target="_blank">
+                                                                                            Read more
+                                                                                        </a> -->
+                                                                                    </span></span></span>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -6187,12 +6193,22 @@
                                                                 <div class="elementor-widget-container">
 
                                                                     <div class="banner-widget banner-widget-type-2">
-                                                                        <span class="banner-inner"><span class="banner-bg"></span><span class="banner-overlay"></span><span class="banner-content"><span class="banner-title">The best crop in
-                                                                                    our fertile gardening</span><span class="banner-description">Arctic char,
-                                                                                    steelhead sprat sea lamprey grunion.
-                                                                                    Walleye poolfish sand goby butterfly ray
-                                                                                    stream catfish jewfish</span><span class="banner-button underline"><a class="agrarium-button" href="modern-agro-machinery.html" target="_blank">Read
-                                                                                        more</a></span></span></span>
+                                                                        <span class="banner-inner"><span class="banner-bg"></span><span class="banner-overlay"></span><span class="banner-content"><span class="banner-title">
+                                                                        Offers Job Opportunities
+                                                                                    </span><span class="banner-description">
+                                                                                    Offers a platform for 
+                                                                                    skilled professionals to 
+                                                                                    offer a servive from the 
+                                                                                    comfort of their home. Expand access to a 
+                                                                                    wider network of skilled 
+                                                                                    professionals in 
+                                                                                    Agronomy and 
+                                                                                    Livestock outside your 
+                                                                                    staff compliment
+                                                                                    </span><span class="banner-button underline">
+                                                                                        <!-- <a class="agrarium-button" href="modern-agro-machinery.html" target="_blank">Read
+                                                                                        more</a> -->
+                                                                                    </span></span></span>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -6203,7 +6219,7 @@
                                         </div>
                                     </section>
 
-
+                                    
                                 </div>
                             </div>
                         </div>

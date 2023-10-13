@@ -1736,13 +1736,12 @@
 																		data-widget_type="image.default">
 																		<div class="elementor-widget-container">
 																			<div class="elementor-image">
-																				<img decoding="async"
-																					fetchpriority="high" width="740"
+																				<img decoding="async" style="height: 100vh;"
+																					fetchpriority="high" width="840"
 																					height="636"
-																					src="images/07-custom-img-14-copyright.jpg"
+																					src="images/site/33.jpg"
 																					class="attachment-full size-full"
 																					alt=""
-																					srcset="https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-14-copyright.jpg 740w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-14-copyright-600x516.jpg 600w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-14-copyright-300x258.jpg 300w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-14-copyright-370x318.jpg 370w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-14-copyright-410x352.jpg 410w"
 																					sizes="(max-width: 740px) 100vw, 740px">
 																			</div>
 																		</div>
@@ -1779,31 +1778,7 @@
 																						aria-atomic="true"></p>
 																					<ul></ul>
 																				</div>
-																				<form
-																					action="/contacts/#wpcf7-f1413-p1440-o1"
-																					method="post"
-																					class="wpcf7-form init"
-																					novalidate="novalidate"
-																					data-status="init">
-																					<div style="display: none;">
-																						<input type="hidden"
-																							name="_wpcf7" value="1413">
-																						<input type="hidden"
-																							name="_wpcf7_version"
-																							value="5.6.3">
-																						<input type="hidden"
-																							name="_wpcf7_locale"
-																							value="en_US">
-																						<input type="hidden"
-																							name="_wpcf7_unit_tag"
-																							value="wpcf7-f1413-p1440-o1">
-																						<input type="hidden"
-																							name="_wpcf7_container_post"
-																							value="1440">
-																						<input type="hidden"
-																							name="_wpcf7_posted_data_hash"
-																							value="">
-																					</div>
+																				<form method="post">
 																					<div class="form-style-7">
 																						<div class="columns_wrap">
 																							<div class="column-1_1">
@@ -1881,11 +1856,11 @@
 																						</div>
 																						<p><input type="submit"
 																								value="Get In Touch"
-																								class="wpcf7-form-control has-spinner wpcf7-submit">
+																								class="wpcf7-form-control wpcf7-submit">
 																						</p>
 																					</div>
-																					<div class="wpcf7-response-output"
-																						aria-hidden="true"></div>
+																					<!-- <div class="wpcf7-response-output"
+																						aria-hidden="true"></div> -->
 																				</form>
 																			</div>
 																		</div>

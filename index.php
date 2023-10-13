@@ -2409,10 +2409,10 @@
                                                                                                             fetchpriority="high"
                                                                                                             width="660"
                                                                                                             height="879"
-                                                                                                            src="images/custom-img-9-copyright.jpg"
+                                                                                                            style="height: 60vh;"
+                                                                                                            src="images/site/4.jpg"
                                                                                                             class="attachment-full size-full"
                                                                                                             alt=""
-                                                                                                            srcset="https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-9-copyright.jpg 660w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-9-copyright-600x799.jpg 600w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-9-copyright-225x300.jpg 225w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-9-copyright-370x493.jpg 370w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-9-copyright-410x546.jpg 410w"
                                                                                                             sizes="(max-width: 660px) 100vw, 660px">
                                                                                                     </div>
                                                                                                 </div>
@@ -2452,11 +2452,10 @@
                                                                                                         <img decoding="async"
                                                                                                             width="615"
                                                                                                             height="675"
-                                                                                                            src="images/custom-img-10-copyright.jpg"
+                                                                                                            style="height: 60vh;"
+                                                                                                            src="images/site/1.png"
                                                                                                             class="attachment-full size-full"
-                                                                                                            alt=""
-                                                                                                            srcset="https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-10-copyright.jpg 615w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-10-copyright-600x659.jpg 600w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-10-copyright-273x300.jpg 273w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-10-copyright-370x406.jpg 370w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-10-copyright-410x450.jpg 410w"
-                                                                                                            sizes="(max-width: 615px) 100vw, 615px">
+                                                                                                            alt="" sizes="(max-width: 615px) 100vw, 615px">
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -2561,7 +2560,7 @@
                                                                         data-widget_type="trx_sc_button.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="sc_item_button sc_button_wrap">
-                                                                                <a href="our-services.html"
+                                                                                <a href="services.php"
                                                                                     class="sc_button sc_button_default sc_button_size_normal sc_button_icon_left"><span
                                                                                         class="sc_button_text"><span
                                                                                             class="sc_button_title">Our
@@ -2638,33 +2637,24 @@
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
-                                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-71ac946b sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
+                                                                                <div class="elementor-column  elementor-inner-column elementor-element elementor-element-71ac946b sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
                                                                                     data-id="71ac946b"
                                                                                     data-element_type="column">
-                                                                                    <div
-                                                                                        class="elementor-column-wrap elementor-element-populated">
-                                                                                        <div
-                                                                                            class="elementor-widget-wrap">
+                                                                                    <div class="elementor-column-wrap elementor-element-populated">
+                                                                                        <div class="elementor-widget-wrap">
                                                                                             <div class="elementor-element elementor-element-2b71c7a6 sc_fly_static elementor-widget elementor-widget-trx_sc_title"
                                                                                                 data-id="2b71c7a6"
                                                                                                 data-element_type="widget"
                                                                                                 data-widget_type="trx_sc_title.default">
-                                                                                                <div
-                                                                                                    class="elementor-widget-container">
-                                                                                                    <div
-                                                                                                        class="sc_title color_style_dark sc_title_default">
-                                                                                                        <span
-                                                                                                            class="sc_item_subtitle sc_title_subtitle sc_item_subtitle_above sc_item_title_style_default">Green
-                                                                                                            Farming</span>
-                                                                                                        <h1
-                                                                                                            class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
-                                                                                                            <span
-                                                                                                                class="sc_item_title_text">High-Quality
-                                                                                                                Organic
-                                                                                                                <br>
-                                                                                                                Products
-                                                                                                                for
-                                                                                                                You</span>
+                                                                                                <div>
+                                                                                                    <div class="sc_title color_style_dark sc_title_default">
+                                                                                                        <span class="sc_item_subtitle sc_title_subtitle sc_item_subtitle_above sc_item_title_style_default">
+                                                                                                            Green Farming
+                                                                                                        </span>
+                                                                                                        <h1 class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
+                                                                                                            <span class="sc_item_title_text">
+                                                                                                                High-Quality Organic <br> Products for You
+                                                                                                            </span>
                                                                                                         </h1>
                                                                                                     </div>
                                                                                                 </div>
@@ -2683,42 +2673,21 @@
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
-                                                                                            <div class="elementor-element elementor-element-6837e35a sc_fly_static elementor-widget elementor-widget-text-editor"
+                                                                                            <div class=""
                                                                                                 data-id="6837e35a"
                                                                                                 data-element_type="widget"
                                                                                                 data-widget_type="text-editor.default">
-                                                                                                <div
-                                                                                                    class="elementor-widget-container">
+                                                                                                <div class="elementor-widget-container">
                                                                                                     <div
                                                                                                         class="elementor-text-editor elementor-clearfix">
-                                                                                                        <p>Experience
-                                                                                                            pure nature
-                                                                                                            with our
-                                                                                                            high-quality
-                                                                                                            organic
-                                                                                                            products.
-                                                                                                            We're
-                                                                                                            dedicated to
-                                                                                                            sourcing and
-                                                                                                            crafting
-                                                                                                            items that
-                                                                                                            enrich your
-                                                                                                            life and
-                                                                                                            support a
-                                                                                                            healthier
-                                                                                                            planet.
-                                                                                                            Explore our
-                                                                                                            thoughtfully
-                                                                                                            designed
-                                                                                                            collection
-                                                                                                            for your
-                                                                                                            well-being.
-                                                                                                            Choose
-                                                                                                            quality and
-                                                                                                            sustainability
-                                                                                                            for yourself
-                                                                                                            and the
-                                                                                                            world.</p>
+                                                                                                        <p>
+                                                                                                            Experience pure nature with our high-quality
+                                                                                                            organic products. We're dedicated to sourcing and
+                                                                                                            crafting items that enrich your life and support a
+                                                                                                            healthier planet. Explore our thoughtfully designed
+                                                                                                            collection for your well-being. Choose quality and
+                                                                                                            sustainability for yourself and the world.
+                                                                                                        </p>
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
@@ -3048,7 +3017,7 @@
                                                                         <div class="elementor-widget-container">
                                                                             <div
                                                                                 class="elementor-text-editor elementor-clearfix">
-                                                                                <p>we are committed to creating a
+                                                                                <p>We are committed to creating a
                                                                                     seamless connection between farmers
                                                                                     and agronomists through the power of
                                                                                     professional tools and expert
@@ -3318,12 +3287,12 @@
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image">
                                                                                 <img decoding="async" width="780"
-                                                                                    height="963"
-                                                                                    src="images/custom-img-13-copyright.jpg"
+                                                                                    height="100"
+                                                                                    style="height: 80vh;"
+                                                                                    src="images/site/2.jpg"
                                                                                     class="attachment-full size-full"
                                                                                     alt=""
-                                                                                    srcset="https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-13-copyright.jpg 780w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-13-copyright-600x741.jpg 600w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-13-copyright-243x300.jpg 243w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-13-copyright-768x948.jpg 768w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-13-copyright-370x457.jpg 370w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-13-copyright-410x506.jpg 410w"
-                                                                                    sizes="(max-width: 780px) 100vw, 780px">
+                                                                                    sizes="(max-width: 780px) 300vw, 980px">
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -3491,7 +3460,7 @@
                                             <section
                                                 class="elementor-section elementor-top-section elementor-element elementor-element-bf17b8b scheme_dark elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static"
                                                 data-id="bf17b8b" data-element_type="section"
-                                                data-settings='{"background_background":"slideshow","background_slideshow_gallery":[{"id":19427,"url":"https:\/\/agricola.axiomthemes.com\/wp-content\/uploads\/2022\/07\/background-2-copyright.jpg"},{"id":19452,"url":"https:\/\/agricola.axiomthemes.com\/wp-content\/uploads\/2022\/07\/background-3-copyright.jpg"}],"background_slideshow_transition_duration":1000,"background_slideshow_ken_burns":"yes","background_slideshow_loop":"yes","background_slideshow_slide_duration":5000,"background_slideshow_slide_transition":"fade","background_slideshow_ken_burns_zoom_direction":"in"}'>
+                                                data-settings='{"background_background":"slideshow","background_slideshow_gallery":[{"id":19427,"url":"images/site/6.jpeg"},{"id":19452,"url":"images/site/5.jpg"}],"background_slideshow_transition_duration":1000,"background_slideshow_ken_burns":"yes","background_slideshow_loop":"yes","background_slideshow_slide_duration":5000,"background_slideshow_slide_transition":"fade","background_slideshow_ken_burns_zoom_direction":"in"}'>
                                                 <div class="elementor-background-overlay"></div>
                                                 <div class="elementor-container elementor-column-gap-extended">
                                                     <div class="elementor-row">
@@ -3720,11 +3689,11 @@
                                                                         <div class="elementor-widget-container">
                                                                             <div class="elementor-image">
                                                                                 <img decoding="async" loading="lazy"
-                                                                                    width="740" height="636"
-                                                                                    src="images/custom-img-14-copyright.jpg"
+                                                                                    width="740" height="836"
+                                                                                    src="images/site/2.png"
                                                                                     class="attachment-full size-full"
                                                                                     alt=""
-                                                                                    srcset="https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-14-copyright.jpg 740w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-14-copyright-600x516.jpg 600w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-14-copyright-300x258.jpg 300w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-14-copyright-370x318.jpg 370w, https://agricola.axiomthemes.com/wp-content/uploads/2022/07/custom-img-14-copyright-410x352.jpg 410w"
+                                                                                    style="height:80vh"
                                                                                     sizes="(max-width: 740px) 100vw, 740px">
                                                                             </div>
                                                                         </div>
@@ -3760,31 +3729,7 @@
                                                                                         aria-atomic="true"></p>
                                                                                     <ul></ul>
                                                                                 </div>
-                                                                                <form
-                                                                                    action="/agro-services/#wpcf7-f1413-p18038-o1"
-                                                                                    method="post"
-                                                                                    class="wpcf7-form init"
-                                                                                    novalidate="novalidate"
-                                                                                    data-status="init">
-                                                                                    <div style="display: none;">
-                                                                                        <input type="hidden"
-                                                                                            name="_wpcf7" value="1413">
-                                                                                        <input type="hidden"
-                                                                                            name="_wpcf7_version"
-                                                                                            value="5.6.3">
-                                                                                        <input type="hidden"
-                                                                                            name="_wpcf7_locale"
-                                                                                            value="en_US">
-                                                                                        <input type="hidden"
-                                                                                            name="_wpcf7_unit_tag"
-                                                                                            value="wpcf7-f1413-p18038-o1">
-                                                                                        <input type="hidden"
-                                                                                            name="_wpcf7_container_post"
-                                                                                            value="18038">
-                                                                                        <input type="hidden"
-                                                                                            name="_wpcf7_posted_data_hash"
-                                                                                            value="">
-                                                                                    </div>
+                                                                                <form method="post">
                                                                                     <div class="form-style-7">
                                                                                         <div class="columns_wrap">
                                                                                             <div class="column-1_1">
@@ -3862,11 +3807,11 @@
                                                                                         </div>
                                                                                         <p><input type="submit"
                                                                                                 value="Get In Touch"
-                                                                                                class="wpcf7-form-control has-spinner wpcf7-submit">
+                                                                                                class="wpcf7-form-control wpcf7-submit">
                                                                                         </p>
                                                                                     </div>
-                                                                                    <div class="wpcf7-response-output"
-                                                                                        aria-hidden="true"></div>
+                                                                                    <!-- <div class="wpcf7-response-output"
+                                                                                        aria-hidden="true"></div> -->
                                                                                 </form>
                                                                             </div>
                                                                         </div>
