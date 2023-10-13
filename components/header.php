@@ -1,4 +1,4 @@
-<header class="top_panel top_panel_custom top_panel_custom_18654 top_panel_custom_header-modern				 without_bg_image">
+<header class="top_panel top_panel_custom top_panel_custom_18654 top_panel_custom_header-modern	 without_bg_image">
     <div data-elementor-type="cpt_layouts" data-elementor-id="18654" class="elementor elementor-18654">
         <div class="elementor-inner">
             <div class="elementor-section-wrap">
@@ -25,16 +25,16 @@
                                                             <a href="services.php"><span>Services</span></a>
                                                             <ul class="sub-menu">
                                                                 <li id="menu-item-18280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18280">
-                                                                    <a href="https://auth.greenwebbtech.com/login?source=website&destination=call-center"><span>The Call Center</span></a>
+                                                                    <a href="https://callcenter.greenwebbtech.com"><span>The Call Center</span></a>
                                                                 </li>
                                                                 <li id="menu-item-18286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18286">
-                                                                    <a href="https://auth.greenwebbtech.com/login?source=website&destination=website"><span>Online Advisory Services</span></a>
+                                                                    <a href="https://callcenter.greenwebbtech.com"><span>Online Advisory Services</span></a>
                                                                 </li>
                                                                 <li id="menu-item-18288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18288">
-                                                                    <a  href="https://auth.greenwebbtech.com/login?source=website&destination=marketplace"><span>The Marketplace</span></a>
+                                                                    <a  href="https://market.greenwebbtech.com"><span>The Marketplace</span></a>
                                                                 </li>
                                                                 <li id="menu-item-18287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18287">
-                                                                    <a href="https://auth.greenwebbtech.com/login?source=website&destination=website"><span>Ecopay Payment Gateway</span></a>
+                                                                    <a href="#"><span>Ecopay Payment Gateway</span></a>
                                                                 </li>
 
                                                             </ul>
@@ -44,7 +44,7 @@
 
                                                         </li>
                                                         <li id="menu-item-18300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18300">
-                                                            <a href="https://auth.greenwebbtech.com/login?source=website&destination=marketplace"><span>Marketplace</span></a>
+                                                            <a href="https://market.greenwebbtech.com"><span>Marketplace</span></a>
 
                                                         </li>
                                                         <li id="menu-item-17194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17194">
@@ -269,16 +269,16 @@
                             <a href="services.php"><span>Services</span></a>
                             <ul class="sub-menu">
                                 <li id="menu_mobile-item-18280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18280">
-                                    <a href="https://auth.greenwebbtech.com/login?source=website&destination=call-center"><span>The Call Center</span></a>
+                                    <a href="https://callcenter.greenwebbtech.com"><span>The Call Center</span></a>
                                 </li>
                                 <li id="menu_mobile-item-18286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18286">
-                                    <a href="https://auth.greenwebbtech.com/login?source=website&destination=website"><span>Online Advisory Services</span></a>
+                                    <a href="https://callcenter.greenwebbtech.com"><span>Online Advisory Services</span></a>
                                 </li>
                                 <li id="menu_mobile-item-18288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18288">
-                                    <a href="https://auth.greenwebbtech.com/login?source=website&destination=marketplace"><span>The Marketplace</span></a>
+                                    <a href="https://market.greenwebbtech.com"><span>The Marketplace</span></a>
                                 </li>
                                 <li id="menu_mobile-item-18287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18287">
-                                    <a href="https://auth.greenwebbtech.com/login?source=website&destination=website"><span>Ecopay Payment Gateway</span></a>
+                                    <a href="#under-construction"><span>Ecopay Payment Gateway</span></a>
                                 </li>
 
                             </ul>
@@ -288,7 +288,7 @@
 
                         </li>
                         <li id="menu_mobile-item-18300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18300">
-                            <a href="marketplace.php"><span>Marketplace</span></a>
+                            <a href="https://market.greenwebbtech.com"><span>Marketplace</span></a>
 
                         </li>
                         <li id="menu_mobile-item-17194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17194">
@@ -325,7 +325,7 @@
 
                             <div class="extra_item">
                                 <h6>Want to Buy Products?</h6>
-                                <a href="marketplace.php">Go to Marketplace</a>
+                                <a href="https://market.greenwebbtech.com">Go to Marketplace</a>
                             </div>
                         </div>
                     </aside>

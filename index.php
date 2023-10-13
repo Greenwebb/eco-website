@@ -2107,17 +2107,17 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a  href="https://auth.greenwebbtech.com/login?source=website&destination=call-center">Call Center</a>
+                                                                                                            <a  href="https://callcenter.greenwebbtech.com">Call Center</a>
                                                                                                         </h6>
                                                                                                         <div
                                                                                                             class="sc_services_item_text">
                                                                                                             <p>
-                                                                                                            Obtain call center services
+                                                                                                            Access call center services
                                                                                                             </p>
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="sc_services_item_button sc_item_button">
-                                                                                                            <a href="https://auth.greenwebbtech.com/login?source=website&destination=call-center" class="sc_services_item_more_link">
+                                                                                                            <a href="https://callcenter.greenwebbtech.com" class="sc_services_item_more_link">
                                                                                                                 <span
                                                                                                                     class="link_text">Read
                                                                                                                     more</span><span
@@ -2147,18 +2147,18 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a  href="https://auth.greenwebbtech.com/login?source=website&destination=website">Advisory
+                                                                                                            <a  href="https://callcenter.greenwebbtech.com">Advisory
                                                                                                                 Services</a>
                                                                                                         </h6>
                                                                                                         <div
                                                                                                             class="sc_services_item_text">
                                                                                                             <p>
-                                                                                                                Start providing advisory services
+                                                                                                                Your advisory services
                                                                                                             </p>
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="sc_services_item_button sc_item_button">
-                                                                                                            <a href="https://auth.greenwebbtech.com/login?source=website&destination=website" class="sc_services_item_more_link">
+                                                                                                            <a href="https://callcenter.greenwebbtech.com" class="sc_services_item_more_link">
                                                                                                                 <span
                                                                                                                     class="link_text">Read
                                                                                                                     more</span><span
@@ -2168,7 +2168,7 @@
                                                                                                     </div>
                                                                                                 </div><a
                                                                                                     class="sc_services_item_link"
-                                                                                                    href="https://auth.greenwebbtech.com/login?source=website&destination=website"></a>
+                                                                                                    href="https://callcenter.greenwebbtech.com"></a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -2184,7 +2184,7 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a href="https://auth.greenwebbtech.com/login?source=website&destination=marketplace">
+                                                                                                            <a href="https://market.greenwebbtech.com">
                                                                                                                 Marketplace</a>
                                                                                                         </h6>
                                                                                                         <div
@@ -2197,7 +2197,7 @@
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="sc_services_item_button sc_item_button">
-                                                                                                            <a href="https://auth.greenwebbtech.com/login?source=website&destination=marketplace" class="sc_services_item_more_link">
+                                                                                                            <a href="https://market.greenwebbtech.com" class="sc_services_item_more_link">
                                                                                                                 <span
                                                                                                                     class="link_text">Read
                                                                                                                     more</span><span
@@ -2207,7 +2207,7 @@
                                                                                                     </div>
                                                                                                 </div><a
                                                                                                     class="sc_services_item_link"
-                                                                                                    href="https://auth.greenwebbtech.com/login?source=website&destination=marketplace"></a>
+                                                                                                    href="https://market.greenwebbtech.com"></a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -2223,7 +2223,7 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a href="https://auth.greenwebbtech.com/login?source=website&destination=website">Payment
+                                                                                                            <a href="#coming-soon">Payment
                                                                                                                 Solutions</a>
                                                                                                         </h6>
                                                                                                         <div
@@ -2234,7 +2234,7 @@
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="sc_services_item_button sc_item_button">
-                                                                                                            <a href="https://auth.greenwebbtech.com/login?source=website&destination=website" class="sc_services_item_more_link">
+                                                                                                            <a href="#coming-soon" class="sc_services_item_more_link">
                                                                                                                 <span
                                                                                                                     class="link_text">Read
                                                                                                                     more</span><span
@@ -2244,7 +2244,7 @@
                                                                                                     </div>
                                                                                                 </div><a
                                                                                                     class="sc_services_item_link"
-                                                                                                    href="https://auth.greenwebbtech.com/login?source=website&destination=website"></a>
+                                                                                                    href="#coming-soon"></a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -2508,7 +2508,7 @@
                                                                         <div class="elementor-widget-container">
                                                                             <div
                                                                                 class="elementor-text-editor elementor-clearfix">
-                                                                                <p>we believe in transparency and
+                                                                                <p>We believe in transparency and
                                                                                     collaboration. We've designed a
                                                                                     streamlined process to ensure that
                                                                                     our clients and partners have a
@@ -3460,7 +3460,7 @@
                                             <section
                                                 class="elementor-section elementor-top-section elementor-element elementor-element-bf17b8b scheme_dark elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static"
                                                 data-id="bf17b8b" data-element_type="section"
-                                                data-settings='{"background_background":"slideshow","background_slideshow_gallery":[{"id":19427,"url":"images/site/6.jpeg"},{"id":19452,"url":"images/site/5.jpg"}],"background_slideshow_transition_duration":1000,"background_slideshow_ken_burns":"yes","background_slideshow_loop":"yes","background_slideshow_slide_duration":5000,"background_slideshow_slide_transition":"fade","background_slideshow_ken_burns_zoom_direction":"in"}'>
+                                                data-settings='{"background_background":"slideshow","background_slideshow_gallery":[{"id":19452,"url":"images/site/5.jpg"},{"id":19455,"url":"images/site/55.jpg"},{"id":19427,"url":"images/site/6.jpeg"}],"background_slideshow_transition_duration":1000,"background_slideshow_ken_burns":"yes","background_slideshow_loop":"yes","background_slideshow_slide_duration":5000,"background_slideshow_slide_transition":"fade","background_slideshow_ken_burns_zoom_direction":"in"}'>
                                                 <div class="elementor-background-overlay"></div>
                                                 <div class="elementor-container elementor-column-gap-extended">
                                                     <div class="elementor-row">
