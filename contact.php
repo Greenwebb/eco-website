@@ -1739,7 +1739,7 @@
 																				<img decoding="async" style="height: 100vh;"
 																					fetchpriority="high" width="840"
 																					height="636"
-																					src="images/site/33.jpg"
+																					src="images/site/45.jpg"
 																					class="attachment-full size-full"
 																					alt=""
 																					sizes="(max-width: 740px) 100vw, 740px">
@@ -1854,11 +1854,16 @@
 																											placeholder="How can we help you? Feel free to get in touch!"></textarea></span></span>
 																							</div>
 																						</div>
-																						<p><input type="submit"
-																								value="Get In Touch"
-																								class="wpcf7-form-control wpcf7-submit">
+																						<p>
+																							<button type="submit" class="wpcf7-form-control wpcf7-submit"> 
+																								<div id="loader-container" style="display: none;">
+																									<img src="loader.gif" alt="Loading...">
+																								</div>
+																								Get In Touch 
+																							</button>
 																						</p>
 																					</div>
+																					
 																					<!-- <div class="wpcf7-response-output"
 																						aria-hidden="true"></div> -->
 																				</form>
@@ -2288,6 +2293,49 @@
 	<script type="text/javascript" src="js/js-preloaded-modules.min.js" id="preloaded-modules-js"></script>
 	<script type="text/javascript" defer src="js/woocommerce-woocommerce.js" id="agricola-woocommerce-js"></script>
 	<script src="js/code.tidio.co-ctybgkiqd4jhsgdvzlgahqx3pjybdwlg.js" async></script>
+
+	<script>
+		document.addEventListener('DOMContentLoaded', function () {
+			// Get references to form and loader container
+			const form = document.querySelector('form');
+			const loaderContainer = document.getElementById('loader-container');
+
+			// Add a submit event listener to the form
+			form.addEventListener('submit', function (e) {
+				e.preventDefault(); // Prevent the default form submission
+
+				// Show the loader GIF while processing
+				loaderContainer.style.display = 'block';
+
+				// Create a FormData object to collect form data
+				const formData = new FormData(form);
+
+				// Make a POST request to your Laravel API endpoint
+				fetch('api/contact-us', {
+				method: 'POST',
+				body: formData,
+				})
+				.then(response => {
+					if (response.ok) {
+					// Handle the response here, e.g., show a success message
+					console.log('Form submitted successfully.');
+					} else {
+					// Handle errors, e.g., show an error message
+					console.error('Form submission failed.');
+					}
+				})
+				.catch(error => {
+					// Handle network errors, e.g., show a connection error message
+					console.error('Network error:', error);
+				})
+				.finally(() => {
+					// Hide the loader GIF
+					loaderContainer.style.display = 'none';
+				});
+			});
+		});
+
+	</script>
 </body>
 
 </html>

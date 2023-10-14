@@ -3288,8 +3288,8 @@
                                                                             <div class="elementor-image">
                                                                                 <img decoding="async" width="780"
                                                                                     height="100"
-                                                                                    style="height: 80vh;"
-                                                                                    src="images/site/2.jpg"
+                                                                                    style="height: 80vh; width:100%"
+                                                                                    src="images/site/29.jpg"
                                                                                     class="attachment-full size-full"
                                                                                     alt=""
                                                                                     sizes="(max-width: 780px) 300vw, 980px">
@@ -3693,7 +3693,7 @@
                                                                                     src="images/site/2.png"
                                                                                     class="attachment-full size-full"
                                                                                     alt=""
-                                                                                    style="height:80vh"
+                                                                                    style="height:70vh"
                                                                                     sizes="(max-width: 740px) 100vw, 740px">
                                                                             </div>
                                                                         </div>

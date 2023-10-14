@@ -2600,7 +2600,7 @@
         }
 
         .page-title-container .page-title-bg {
-            background-image: url("images/bg.webp");
+            background-image: url("images/site/10.jpeg");
         }
 
         .page-title-container h1.page-title,
@@ -5755,7 +5755,7 @@
                             <div class="page-title-row">
                                 <div class="page-title-wrapper">
                                     <div class="page-title-box">
-                                        <h1 class="page-title text-white">About</h1>
+                                        <h1 class="page-title text-white">About Us</h1>
                                     </div>
                                 </div>
                             </div>
@@ -5931,15 +5931,13 @@
                                                                                                                             data-duration="2100"
                                                                                                                             data-to-value="200"
                                                                                                                             data-from-value="0"
-                                                                                                                            data-delimiter=",">0</span>
+                                                                                                                            data-delimiter=",">15</span>
                                                                                                                         <span
-                                                                                                                            class="elementor-counter-number-suffix">k</span>
+                                                                                                                            class="elementor-counter-number-suffix">.</span>
                                                                                                                     </div>
                                                                                                                     <div
                                                                                                                         class="elementor-counter-title">
-                                                                                                                        Tons
-                                                                                                                        of
-                                                                                                                        Harvest
+                                                                                                                        Certified Advisors
                                                                                                                     </div>
                                                                                                                 </div>
                                                                                                             </div>

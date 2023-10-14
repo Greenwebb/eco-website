@@ -2600,7 +2600,7 @@
         }
 
         .page-title-container .page-title-bg {
-            background-image: url("images/site/3.jpg");
+            background-image: url("images/site/20.png");
         }
 
         .page-title-container h1.page-title,
