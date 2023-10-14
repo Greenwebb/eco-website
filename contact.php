@@ -1787,7 +1787,7 @@
 																										class="wpcf7-form-control-wrap"
 																										data-name="your-name"><input
 																											type="text"
-																											name="your-name"
+																											name="name"
 																											value=""
 																											size="40"
 																											class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
@@ -1815,7 +1815,7 @@
 																										class="wpcf7-form-control-wrap"
 																										data-name="your-email"><input
 																											type="email"
-																											name="your-email"
+																											name="email"
 																											value=""
 																											size="40"
 																											class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
@@ -1845,7 +1845,7 @@
 																									class="style-line icon-textarea"><span
 																										class="wpcf7-form-control-wrap"
 																										data-name="your-message"><textarea
-																											name="your-message"
+																											name="message"
 																											cols="40"
 																											rows="10"
 																											class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required"
@@ -1859,13 +1859,12 @@
 																								<div id="loader-container" style="display: none;">
 																									<img src="loader.gif" alt="Loading...">
 																								</div>
-																								Get In Touch 
+																								<div id="submit-text">
+																								Get In Touch
+																								</div> 
 																							</button>
 																						</p>
 																					</div>
-																					
-																					<!-- <div class="wpcf7-response-output"
-																						aria-hidden="true"></div> -->
 																				</form>
 																			</div>
 																		</div>
@@ -2299,6 +2298,7 @@
 			// Get references to form and loader container
 			const form = document.querySelector('form');
 			const loaderContainer = document.getElementById('loader-container');
+			const submitText = document.getElementById('submit-text');
 
 			// Add a submit event listener to the form
 			form.addEventListener('submit', function (e) {
@@ -2306,31 +2306,33 @@
 
 				// Show the loader GIF while processing
 				loaderContainer.style.display = 'block';
+				submitText.style.display = 'none';
 
 				// Create a FormData object to collect form data
 				const formData = new FormData(form);
 
 				// Make a POST request to your Laravel API endpoint
-				fetch('api/contact-us', {
+				fetch('http://localhost/eco-auth/eco-auth/api/contact-us', {
 				method: 'POST',
 				body: formData,
 				})
 				.then(response => {
 					if (response.ok) {
-					// Handle the response here, e.g., show a success message
-					console.log('Form submitted successfully.');
+						// Handle the response here, e.g., show a success message
+						alert('Form submitted successfully.');
 					} else {
-					// Handle errors, e.g., show an error message
-					console.error('Form submission failed.');
+						// Handle errors, e.g., show an error message
+						alert('Form submission failed.');
 					}
 				})
 				.catch(error => {
 					// Handle network errors, e.g., show a connection error message
-					console.error('Network error:', error);
+					alert('Network error:', error);
 				})
 				.finally(() => {
 					// Hide the loader GIF
 					loaderContainer.style.display = 'none';
+					submitText.style.display = 'block';
 				});
 			});
 		});
