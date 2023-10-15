@@ -3738,7 +3738,7 @@
                                                                                                         class="wpcf7-form-control-wrap"
                                                                                                         data-name="your-name"><input
                                                                                                             type="text"
-                                                                                                            name="your-name"
+                                                                                                            name="name"
                                                                                                             value=""
                                                                                                             size="40"
                                                                                                             class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required"
@@ -3766,7 +3766,7 @@
                                                                                                         class="wpcf7-form-control-wrap"
                                                                                                         data-name="your-email"><input
                                                                                                             type="email"
-                                                                                                            name="your-email"
+                                                                                                            name="email"
                                                                                                             value=""
                                                                                                             size="40"
                                                                                                             class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email"
@@ -3796,7 +3796,7 @@
                                                                                                     class="style-line icon-textarea"><span
                                                                                                         class="wpcf7-form-control-wrap"
                                                                                                         data-name="your-message"><textarea
-                                                                                                            name="your-message"
+                                                                                                            name="message"
                                                                                                             cols="40"
                                                                                                             rows="10"
                                                                                                             class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required"
@@ -3805,10 +3805,23 @@
                                                                                                             placeholder="How can we help you? Feel free to get in touch!"></textarea></span></span>
                                                                                             </div>
                                                                                         </div>
-                                                                                        <p><input type="submit"
-                                                                                                value="Get In Touch"
-                                                                                                class="wpcf7-form-control wpcf7-submit">
-                                                                                        </p>
+																						<p>
+																							<button type="submit" class="wpcf7-form-control wpcf7-submit"> 
+																								<div id="loader-container" style="display: none;">
+																									<img src="images/default-skin-preloader.gif" alt="Loading...">
+																								</div>
+																								<div id="submit-text">
+																								Get In Touch
+																								</div> 
+																							</button>
+																						</p>
+																						
+																						<p id="success_text" style="margin-top: 10%; padding:4%; border-radius: 4px; border:1px solid #00d084; display: none; color: #00d084;" >
+																							Successfully Sent																			
+																						</p>
+																						<p id="error_text" style="margin-top: 10%; padding:4%; border-radius: 4px; border:1px solid red; display: none; color:crimson;" >
+																							Error is sending, Check your network																			
+																						</p>
                                                                                     </div>
                                                                                     <!-- <div class="wpcf7-response-output"
                                                                                         aria-hidden="true"></div> -->
@@ -4480,6 +4493,58 @@
     startAutoSlide();
     </script>
 
+<script>
+		document.addEventListener('DOMContentLoaded', function () {
+			// Get references to form and loader container
+			const form = document.querySelector('form');
+			const loaderContainer = document.getElementById('loader-container');
+			const submitText = document.getElementById('submit-text');
+			const successText = document.getElementById('success_text');
+			const failedText = document.getElementById('error_text');
+
+			// Add a submit event listener to the form
+			form.addEventListener('submit', function (e) {
+				e.preventDefault(); // Prevent the default form submission
+
+				// Show the loader GIF while processing
+				loaderContainer.style.display = 'block';
+				submitText.style.display = 'none';
+
+				// Create a FormData object to collect form data
+				const formData = new FormData(form);
+
+				// Make a POST request to your Laravel API endpoint
+				fetch('https:/auth.greenwebbtech.com/api/contact-us', {
+					method: 'POST',
+					body: formData,
+				})
+				.then(response => {
+					if (response.ok) {
+						// Handle the response here, e.g., show a success message
+						// alert('Form submitted successfully.');
+						failedText.style.display = 'none';
+						successText.style.display = 'block';
+						
+					} else {
+						// Handle errors, e.g., show an error message
+						// alert('Form submission failed.');
+						successText.style.display = 'none';
+						failedText.style.display = 'block';
+					}
+				})
+				.catch(error => {
+					// Handle network errors, e.g., show a connection error message
+					alert('Network error:', error);
+				})
+				.finally(() => {
+					// Hide the loader GIF
+					loaderContainer.style.display = 'none';
+					submitText.style.display = 'block';
+				});
+			});
+		});
+
+	</script>
 </body>
 
 </html>

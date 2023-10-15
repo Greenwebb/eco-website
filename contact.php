@@ -1857,12 +1857,19 @@
 																						<p>
 																							<button type="submit" class="wpcf7-form-control wpcf7-submit"> 
 																								<div id="loader-container" style="display: none;">
-																									<img src="loader.gif" alt="Loading...">
+																									<img src="images/default-skin-preloader.gif" alt="Loading...">
 																								</div>
 																								<div id="submit-text">
 																								Get In Touch
 																								</div> 
 																							</button>
+																						</p>
+																						
+																						<p id="success_text" style="margin-top: 10%; padding:4%; border-radius: 4px; border:1px solid #00d084; display: none; color: #00d084;" >
+																							Successfully Sent																			
+																						</p>
+																						<p id="error_text" style="margin-top: 10%; padding:4%; border-radius: 4px; border:1px solid red; display: none; color:crimson;" >
+																							Error is sending, Check your network																			
 																						</p>
 																					</div>
 																				</form>
@@ -2299,6 +2306,8 @@
 			const form = document.querySelector('form');
 			const loaderContainer = document.getElementById('loader-container');
 			const submitText = document.getElementById('submit-text');
+			const successText = document.getElementById('success_text');
+			const failedText = document.getElementById('error_text');
 
 			// Add a submit event listener to the form
 			form.addEventListener('submit', function (e) {
@@ -2312,18 +2321,22 @@
 				const formData = new FormData(form);
 
 				// Make a POST request to your Laravel API endpoint
-				alert('https:/auth.greenwebbtech.com/api/contact-us');
 				fetch('https:/auth.greenwebbtech.com/api/contact-us', {
-				method: 'POST',
-				body: formData,
+					method: 'POST',
+					body: formData,
 				})
 				.then(response => {
 					if (response.ok) {
 						// Handle the response here, e.g., show a success message
-						alert('Form submitted successfully.');
+						// alert('Form submitted successfully.');
+						failedText.style.display = 'none';
+						successText.style.display = 'block';
+						
 					} else {
 						// Handle errors, e.g., show an error message
-						alert('Form submission failed.');
+						// alert('Form submission failed.');
+						successText.style.display = 'none';
+						failedText.style.display = 'block';
 					}
 				})
 				.catch(error => {
