@@ -2043,25 +2043,25 @@ Cultivating Agriculture that Works for the Future
                                                                                                         <rs-slide style="position: absolute;" data-key="rs-6" data-title="Slide" data-thumb="//agricola.axiomthemes.com/wp-content/uploads/2022/08/slider-4-slide-1-copyright-146x102.jpg" data-anim="adpr:false;ms:1000ms;" data-in="o:0;" data-out="a:false;">
                                                                                                             <img decoding="async" src="css/plugins/revslider/public/assets/assets/dummy.png" alt="" title="slider-4-slide-1-copyright" width="1920" height="980" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="images/slider-4-slide-1-copyright.jpg" data-parallax="off" data-panzoom="d:10000;ss:100;se:110%;" data-no-retina>
                                                                                                             <!--
-							-->
+							                                        -->
                                                                                                             <rs-layer id="slider-4-slide-6-layer-3" data-type="image" data-rsp_ch="on" data-xy="x:c;y:m;" data-text="w:normal;s:20,15,8,4;l:0,18,9,6;" data-dim="w:838px,628px,339px,209px;h:647px,485px,262px,161px;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;st:520;sp:1000;sR:520;" data-frame_999="o:0;st:w;sR:7480;" style="z-index:16;">
                                                                                                                 <img decoding="async" src="css/plugins/revslider/public/assets/assets/dummy.png" alt="Marketpalce Farm" class="tp-rs-img rs-lazyload" width="838" height="647" data-lazyload="images/organic-farm.png" data-no-retina>
                                                                                                             </rs-layer>
                                                                                                             <!--
--->
+                                                                                    -->
                                                                                                         </rs-slide>
                                                                                                         <rs-slide style="position: absolute;" data-key="rs-7" data-title="Slide" data-thumb="//agricola.axiomthemes.com/wp-content/uploads/2022/08/slider-4-slide-2-copyright-146x102.jpg" data-anim="adpr:false;ms:1000ms;" data-in="o:0;" data-out="a:false;">
                                                                                                             <img decoding="async" src="css/plugins/revslider/public/assets/assets/dummy.png" alt="Slider Slide" title="slider-4-slide-2-copyright" width="1920" height="980" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="images/slider-4-slide-2-copyright.jpg" data-parallax="off" data-panzoom="d:10000;ss:100;se:110%;" data-no-retina>
                                                                                                             <!--						-->
                                                                                                             <rs-zone id="rrzm_7" class="rev_row_zone_middle" style="z-index: 14;">
                                                                                                                 <!--
-								-->
+								                                -->
                                                                                                                 <rs-row id="slider-4-slide-7-layer-13" data-type="row" data-xy="xo:50px;yo:50px;" data-cbreak="nobreak" data-basealign="slide" data-rsp_bd="off" data-frame_0="o:1;" data-frame_999="o:0;st:w;sR:8700;sA:9000;" style="z-index:1;">
                                                                                                                     <!--
-									-->
+									                                                            -->
                                                                                                                     <rs-column id="slider-4-slide-7-layer-14" data-type="column" data-xy="xo:50px;yo:50px;" data-text="l:26,24,24,24;a:center;" data-rsp_bd="off" data-column="w:100%;" data-frame_0="o:1;" data-frame_999="o:0;st:w;sR:8700;sA:9000;" style="z-index:2;width:100%;">
                                                                                                                         <!--
-										-->
+										                        -->
                                                                                                                         <rs-layer id="slider-4-slide-7-layer-1" data-type="text" data-text="w:normal;s:19,17,16,16;l:28,26,24,24;a:center;" data-vbility="t,t,t,f" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-frame_0="x:30px;" data-frame_1="st:1770;sp:1000;" data-frame_999="o:0;st:w;sR:6230;" style="z-index:3;font-family:'DM Sans';display:inline-block;">
                                                                                                                             Cultivating
                                                                                                                             Agriculture
@@ -2100,20 +2100,20 @@ Cultivating Agriculture that Works for the Future
 									-->
                                                                                                                     </rs-column>
                                                                                                                     <!--
-								-->
+								    -->
                                                                                                                 </rs-row>
                                                                                                                 <!--
-							-->
+							        -->
                                                                                                             </rs-zone>
                                                                                                             <!--
--->
+                                                                    -->
                                                                                                         </rs-slide>
                                                                                                         <rs-slide style="position: absolute;" data-key="rs-8" data-title="Slide" data-thumb="//agricola.axiomthemes.com/wp-content/uploads/2022/08/slider-4-slide-3-copyright-146x102.jpg" data-anim="adpr:false;ms:1000ms;" data-in="o:0;" data-out="a:false;">
                                                                                                             <img decoding="async" src="css/plugins/revslider/public/assets/assets/dummy.png" alt="Slider Slide" title="slider-4-slide-3-copyright" width="1920" height="980" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="images/slider-4-slide-3-copyright.jpg" data-parallax="off" data-panzoom="d:10000;ss:100;se:110%;" data-no-retina>
                                                                                                             <!--						-->
                                                                                                             <rs-zone id="rrzm_8" class="rev_row_zone_middle" style="z-index: 14;">
                                                                                                                 <!--
-								-->
+								    -->
                                                                                                                 <rs-row id="slider-4-slide-8-layer-13" data-type="row" data-xy="xo:50px;yo:50px;" data-cbreak="nobreak" data-basealign="slide" data-rsp_bd="off" data-frame_0="o:1;" data-frame_999="o:0;st:w;sR:8700;sA:9000;" style="z-index:1;">
                                                                                                                     <!--
 									-->

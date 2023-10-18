@@ -2409,8 +2409,7 @@
                                                                                                             fetchpriority="high"
                                                                                                             width="660"
                                                                                                             height="879"
-                                                                                                            style="height: 60vh;"
-                                                                                                            src="images/site/4.jpg"
+                                                                                                            src="images/site/14.jpg"
                                                                                                             class="attachment-full size-full"
                                                                                                             alt=""
                                                                                                             sizes="(max-width: 660px) 100vw, 660px">
@@ -2452,8 +2451,8 @@
                                                                                                         <img decoding="async"
                                                                                                             width="615"
                                                                                                             height="675"
-                                                                                                            style="height: 60vh;"
-                                                                                                            src="images/site/1.png"
+                                                                                                            
+                                                                                                            src="images/site/13.jpg"
                                                                                                             class="attachment-full size-full"
                                                                                                             alt="" sizes="(max-width: 615px) 100vw, 615px">
                                                                                                     </div>
@@ -3288,8 +3287,7 @@
                                                                             <div class="elementor-image">
                                                                                 <img decoding="async" width="780"
                                                                                     height="100"
-                                                                                    style="height: 80vh; width:100%"
-                                                                                    src="images/site/29.jpg"
+                                                                                    src="images/site/553.jpg"
                                                                                     class="attachment-full size-full"
                                                                                     alt=""
                                                                                     sizes="(max-width: 780px) 300vw, 980px">
