@@ -2321,7 +2321,7 @@
 				const formData = new FormData(form);
 
 				// Make a POST request to your Laravel API endpoint
-				fetch('https:/auth.greenwebbtech.com/api/contact-us', {
+				fetch('https://auth.greenwebbtech.com/api/contact-us', {
 					method: 'POST',
 					body: formData,
 				})
