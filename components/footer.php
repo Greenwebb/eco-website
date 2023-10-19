@@ -321,7 +321,7 @@
 
 <?php include 'components/modal.php' ?>
 <?php include 'components/agronomist.php' ?>
-<div id="myModal" class="modal">
+<!-- <div id="myModal" class="modal">
   <div class="modal-content">
     <span class="close-modal" id="closeModal">&times;</span>
     <div class="items-row">
@@ -349,7 +349,7 @@
         </div>
     </div>
   </div>
-</div>
+</div> -->
 
 
 <script>

@@ -2713,7 +2713,7 @@
                                                                                                     <div
                                                                                                         class="elementor-text-editor elementor-clearfix">
                                                                                                         <a class="simple_text_link underline_anim"
-                                                                                                            href="about.html">Read
+                                                                                                            href="about.php">Read
                                                                                                             More</a>
                                                                                                     </div>
                                                                                                 </div>
@@ -3354,7 +3354,7 @@
                                                                                                     class="fas fa-minus"></i></span>
                                                                                         </span>
                                                                                         <a class="elementor-accordion-title"
-                                                                                            href="agro-services.html">Sustainable Agriculture</a>
+                                                                                            href="services.php">Sustainable Agriculture</a>
                                                                                     </div>
                                                                                     <div id="elementor-tab-content-1081"
                                                                                         class="elementor-tab-content elementor-clearfix"
@@ -3380,7 +3380,7 @@
                                                                                                     class="fas fa-minus"></i></span>
                                                                                         </span>
                                                                                         <a class="elementor-accordion-title"
-                                                                                            href="agro-services.html">Education and Outreach</a>
+                                                                                            href="services.php">Education and Outreach</a>
                                                                                     </div>
                                                                                     <div id="elementor-tab-content-1082"
                                                                                         class="elementor-tab-content elementor-clearfix"
@@ -3406,7 +3406,7 @@
                                                                                                     class="fas fa-minus"></i></span>
                                                                                         </span>
                                                                                         <a class="elementor-accordion-title"
-                                                                                            href="#">Local and Global Impact</a>
+                                                                                            href="services.php">Local and Global Impact</a>
                                                                                     </div>
                                                                                     <div id="elementor-tab-content-1083"
                                                                                         class="elementor-tab-content elementor-clearfix"

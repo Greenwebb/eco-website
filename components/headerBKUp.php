@@ -1,22 +1,3 @@
-
-<style>
-    /* Style for the dropdown content */
-#dropdown-content {
-    display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
-    z-index: 1;
-}
-
-/* Style when the dropdown is open */
-#dropdown-content.show {
-    display: block;
-    padding: 3%;
-}
-
-</style>
 <header class="top_panel top_panel_custom top_panel_custom_18654 top_panel_custom_header-modern	 without_bg_image">
     <div data-elementor-type="cpt_layouts" data-elementor-id="18654" class="elementor elementor-18654">
         <div class="elementor-inner">
@@ -124,9 +105,23 @@
                             <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3e4e340 sc_layouts_column_align_right sc_layouts_column sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="3e4e340" data-element_type="column">
                                 <div class="elementor-column-wrap elementor-element-populated">
                                     <div class="elementor-widget-wrap">
+                                        
+                                        <!-- <div class="sc_layouts_item elementor-element elementor-element-066af30 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_iconed_text" data-id="066af30" data-element_type="widget" data-widget_type="trx_sc_layouts_iconed_text.default">
+                                            <div class="elementor-widget-container">
+                                                <div class="sc_layouts_iconed_text">
+                                                    <a href="tel:18004585697" class="sc_layouts_item_link sc_layouts_iconed_text_link">
+                                                        <span class="sc_layouts_item_details sc_layouts_iconed_text_details">
+                                                            <span class="sc_layouts_item_details_line1 sc_layouts_iconed_text_line1">+26 097 458 56 97</span>
+                                                        </span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div> -->
+                                        
                                         <div class="sc_layouts_item elementor-element elementor-element-d662b41 sc_fly_static elementor-widget elementor-widget-trx_sc_button" data-id="d662b41" data-element_type="widget" data-widget_type="trx_sc_button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="sc_item_button sc_button_wrap" style="width: 100%;">
+                                                <!-- http://auth.greenwebbtech.com/register?source=website&destination=website&type=agronomist -->
                                                     <div class="sc_item_button sc_button_wrap">
                                                         <a id="register_now" title="Register as an Agronomist" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2 registerMyAccount">
                                                             <span class="sc_button_text">
@@ -135,22 +130,6 @@
                                                                 </span>
                                                             </span>
                                                         </a>
-                                                        <div id="dropdown-content" style="display: none; text-align:left; padding:3%; border-top:1px solid #2B6A3B">
-                                                            <p>
-                                                                <a class="" style="display: flex; gap: 4px; " href="https://auth.greenwebbtech.com/register?source=website&destination=website&type=farmer">
-                                                                    <span><img width="20" src="images/site/farmer.png"></span>  
-                                                                    <span style="margin-top:8%">Farmer</span>
-                                                                </a>
-                                                            </p>
-                                                            <p>
-                                                                <a class="" style="display: flex; gap: 4px; " href="https://auth.greenwebbtech.com/register?source=website&destination=website&type=agronomist">
-                                                                    <span><img width="20" src="images/site/agronomist.png"></span>  
-                                                                    <span style="margin-top:8%">Agronomist</span>
-                                                                </a>
-                                                            </p>
-                                                            
-                                                            <br>
-                                                        </div>
                                                         <a href="#" style="display: none;" id="profile_details" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                                                             <span class="sc_button_text">
                                                                 <span class="sc_button_title">
@@ -159,6 +138,7 @@
                                                             </span>
                                                         </a>
                                                         <a id="showLoginLink" href="https://auth.greenwebbtech.com/login?source=website&destination=website" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                        <!-- <a id="showLoginLink" href="http://localhost/eco-auth/eco-auth/login?source=website&destination=website" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2"> -->
                                                             <span class="sc_button_text">
                                                                 <span class="sc_button_title">
                                                                     Login
@@ -171,8 +151,8 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
 
+                            </div>
                         </div>
                     </div>
                 </section>
@@ -402,16 +382,3 @@
         </div>
     </div>
 </div>
-
-<script>
-    document.addEventListener("DOMContentLoaded", function () {
-        const registerButton = document.getElementById("register_now");
-        const dropdownContent = document.getElementById("dropdown-content");
-
-        // Toggle the dropdown when the "Create an Account" button is clicked
-        registerButton.addEventListener("click", function () {
-            dropdownContent.classList.toggle("show");
-        });
-    });
-
-</script>
