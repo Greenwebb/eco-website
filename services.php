@@ -5717,13 +5717,16 @@
         }
     </style>
 
-
-
-
-
-
-
-
+<!-- Custom -->
+<style>
+    /* CSS for screens up to 768 pixels wide */
+@media screen and (max-width: 768px) {
+  .pt-mobile {
+    padding-top: 6%; /* Change the background color to your preference */
+    /* Add any other CSS properties or styles you want for smaller screens */
+  }
+}
+</style>
 
 </head>
 
@@ -5755,7 +5758,7 @@
                             <div class="page-title-row">
                                 <div class="page-title-wrapper">
                                     <div class="page-title-box">
-                                        <h1 class="page-title text-white">Services</h1>
+                                        <h1 style="color:#000" class="page-title text-white">Services</h1>
                                     </div>
                                 </div>
                             </div>
@@ -6000,7 +6003,7 @@
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                        <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-607952a0" data-id="607952a0" data-element_type="column">
+                                                                        <div class="pt-mobile elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-607952a0" data-id="607952a0" data-element_type="column">
                                                                             <div class="elementor-column-wrap elementor-element-populated">
                                                                                 <div class="elementor-widget-wrap">
                                                                                     <div class="elementor-element elementor-element-6a98d518 elementor-widget elementor-widget-agrarium_banner" data-id="6a98d518" data-element_type="widget" data-widget_type="agrarium_banner.default">
@@ -6014,7 +6017,7 @@
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                        <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7c181ee2" data-id="7c181ee2" data-element_type="column">
+                                                                        <div class="pt-mobile elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7c181ee2" data-id="7c181ee2" data-element_type="column">
                                                                             <div class="elementor-column-wrap elementor-element-populated">
                                                                                 <div class="elementor-widget-wrap">
                                                                                     <div class="elementor-element elementor-element-5073036f elementor-widget elementor-widget-agrarium_banner" data-id="5073036f" data-element_type="widget" data-widget_type="agrarium_banner.default">
@@ -6028,7 +6031,7 @@
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                        <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7fa93e39" data-id="7fa93e39" data-element_type="column">
+                                                                        <div class="pt-mobile elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7fa93e39" data-id="7fa93e39" data-element_type="column">
                                                                             <div class="elementor-column-wrap elementor-element-populated">
                                                                                 <div class="elementor-widget-wrap">
                                                                                     <div class="elementor-element elementor-element-6bb90aae elementor-widget elementor-widget-agrarium_banner" data-id="6bb90aae" data-element_type="widget" data-widget_type="agrarium_banner.default">
@@ -6186,7 +6189,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-05f503f" data-id="05f503f" data-element_type="column" data-settings='{"animation":"none"}'>
+                                                <div class="pt-mobile elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-05f503f" data-id="05f503f" data-element_type="column" data-settings='{"animation":"none"}'>
                                                     <div class="elementor-column-wrap elementor-element-populated">
                                                         <div class="elementor-widget-wrap">
                                                             <div class="elementor-element elementor-element-768e89e elementor-element-valign-center elementor-widget elementor-widget-agrarium_banner" data-id="768e89e" data-element_type="widget" data-widget_type="agrarium_banner.default">
@@ -6219,7 +6222,256 @@
                                         </div>
                                     </section>
 
-                                    
+                                    <section class="pt-mobile elementor-section elementor-top-section elementor-element elementor-element-169505c4 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default"
+                                    data-id="169505c4" data-element_type="section"
+                                    data-settings='{"stretch_section":"section-stretched","animation":"none"}'>
+                                    <div class="elementor-container elementor-column-gap-no">
+                                        <div class="elementor-row">
+                                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1bdf80be"
+                                                data-id="1bdf80be" data-element_type="column">
+                                                <div class="elementor-column-wrap elementor-element-populated">
+                                                    <div class="elementor-widget-wrap">
+                                                        <section
+                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-ee3f55f elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                            data-id="ee3f55f" data-element_type="section"
+                                                            data-settings='{"animation":"none"}'>
+                                                            <div
+                                                                class="elementor-container elementor-column-gap-default">
+                                                                <div class="elementor-row">
+                                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-30710cba"
+                                                                        data-id="30710cba" data-element_type="column"
+                                                                        data-settings='{"animation":"none"}'>
+                                                                        <div
+                                                                            class="elementor-column-wrap elementor-element-populated">
+                                                                            <div class="elementor-widget-wrap">
+                                                                                <div class="elementor-element elementor-element-1edb1cf8 elementor-widget elementor-widget-agrarium_heading"
+                                                                                    data-id="1edb1cf8"
+                                                                                    data-element_type="widget"
+                                                                                    data-settings='{"_animation":"none"}'
+                                                                                    data-widget_type="agrarium_heading.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div
+                                                                                            class="agrarium-heading-widget">
+                                                                                            <h2
+                                                                                                class="agrarium-heading">
+                                                                                                <span style="padding-bottom: 2%;" class="agrarium-subheading">Conversations</span>
+                                                                                                    <span
+                                                                                                    class="agrarium-heading-content">Over 2 Million types of convervations</span>
+                                                                                            </h2>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </section>
+                                                        <section
+                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-709b0f4 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                            data-id="709b0f4" data-element_type="section">
+                                                            <div
+                                                                class="elementor-container elementor-column-gap-default">
+                                                                <div class="elementor-row">
+                                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-2667a3e7"
+                                                                        data-id="2667a3e7" data-element_type="column">
+                                                                        <div
+                                                                            class="elementor-column-wrap elementor-element-populated">
+                                                                            <div class="elementor-widget-wrap">
+                                                                                <div class="elementor-element elementor-element-5c7d3cdb elementor-absolute elementor-widget elementor-widget-agrarium_special_text"
+                                                                                    data-id="5c7d3cdb"
+                                                                                    data-element_type="widget"
+                                                                                    data-settings='{"_position":"absolute"}'
+                                                                                    data-widget_type="agrarium_special_text.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div class="special-text">
+                                                                                            <!-- Team -->
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </section>
+                                                        <section style="padding-top: 8%; padding-bottom:8%" class="elementor-section elementor-inner-section elementor-element elementor-element-c22fd42 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                            data-id="c22fd42" data-element_type="section">
+                                                            <div
+                                                                class="elementor-container elementor-column-gap-default">
+                                                                <div class="elementor-row">
+                                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-08e8b97"
+                                                                        data-id="08e8b97" data-element_type="column">
+                                                                        <div
+                                                                            class="elementor-column-wrap elementor-element-populated">
+                                                                            <div class="elementor-widget-wrap">
+                                                                                <div class="elementor-element elementor-element-ac1e873 elementor-widget elementor-widget-agrarium_team_members"
+                                                                                    data-id="ac1e873"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="agrarium_team_members.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div
+                                                                                            class="agrarium-team-members-widget">
+                                                                                            <div class="archive-listing"
+                                                                                                data-ajax='{"post_type":"agrarium_team_member","ignore_sticky_posts":true,"suppress_filters":true,"orderby":"date","order":"desc","link_base":"https:\/\/demo.artureanec.com\/themes\/agrarium\/about","posts_per_page":4,"columns_number":4,"paged":1,"show_pagination":""}'
+                                                                                                data-widget='{"item_class":"team-item-wrapper","columns_number":4}'>
+                                                                                                <div
+                                                                                                    class="archive-listing-wrapper team-listing-wrapper team-grid-listing columns-5">
+                                                                                                    <div
+                                                                                                        class="team-item-wrapper post-547 agrarium_team_member type-agrarium_team_member status-publish has-post-thumbnail hentry">
+                                                                                                        <div
+                                                                                                            class="team-item">
+                                                                                                            <div
+                                                                                                                class="team-item-media">
+                                                                                                                <a ><img
+                                                                                                                        decoding="async"
+                                                                                                                        alt="team-1"
+                                                                                                                        title="team-1"
+                                                                                                                        src="images/site/crops.jpg"
+                                                                                                                        class="attachment-agrarium_team_thumbnail size-agrarium_team_thumbnail wp-post-image" /></a>
+                                                                                                                
+                                                                                                            </div>
+                                                                                                            <span
+                                                                                                                class="team-item-content">
+                                                                                                                <!-- <a class="team-item-link"><span
+                                                                                                                        class="post-title">Crops</span></a> -->
+                                                                                                                    <span
+                                                                                                                    class="team-item-position">Crops</span>
+                                                                                                                </span>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                    <div
+                                                                                                        class="team-item-wrapper post-546 agrarium_team_member type-agrarium_team_member status-publish has-post-thumbnail hentry">
+                                                                                                        <div
+                                                                                                            class="team-item">
+                                                                                                            <div
+                                                                                                                class="team-item-media">
+                                                                                                                <a ><img
+                                                                                                                        decoding="async"
+                                                                                                                        alt="team-2"
+                                                                                                                        title="team-2"
+                                                                                                                        src="images/site/chemical.jpg"
+                                                                                                                        class="attachment-agrarium_team_thumbnail size-agrarium_team_thumbnail wp-post-image" /></a>
+                                                                                                                
+                                                                                                            </div>
+                                                                                                            <span
+                                                                                                                class="team-item-content">
+                                                                                                                <!-- <a class="team-item-link"><span
+                                                                                                                        class="post-title">Crop Protection <br>& Chemicals</span></a> -->
+                                                                                                                        <span
+                                                                                                                    class="team-item-position">
+                                                                                                                    Crop Protection <br>& Chemicals
+                                                                                                                    </span>
+                                                                                                                </span>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                    <div
+                                                                                                        class="team-item-wrapper post-545 agrarium_team_member type-agrarium_team_member status-publish has-post-thumbnail hentry">
+                                                                                                        <div
+                                                                                                            class="team-item">
+                                                                                                            <div
+                                                                                                                class="team-item-media">
+                                                                                                                <a ><img
+                                                                                                                        decoding="async"
+                                                                                                                        alt="team-3"
+                                                                                                                        title="team-3"
+                                                                                                                        src="images/site/livestock2.jpg"
+                                                                                                                        class="attachment-agrarium_team_thumbnail size-agrarium_team_thumbnail wp-post-image" /></a>
+                                                                                                                    
+                                                                                                            </div>
+                                                                                                            <span
+                                                                                                                class="team-item-content">
+                                                                                                                <!-- <a class="team-item-link"><span
+                                                                                                                        class="post-title">Livestock
+                                                                                                                        </span></a> -->
+                                                                                                                        <span
+                                                                                                                    class="team-item-position">Livestock</span>
+                                                                                                                </span>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                    <div
+                                                                                                        class="team-item-wrapper post-544 agrarium_team_member type-agrarium_team_member status-publish has-post-thumbnail hentry">
+                                                                                                        <div
+                                                                                                            class="team-item">
+                                                                                                            <div
+                                                                                                                class="team-item-media">
+                                                                                                                <a ><img
+                                                                                                                        decoding="async"
+                                                                                                                        alt="team-4"
+                                                                                                                        title="team-4"
+                                                                                                                        src="images/site/markets.jpg"
+                                                                                                                        class="attachment-agrarium_team_thumbnail size-agrarium_team_thumbnail wp-post-image" /></a>
+                                                                                                          
+                                                                                                            </div>
+                                                                                                            <span
+                                                                                                                class="team-item-content">
+                                                                                                                <!-- <a class="team-item-link"><span
+                                                                                                                        class="post-title">Markets</span></a> -->
+                                                                                                                        <span
+                                                                                                                    class="team-item-position">Markets</span>
+                                                                                                                </span>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                    <div
+                                                                                                        class="team-item-wrapper post-544 agrarium_team_member type-agrarium_team_member status-publish has-post-thumbnail hentry">
+                                                                                                        <div
+                                                                                                            class="team-item">
+                                                                                                            <div
+                                                                                                                class="team-item-media">
+                                                                                                                <a ><img
+                                                                                                                        decoding="async"
+                                                                                                                        alt="team-4"
+                                                                                                                        title="team-4"
+                                                                                                                        src="images/site/weather.jpg"
+                                                                                                                        class="attachment-agrarium_team_thumbnail size-agrarium_team_thumbnail wp-post-image" /></a>
+                                                                                                          
+                                                                                                            </div>
+                                                                                                            <span
+                                                                                                                class="team-item-content">
+                                                                                                                <!-- <a class="team-item-link"><span
+                                                                                                                        class="post-title">Weather</span></a> -->
+                                                                                                                        <span
+                                                                                                                    class="team-item-position">Weather</span>
+                                                                                                                </span>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <!-- <div class="elementor-element elementor-element-b3d16e7 elementor-widget elementor-widget-agrarium_button"
+                                                                                    data-id="b3d16e7"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="agrarium_button.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div class="button-widget">
+                                                                                            <div
+                                                                                                class="button-container">
+                                                                                                <a class="agrarium-button"
+                                                                                                    href="team.html"
+                                                                                                    target="_blank">More
+                                                                                                    about</a>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div> -->
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </section>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
                                 </div>
                             </div>
                         </div>

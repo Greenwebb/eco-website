@@ -2600,7 +2600,7 @@
         }
 
         .page-title-container .page-title-bg {
-            background-image: url("images/site/10.jpeg");
+            background-image: url("images/site/wf.jpg");
         }
 
         .page-title-container h1.page-title,
@@ -5718,13 +5718,16 @@
     </style>
 
 
-
-
-
-
-
-
-
+<!-- Custom -->
+<style>
+    /* CSS for screens up to 768 pixels wide */
+@media screen and (max-width: 768px) {
+  .pt-mobile {
+    padding-top: 6%; /* Change the background color to your preference */
+    /* Add any other CSS properties or styles you want for smaller screens */
+  }
+}
+</style>
 </head>
 
 <body class="page-template-default page page-id-18038 wp-custom-logo theme-agricola woocommerce-no-js tinvwl-theme-style skin_default scheme_light blog_mode_page body_style_fullscreen is_single sidebar_hide expand_content remove_margins trx_addons_present header_type_custom header_style_header-custom-18654 header_position_default menu_side_none no_layout fixed_blocks_sticky elementor-default elementor-kit-15 elementor-page elementor-page-18038">
@@ -5828,7 +5831,7 @@
                                                                 </div>
                                                             </div>
                                                         </section>
-                                                        <section style="padding-top: 4%;" class="elementor-section elementor-inner-section elementor-element elementor-element-629cc83 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                        <section style="padding-top: 10%;" class="elementor-section elementor-inner-section elementor-element elementor-element-629cc83 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                                                             data-id="629cc83" data-element_type="section">
                                                             <div class="elementor-container elementor-column-gap-default">
                                                                 <div class="elementor-row">
@@ -5837,20 +5840,17 @@
                                                                         data-settings='{"background_background":"classic"}'>
                                                                         <div class="elementor-column-wrap elementor-element-populated">
                                                                             <div class="elementor-widget-wrap">
-                                                                                <div class="elementor-element elementor-element-2c6fe86 elementor-widget elementor-widget-agrarium_heading"
+                                                                                <div style="padding-bottom:5%;" class="elementor-element elementor-element-2c6fe86 elementor-widget elementor-widget-agrarium_heading"
                                                                                     data-id="2c6fe86"
                                                                                     data-element_type="widget"
                                                                                     data-widget_type="agrarium_heading.default">
-                                                                                    <div
-                                                                                        class="elementor-widget-container">
-                                                                                        <div
-                                                                                            class="agrarium-heading-widget">
-                                                                                            <h2
-                                                                                                class="agrarium-heading">
-                                                                                                <span
-                                                                                                    class="agrarium-subheading">About
-                                                                                                    EcoAgro</span><span
-                                                                                                    class="agrarium-heading-content"> Zambian Agriculture Ecosystem Platform</span>
+                                                                                    <div class="elementor-widget-container">
+                                                                                        <div class="agrarium-heading-widget">
+                                                                                            <h2 class="agrarium-heading">
+                                                                                                <span class="agrarium-subheading">
+                                                                                                    About EcoAgro 
+                                                                                                </span>
+                                                                                                <span class="agrarium-heading-content">Zambian Agriculture Ecosystem Platform</span>
                                                                                             </h2>
                                                                                         </div>
                                                                                     </div>
@@ -5874,7 +5874,9 @@
                                                                                                         environmental stewardship, we aim to 
                                                                                                         revolutionize the way farmers interact 
                                                                                                         with agricultural services and 
-                                                                                                        information. As a local Zambian call 
+                                                                                                        information. 
+                                                                                                        <br><br>
+                                                                                                        As a local Zambian call 
                                                                                                         center, we are uniquely positioned to 
                                                                                                         understand the needs of our agricultural 
                                                                                                         community and provide tailored solutions 
@@ -5900,94 +5902,7 @@
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
-                                                                                <section
-                                                                                    class="elementor-section elementor-inner-section elementor-element elementor-element-1450e31 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                                                    data-id="1450e31"
-                                                                                    data-element_type="section">
-                                                                                    <div
-                                                                                        class="elementor-container elementor-column-gap-no">
-                                                                                        <div class="elementor-row">
-                                                                                            <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8b44085"
-                                                                                                data-id="8b44085"
-                                                                                                data-element_type="column">
-                                                                                                <div
-                                                                                                    class="elementor-column-wrap elementor-element-populated">
-                                                                                                    <div
-                                                                                                        class="elementor-widget-wrap">
-                                                                                                        <div class="elementor-element elementor-element-b76fe05 elementor-widget elementor-widget-counter"
-                                                                                                            data-id="b76fe05"
-                                                                                                            data-element_type="widget"
-                                                                                                            data-widget_type="counter.default">
-                                                                                                            <div
-                                                                                                                class="elementor-widget-container">
-                                                                                                                <div
-                                                                                                                    class="elementor-counter">
-                                                                                                                    <div
-                                                                                                                        class="elementor-counter-number-wrapper">
-                                                                                                                        <span
-                                                                                                                            class="elementor-counter-number-prefix"></span>
-                                                                                                                        <span
-                                                                                                                            class="elementor-counter-number"
-                                                                                                                            data-duration="2100"
-                                                                                                                            data-to-value="200"
-                                                                                                                            data-from-value="0"
-                                                                                                                            data-delimiter=",">15</span>
-                                                                                                                        <span
-                                                                                                                            class="elementor-counter-number-suffix">.</span>
-                                                                                                                    </div>
-                                                                                                                    <div
-                                                                                                                        class="elementor-counter-title">
-                                                                                                                        Certified Advisors
-                                                                                                                    </div>
-                                                                                                                </div>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8c63036"
-                                                                                                data-id="8c63036"
-                                                                                                data-element_type="column">
-                                                                                                <div
-                                                                                                    class="elementor-column-wrap elementor-element-populated">
-                                                                                                    <div
-                                                                                                        class="elementor-widget-wrap">
-                                                                                                        <div class="elementor-element elementor-element-1774ca5 elementor-widget elementor-widget-counter"
-                                                                                                            data-id="1774ca5"
-                                                                                                            data-element_type="widget"
-                                                                                                            data-widget_type="counter.default">
-                                                                                                            <div
-                                                                                                                class="elementor-widget-container">
-                                                                                                                <div
-                                                                                                                    class="elementor-counter">
-                                                                                                                    <div
-                                                                                                                        class="elementor-counter-number-wrapper">
-                                                                                                                        <span
-                                                                                                                            class="elementor-counter-number-prefix"></span>
-                                                                                                                        <span
-                                                                                                                            class="elementor-counter-number"
-                                                                                                                            data-duration="2100"
-                                                                                                                            data-to-value="100"
-                                                                                                                            data-from-value="0"
-                                                                                                                            data-delimiter=",">26</span>
-                                                                                                                        <span
-                                                                                                                            class="elementor-counter-number-suffix">+</span>
-                                                                                                                    </div>
-                                                                                                                    <div
-                                                                                                                        class="elementor-counter-title">
-                                                                                                                        Types
-                                                                                                                        of
-                                                                                                                        Products
-                                                                                                                    </div>
-                                                                                                                </div>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </section>
+                                                                                
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -5996,7 +5911,7 @@
                                                                         <div
                                                                             class="elementor-column-wrap elementor-element-populated">
                                                                             <div class="elementor-widget-wrap">
-                                                                                <div class="elementor-element elementor-element-54c6e19 elementor-widget-tablet__width-initial elementor-absolute scroll-motion-yes scroll-motion-direction-up elementor-widget elementor-widget-image"
+                                                                                <!-- <div class="elementor-element elementor-element-54c6e19 elementor-widget-tablet__width-initial elementor-absolute scroll-motion-yes scroll-motion-direction-up elementor-widget elementor-widget-image"
                                                                                     data-id="54c6e19"
                                                                                     data-element_type="widget"
                                                                                     data-settings='{"_position":"absolute"}'
@@ -6011,7 +5926,7 @@
                                                                                                 alt="" />
                                                                                         </div>
                                                                                     </div>
-                                                                                </div>
+                                                                                </div> -->
                                                                                 <div class="elementor-element elementor-element-c04628d elementor-widget-tablet__width-auto scroll-motion-no elementor-invisible elementor-widget elementor-widget-image"
                                                                                     data-id="c04628d"
                                                                                     data-element_type="widget"
@@ -6020,14 +5935,14 @@
                                                                                     <div
                                                                                         class="elementor-widget-container">
                                                                                         <div class="elementor-image">
-                                                                                            <img style="margin-top: 4%; height: 100vh" decoding="async"
+                                                                                            <img style="margin-top: 4%" decoding="async"
                                                                                                 fetchpriority="high"
                                                                                                 width="544" height="628"
-                                                                                                src="images/site/4.jpg"
+                                                                                                src="images/site/calllady.jpg"
                                                                                                 class="attachment-full size-full wp-image-7216"
                                                                                                 alt="" srcset="
-                                                                                                images/site/4.jpg  544w,
-                                                                                                images/site/4.jpg  260w
+                                                                                                images/site/calllady.jpg  544w,
+                                                                                                images/site/calllady.jpg  260w
                                                                                             " sizes="(max-width: 544px) 100vw, 544px" />
                                                                                         </div>
                                                                                     </div>
@@ -6038,6 +5953,140 @@
                                                                 </div>
                                                             </div>
                                                         </section>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+                                <section style="padding-top: 10%;" class="elementor-section elementor-top-section elementor-element elementor-element-24839b7 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static"
+                                    data-id="24839b7" data-element_type="section">
+                                    <div class="elementor-container elementor-column-gap-extended">
+                                        <div class="elementor-row">
+                                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fde3dae sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
+                                                data-id="fde3dae" data-element_type="column">
+                                                <div class="elementor-column-wrap elementor-element-populated">
+                                                    <div class="elementor-widget-wrap">
+                                                        <section
+                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-6473f57 elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static"
+                                                            data-id="6473f57" data-element_type="section">
+                                                            <div class="elementor-container elementor-column-gap-no">
+                                                                    
+                                                                    <div class=" elementor-element elementor-element-92403ce sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
+                                                                        data-id="92403ce" >
+                                                                        <div
+                                                                            class="elementor-column-wrap elementor-element-populated">
+                                                                            <div
+                                                                                class="elementor-widget-wrap">
+                                                                                <div class="elementor-element elementor-element-d9c2209 no-title sc_fly_static elementor-widget elementor-widget-image"
+                                                                                    data-id="d9c2209"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="image.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div
+                                                                                            class="elementor-image">
+                                                                                            <img decoding="async"
+                                                                                                width="615"
+                                                                                                height="675"
+                                                                                                
+                                                                                                src="images/site/ss.jpg"
+                                                                                                class="attachment-full size-full"
+                                                                                                alt="" sizes="(max-width: 615px) 100vw, 615px">
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                            </div>
+                                                        </section>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div style="padding-top: 4%;" class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-bf910de sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
+                                                data-id="bf910de" data-element_type="column">
+                                                <div
+                                                    class="elementor-column-wrap elementor-element-populated">
+                                                    <div class="elementor-widget-wrap">
+                                                        <div class="elementor-element elementor-element-2b6a309 sc_fly_static elementor-widget elementor-widget-trx_sc_title"
+                                                            data-id="2b6a309" data-element_type="widget"
+                                                            data-widget_type="trx_sc_title.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="sc_title color_style_dark sc_title_default">
+                                                                    <!-- <span class="sc_item_subtitle sc_title_subtitle sc_item_subtitle_above sc_item_title_style_default">About
+                                                                        Us</span> -->
+                                                                    <h1 class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
+                                                                        <span class="sc_item_title_text">
+                                                                            Why partner with us?
+                                                                        </span>
+                                                                    </h1>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-4941a60 sc_fly_static elementor-widget elementor-widget-spacer"
+                                                            data-id="4941a60" data-element_type="widget"
+                                                            data-widget_type="spacer.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="elementor-spacer">
+                                                                    <div class="elementor-spacer-inner">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div style="margin-top: 6%;" class="elementor-element elementor-element-bd05054 sc_fly_static elementor-widget elementor-widget-text-editor"
+                                                            data-id="bd05054" data-element_type="widget"
+                                                            data-widget_type="text-editor.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="elementor-text-editor elementor-clearfix">
+                                                                    <p>
+                                                                        At EcoAgro, our dedicated team of skilled agricultural experts, alongside our highly-trained 
+                                                                        customer service specialists, work together to provide tailored solutions and exceptional 
+                                                                        support to farmers. We are also equipped with a dedicated technology team proficient 
+                                                                        in cutting-edge tools to streamline operations and enhance the customer experience. 
+                                                                        Our high-caliber executives, with a proven track record in the call center industry 
+                                                                        and deep agricultural sector understanding, lead our objective-oriented and 
+                                                                        strategically adept team.
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-fae36ad sc_fly_static elementor-widget elementor-widget-spacer"
+                                                            data-id="fae36ad" data-element_type="widget"
+                                                            data-widget_type="spacer.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="elementor-spacer">
+                                                                    <div class="elementor-spacer-inner">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div style="padding-top: 4%;" class="elementor-element elementor-element-ca14252 sc_fly_static elementor-widget elementor-widget-text-editor"
+                                                            data-id="ca14252" data-element_type="widget"
+                                                            data-widget_type="text-editor.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div
+                                                                    class="elementor-text-editor elementor-clearfix">
+                                                                    <ul class="trx_addons_list_success">
+                                                                        <li>Skilled Agricultural Experts</li>
+                                                                        <li>Customer Service Specialists </li>
+                                                                        <li>Technology Professionals</li>
+                                                                        <li>Executive Leadership</li>
+                                                                    </ul>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-17e50bb sc_fly_static elementor-widget elementor-widget-spacer"
+                                                            data-id="17e50bb" data-element_type="widget"
+                                                            data-widget_type="spacer.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="elementor-spacer">
+                                                                    <div class="elementor-spacer-inner">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
                                                     </div>
                                                 </div>
                                             </div>
@@ -7271,7 +7320,7 @@
 
 
 
-    <script data-cfasync="false" src="js/cloudflare-static-email-decode.min.js"></script>
+    <script data-cfasync="false" src="js/cloudflare-static-email-decode.min.js"></scrip>
     <script>
         window.RS_MODULES = window.RS_MODULES || {};
         window.RS_MODULES.modules = window.RS_MODULES.modules || {};
