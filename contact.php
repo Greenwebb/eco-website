@@ -2014,14 +2014,14 @@
 																																Lusaka,
 																															</span><span>Zambia</span>
 																														</div>
-																														<a href="#popup-map"
+																														<a target="_blank" href="https://www.google.com/maps/place/Munali+Rd,+Lusaka/@-15.3691257,28.3437559,17z/data=!3m1!4b1!4m6!3m5!1s0x19408b09b5706363:0x2ac81f027316b49a!8m2!3d-15.3691257!4d28.3463308!16s%2Fg%2F119ttv37m?entry=ttu"
 																															class="sc_icons_item_more_link">
 																															<span
 																																class="link_text">Check
 																																Location</span><span
 																																class="link_icon"></span>
-																														</a><a
-																															href="#popup-map"
+																														</a><a target="_blank"
+																															href="https://www.google.com/maps/place/Munali+Rd,+Lusaka/@-15.3691257,28.3437559,17z/data=!3m1!4b1!4m6!3m5!1s0x19408b09b5706363:0x2ac81f027316b49a!8m2!3d-15.3691257!4d28.3463308!16s%2Fg%2F119ttv37m?entry=ttu"
 																															class="sc_icons_item_link">
 																														</a>
 																													</div>
@@ -2050,12 +2050,15 @@
 																														</h4>
 																														<div
 																															class="sc_icons_item_description">
-																															<span>Telephone:
-																																<a
-																																	href="tel:18001234566">+26(097)123-4566</a></span><span>Email:
-																																<a
-																																	href="/cdn-cgi/l/email-protection#a7cec9c1c8e7dec8d2d5d4ced3c289c4c8ca"><span
-																																		class="__cf_email__">info@ecoagrozambia.com</span></a></span>
+																															<span>
+																																<a href="tel:+260773505560">+260 773 505 560</a>
+																															</span>
+																															
+																															<span>
+																																<a href="/cdn-cgi/l/email-protection#a7cec9c1c8e7dec8d2d5d4ced3c289c4c8ca">
+																																<span class="__cf_email__">info@ecoagrozambia.com</span>
+																																</a>
+																															</span>
 																														</div>
 																														<a href="#contact-form"
 																															class="sc_icons_item_more_link">

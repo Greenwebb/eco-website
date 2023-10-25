@@ -108,31 +108,27 @@
                                                         data-widget_type="trx_sc_socials.default">
                                                         <div class="elementor-widget-container">
                                                             <div class="sc_socials sc_socials_default sc_align_none">
-                                                                <div class="socials_wrap sc_item_content"><a
-                                                                        target="_blank"
-                                                                        href="https://www.facebook.com/#"
-                                                                        class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span
-                                                                            class="social_icon social_icon_facebook-1"
-                                                                            style=""><span
-                                                                                class="icon-facebook-1"></span></span></a><a
+                                                                <div class="socials_wrap sc_item_content">
+                                                                    <a target="_blank" href="https://web.facebook.com/profile.php?id=100092167823596" class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"> 
+                                                                        <span class="social_icon social_icon_facebook-1" ><span
+                                                                            class="icon-facebook-1"></span></span>
+                                                                        </a>
+                                                                                
+                                                                                <!-- <a
                                                                         target="_blank"
                                                                         href="https://twitter.com/#"
                                                                         class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span
                                                                             class="social_icon social_icon_twitter-new"
                                                                             style=""><span
-                                                                                class="icon-twitter-new"></span></span></a><a
-                                                                        target="_blank"
-                                                                        href="https://dribbble.com/#"
-                                                                        class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span
-                                                                            class="social_icon social_icon_dribble-new"
-                                                                            style=""><span
-                                                                                class="icon-dribble-new"></span></span></a><a
+                                                                                class="icon-twitter-new"></span></span></a>
+                                                                                
+                                                                                <a
                                                                         target="_blank"
                                                                         href="https://www.instagram.com/#"
                                                                         class="social_item social_item_style_icons sc_icon_type_icons social_item_type_icons"><span
                                                                             class="social_icon social_icon_instagram"
                                                                             style=""><span
-                                                                                class="icon-instagram"></span></span></a>
+                                                                                class="icon-instagram"></span></span></a> -->
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -192,7 +188,7 @@
                                                         <div class="elementor-widget-container">
                                                             <div class="elementor-text-editor elementor-clearfix">
                                                                 <span class="trx_addons_alter_text"><a
-                                                                        href="tel:+18408412569">+260 972283827</a></span>
+                                                                        href="tel:+260773505560">+260 773 505 560</a></span>
                                                             </div>
                                                         </div>
                                                     </div>
