@@ -2135,10 +2135,8 @@
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
-                                                                                    <div
-                                                                                        class="trx_addons_column-1_4 trx_addons_column-1_2-tablet">
-                                                                                        <div data-post-id="870"
-                                                                                            class="sc_services_item sc_item_container post_container with_content with_more with_image sc_services_item_featured_none post-870 cpt_services type-cpt_services status-publish has-post-thumbnail hentry cpt_services_group-what-we-do">
+                                                                                    <div class="pt-mobile trx_addons_column-1_4 trx_addons_column-1_2-tablet">
+                                                                                        <div data-post-id="870" class="sc_services_item sc_item_container post_container with_content with_more with_image sc_services_item_featured_none post-870 cpt_services type-cpt_services status-publish has-post-thumbnail hentry cpt_services_group-what-we-do">
                                                                                             <div class="sc_services_item_content "
                                                                                                 style="background-image: url('images/6.webp');">
                                                                                                 <div
@@ -2172,8 +2170,7 @@
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
-                                                                                    <div
-                                                                                        class="trx_addons_column-1_4 trx_addons_column-1_2-tablet">
+                                                                                    <div class="pt-mobile trx_addons_column-1_4 trx_addons_column-1_2-tablet">
                                                                                         <div data-post-id="864"
                                                                                             class="sc_services_item sc_item_container post_container with_content with_more with_image sc_services_item_featured_none post-864 cpt_services type-cpt_services status-publish has-post-thumbnail hentry cpt_services_group-what-we-do">
                                                                                             <div class="sc_services_item_content "
@@ -2211,8 +2208,7 @@
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
-                                                                                    <div
-                                                                                        class="trx_addons_column-1_4 trx_addons_column-1_2-tablet">
+                                                                                    <div class="pt-mobile trx_addons_column-1_4 trx_addons_column-1_2-tablet">
                                                                                         <div data-post-id="17767"
                                                                                             class="sc_services_item sc_item_container post_container with_content with_more with_image sc_services_item_featured_none post-17767 cpt_services type-cpt_services status-publish has-post-thumbnail hentry cpt_services_group-what-we-do">
                                                                                             <div class="sc_services_item_content "
@@ -2648,7 +2644,7 @@
                                                                                                 <div>
                                                                                                     <div class="sc_title color_style_dark sc_title_default">
                                                                                                         <span class="sc_item_subtitle sc_title_subtitle sc_item_subtitle_above sc_item_title_style_default">
-                                                                                                            Green Farming
+                                                                                                        Sustainable Agriculture
                                                                                                         </span>
                                                                                                         <h1 class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
                                                                                                             <span class="sc_item_title_text">
@@ -3138,7 +3134,7 @@
                                                                                                 style="top: 57.53%;left: 35.9%;">
                                                                                                 <div class="point_style  ihotspot_tooltop_html"
                                                                                                     data-placement="n"
-                                                                                                    data-html='		 			                  &lt;div class="box_view_html"&gt;&lt;span class="close_ihp"&gt;&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve"&gt;&lt;g&gt;&lt;path d="M153.7,153.7C57.9,249.5,10,365.3,10,499c0,135.7,47.9,251.5,143.7,347.3l0,0C249.5,942.1,363.3,990,499,990c135.7,0,251.5-47.9,347.3-143.7C942.1,750.5,990,634.7,990,499c0-135.7-47.9-249.5-143.7-345.3l0,0C750.5,57.9,634.7,10,499,10C365.3,10,249.5,57.9,153.7,153.7z M209.6,211.6l2-2C289.4,129.7,387.2,89.8,499,89.8c113.8,0,209.6,39.9,291.4,121.8c79.8,77.8,119.8,175.6,119.8,287.4c0,113.8-39.9,209.6-119.8,291.4C708.6,870.3,612.8,910.2,499,910.2c-111.8,0-209.6-39.9-287.4-119.8C129.8,708.6,89.8,612.8,89.8,499C89.8,387.2,129.8,289.4,209.6,211.6z"/&gt;&lt;path d="M293.4,331.3c0,12,4,22,12,29.9L443.1,497L305.4,632.7c-8,8-12,18-12,29.9c0,10,4,18,12,26c8,8,18,12,28,12c12,0,20-4,27.9-10L499,552.9l135.7,137.7c8,6,16,10,28,10c12,0,21.9-4,27.9-10c8-8,12-18,12-28c0-12-4-21.9-12-29.9L554.9,497l135.7-135.7c8-8,12-18,12-27.9c0-12-4-22-12-29.9c-6-8-16-12-25.9-12c-12,0-21.9,4-29.9,12L499,441.1L363.3,303.4c-8-8-18-12-29.9-12c-10,0-20,4-28,12C297.4,311.4,293.4,321.4,293.4,331.3z"/&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/span&gt;&lt;p&gt;Sugar Cane&lt;/p&gt;
+                                                                                                    data-html='&lt;div class="box_view_html"&gt;&lt;span class="close_ihp"&gt;&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve"&gt;&lt;g&gt;&lt;path d="M153.7,153.7C57.9,249.5,10,365.3,10,499c0,135.7,47.9,251.5,143.7,347.3l0,0C249.5,942.1,363.3,990,499,990c135.7,0,251.5-47.9,347.3-143.7C942.1,750.5,990,634.7,990,499c0-135.7-47.9-249.5-143.7-345.3l0,0C750.5,57.9,634.7,10,499,10C365.3,10,249.5,57.9,153.7,153.7z M209.6,211.6l2-2C289.4,129.7,387.2,89.8,499,89.8c113.8,0,209.6,39.9,291.4,121.8c79.8,77.8,119.8,175.6,119.8,287.4c0,113.8-39.9,209.6-119.8,291.4C708.6,870.3,612.8,910.2,499,910.2c-111.8,0-209.6-39.9-287.4-119.8C129.8,708.6,89.8,612.8,89.8,499C89.8,387.2,129.8,289.4,209.6,211.6z"/&gt;&lt;path d="M293.4,331.3c0,12,4,22,12,29.9L443.1,497L305.4,632.7c-8,8-12,18-12,29.9c0,10,4,18,12,26c8,8,18,12,28,12c12,0,20-4,27.9-10L499,552.9l135.7,137.7c8,6,16,10,28,10c12,0,21.9-4,27.9-10c8-8,12-18,12-28c0-12-4-21.9-12-29.9L554.9,497l135.7-135.7c8-8,12-18,12-27.9c0-12-4-22-12-29.9c-6-8-16-12-25.9-12c-12,0-21.9,4-29.9,12L499,441.1L363.3,303.4c-8-8-18-12-29.9-12c-10,0-20,4-28,12C297.4,311.4,293.4,321.4,293.4,331.3z"/&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/span&gt;&lt;p&gt;Sugar Cane&lt;/p&gt;
 &lt;/div&gt;
 			 		 		 '>
                                                                                                     <div class="pins_animation ihotspot_pulse"
@@ -3154,7 +3150,7 @@
                                                                                                 style="top:37.19%;left:48.00%;">
                                                                                                 <div class="point_style  ihotspot_tooltop_html"
                                                                                                     data-placement="n"
-                                                                                                    data-html='		 			                  &lt;div class="box_view_html"&gt;&lt;span class="close_ihp"&gt;&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve"&gt;&lt;g&gt;&lt;path d="M153.7,153.7C57.9,249.5,10,365.3,10,499c0,135.7,47.9,251.5,143.7,347.3l0,0C249.5,942.1,363.3,990,499,990c135.7,0,251.5-47.9,347.3-143.7C942.1,750.5,990,634.7,990,499c0-135.7-47.9-249.5-143.7-345.3l0,0C750.5,57.9,634.7,10,499,10C365.3,10,249.5,57.9,153.7,153.7z M209.6,211.6l2-2C289.4,129.7,387.2,89.8,499,89.8c113.8,0,209.6,39.9,291.4,121.8c79.8,77.8,119.8,175.6,119.8,287.4c0,113.8-39.9,209.6-119.8,291.4C708.6,870.3,612.8,910.2,499,910.2c-111.8,0-209.6-39.9-287.4-119.8C129.8,708.6,89.8,612.8,89.8,499C89.8,387.2,129.8,289.4,209.6,211.6z"/&gt;&lt;path d="M293.4,331.3c0,12,4,22,12,29.9L443.1,497L305.4,632.7c-8,8-12,18-12,29.9c0,10,4,18,12,26c8,8,18,12,28,12c12,0,20-4,27.9-10L499,552.9l135.7,137.7c8,6,16,10,28,10c12,0,21.9-4,27.9-10c8-8,12-18,12-28c0-12-4-21.9-12-29.9L554.9,497l135.7-135.7c8-8,12-18,12-27.9c0-12-4-22-12-29.9c-6-8-16-12-25.9-12c-12,0-21.9,4-29.9,12L499,441.1L363.3,303.4c-8-8-18-12-29.9-12c-10,0-20,4-28,12C297.4,311.4,293.4,321.4,293.4,331.3z"/&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/span&gt;&lt;p&gt;Wheat&lt;/p&gt;
+                                                                                                    data-html='&lt;div class="box_view_html"&gt;&lt;span class="close_ihp"&gt;&lt;svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve"&gt;&lt;g&gt;&lt;path d="M153.7,153.7C57.9,249.5,10,365.3,10,499c0,135.7,47.9,251.5,143.7,347.3l0,0C249.5,942.1,363.3,990,499,990c135.7,0,251.5-47.9,347.3-143.7C942.1,750.5,990,634.7,990,499c0-135.7-47.9-249.5-143.7-345.3l0,0C750.5,57.9,634.7,10,499,10C365.3,10,249.5,57.9,153.7,153.7z M209.6,211.6l2-2C289.4,129.7,387.2,89.8,499,89.8c113.8,0,209.6,39.9,291.4,121.8c79.8,77.8,119.8,175.6,119.8,287.4c0,113.8-39.9,209.6-119.8,291.4C708.6,870.3,612.8,910.2,499,910.2c-111.8,0-209.6-39.9-287.4-119.8C129.8,708.6,89.8,612.8,89.8,499C89.8,387.2,129.8,289.4,209.6,211.6z"/&gt;&lt;path d="M293.4,331.3c0,12,4,22,12,29.9L443.1,497L305.4,632.7c-8,8-12,18-12,29.9c0,10,4,18,12,26c8,8,18,12,28,12c12,0,20-4,27.9-10L499,552.9l135.7,137.7c8,6,16,10,28,10c12,0,21.9-4,27.9-10c8-8,12-18,12-28c0-12-4-21.9-12-29.9L554.9,497l135.7-135.7c8-8,12-18,12-27.9c0-12-4-22-12-29.9c-6-8-16-12-25.9-12c-12,0-21.9,4-29.9,12L499,441.1L363.3,303.4c-8-8-18-12-29.9-12c-10,0-20,4-28,12C297.4,311.4,293.4,321.4,293.4,331.3z"/&gt;&lt;/g&gt;&lt;/svg&gt;&lt;/span&gt;&lt;p&gt;Wheat&lt;/p&gt;
 &lt;/div&gt;
 			 		 		 '>
                                                                                                     <div class="pins_animation ihotspot_pulse"
@@ -3514,9 +3510,9 @@
                                                                                                     class="elementor-widget-container">
                                                                                                     <div
                                                                                                         class="sc_title color_style_dark sc_title_default">
-                                                                                                        <span
-                                                                                                            class="sc_item_subtitle sc_title_subtitle sc_align_center sc_item_subtitle_above sc_item_title_style_default">organic
-                                                                                                            farming</span>
+                                                                                                        <span class="sc_item_subtitle sc_title_subtitle sc_align_center sc_item_subtitle_above sc_item_title_style_default">
+                                                                                                        Sustainable Agriculture
+                                                                                                        </span>
                                                                                                         <h1
                                                                                                             class="sc_item_title sc_title_title sc_align_center sc_item_title_style_default sc_item_title_tag">
                                                                                                             <span
