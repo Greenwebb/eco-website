@@ -36,25 +36,25 @@
                                             <div class="elementor-widget-container">
                                                 <nav class="sc_layouts_menu sc_layouts_menu_default sc_layouts_menu_dir_horizontal menu_hover_zoom_line" data-animation-in="fadeInUpSmall" data-animation-out="fadeOutDownSmall">
                                                     <ul id="menu_main" class="sc_layouts_menu_nav menu_main_nav">
-                                                        <li id="menu-item-18273" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-18273">
+                                                        <!-- <li id="menu-item-18273" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-18273">
                                                             <a href="index.php"><span>Home</span></a>
 
-                                                        </li>
+                                                        </li> -->
                                                         <li id="menu-item-17651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17651">
                                                             <a href="services.php"><span>Services</span></a>
                                                             <ul class="sub-menu">
                                                                 <li id="menu-item-18280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18280">
-                                                                    <a href="https://callcenter.greenwebbtech.com"><span>The Call Center</span></a>
+                                                                    <a href="https://callcenter.greenwebbtech.com"><span>Call Center</span></a>
                                                                 </li>
                                                                 <li id="menu-item-18286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18286">
                                                                     <a href="https://callcenter.greenwebbtech.com"><span>Online Advisory Services</span></a>
                                                                 </li>
                                                                 <li id="menu-item-18288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18288">
-                                                                    <a  href="https://market.greenwebbtech.com"><span>The Marketplace</span></a>
+                                                                    <a  href="https://market.greenwebbtech.com"><span>Marketplace</span></a>
                                                                 </li>
-                                                                <li id="menu-item-18287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18287">
+                                                                <!-- <li id="menu-item-18287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18287">
                                                                     <a href="#"><span>Ecopay Payment Gateway</span></a>
-                                                                </li>
+                                                                </li> -->
 
                                                             </ul>
                                                         </li>
@@ -68,6 +68,9 @@
                                                         </li>
                                                         <li id="menu-item-17194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17194">
                                                             <a href="contact.php"><span>Contact</span></a>
+                                                        </li>
+                                                        <li id="menu-item-17194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17194">
+                                                            <a href="tel:+260773505560" style="color: #2B6A3B; font-weight:bold;"><span>+260 773 505 560</span></a>
                                                         </li>
                                                     </ul>
                                                 </nav>
@@ -307,17 +310,17 @@
                             <a href="services.php"><span>Services</span></a>
                             <ul class="sub-menu">
                                 <li id="menu_mobile-item-18280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18280">
-                                    <a href="https://callcenter.greenwebbtech.com"><span>The Call Center</span></a>
+                                    <a href="https://callcenter.greenwebbtech.com"><span>Call Center</span></a>
                                 </li>
                                 <li id="menu_mobile-item-18286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18286">
                                     <a href="https://callcenter.greenwebbtech.com"><span>Online Advisory Services</span></a>
                                 </li>
                                 <li id="menu_mobile-item-18288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18288">
-                                    <a href="https://market.greenwebbtech.com"><span>The Marketplace</span></a>
+                                    <a href="https://market.greenwebbtech.com"><span>Marketplace</span></a>
                                 </li>
-                                <li id="menu_mobile-item-18287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18287">
+                                <!-- <li id="menu_mobile-item-18287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18287">
                                     <a href="#under-construction"><span>Ecopay Payment Gateway</span></a>
-                                </li>
+                                </li> -->
 
                             </ul>
                         </li>
