@@ -19,6 +19,19 @@
  
 
     <style type="text/css">
+        /* Styles for larger screens (not mobile) */
+.mobile-view {
+  display: none; /* Show the element by default */
+}
+
+/* Media query for screens with a maximum width of 767px (typical for mobile devices) */
+@media screen and (max-width: 767px) {
+  /* Styles for mobile screens */
+  .mobile-view {
+    display: block; /* Hide the element on mobile screens */
+    padding:2%;
+  }
+}
 /* Styles for the modal */
 .modal {
   display: none;
@@ -2007,12 +2020,17 @@
                                             <section
                                                 class="elementor-section elementor-top-section elementor-element elementor-element-4eca6d7 elementor-section-full_width elementor-section-height-default elementor-section-height-default sc_fly_static"
                                                 data-id="4eca6d7" data-element_type="section">
+
+                                                <div class="mobile-view">
+                                                <a href="tel:+260773505560" style="color: #1F603F; font-weight:bold; font-size: 21px;"><span>+260 773 505 560</span></a>
+                                                </div>
                                                 <div class="elementor-container elementor-column-gap-no">
+                                                    
                                                     <div class="elementor-row">
                                                         <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1d8c925 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
                                                             data-id="1d8c925" data-element_type="column">
-                                                            <div
-                                                                class="elementor-column-wrap elementor-element-populated">
+                                                            <div class="elementor-column-wrap elementor-element-populated">
+                                                                
                                                                 <div class="elementor-widget-wrap">
                                                                     <div class="elementor-element elementor-element-e9180f4 sc_fly_static elementor-widget elementor-widget-text-editor"
                                                                         data-id="e9180f4" data-element_type="widget"
