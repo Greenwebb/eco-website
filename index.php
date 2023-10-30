@@ -2605,7 +2605,7 @@
                                                     </div>
                                                 </div>
                                             </section>
-                                            <section
+                                            <!-- <section
                                                 style="background:#def5dc; border-top: black solid; border-top-width: 1px;"
                                                 class="elementor-section elementor-top-section elementor-element elementor-element-3734a89a elementor-section-full_width scheme_default elementor-section-height-default elementor-section-height-default sc_fly_static"
                                                 data-id="3734a89a" data-element_type="section"
@@ -2941,7 +2941,7 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </section>
+                                            </section> -->
                                             <section
                                                 class="elementor-section elementor-top-section elementor-element elementor-element-49b1d7e elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static"
                                                 data-id="49b1d7e" data-element_type="section">
@@ -2968,7 +2968,7 @@
                                                     </div>
                                                 </div>
                                             </section>
-                                            <section
+                                            <section style="background-color: #29444a; padding:2%"
                                                 class="elementor-section elementor-top-section elementor-element elementor-element-09fc3e8 elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static"
                                                 data-id="09fc3e8" data-element_type="section">
                                                 <div class="elementor-container elementor-column-gap-extended">
@@ -2984,11 +2984,9 @@
                                                                         <div class="elementor-widget-container">
                                                                             <div
                                                                                 class="sc_title color_style_dark sc_title_default">
-                                                                                <span
-                                                                                    class="sc_item_subtitle sc_title_subtitle sc_item_subtitle_above sc_item_title_style_default">what
+                                                                                <span style="color:#fff" class="sc_item_subtitle sc_title_subtitle sc_item_subtitle_above sc_item_title_style_default">what
                                                                                     we do</span>
-                                                                                <h1
-                                                                                    class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
+                                                                                <h1 style="color:#fff" class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
                                                                                     <span
                                                                                         class="sc_item_title_text">Bridging
                                                                                         the Gap with Professoinal tools
@@ -3020,8 +3018,7 @@
                                                                         data-id="d50c41e" data-element_type="widget"
                                                                         data-widget_type="text-editor.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <div
-                                                                                class="elementor-text-editor elementor-clearfix">
+                                                                            <div style="color:#fff" class="elementor-text-editor elementor-clearfix">
                                                                                 <p>We are committed to creating a
                                                                                     seamless connection between farmers
                                                                                     and agronomists through the power of
@@ -3085,10 +3082,25 @@
                                                     </div>
                                                 </div>
                                             </section>
-                                            <section
-                                                class="elementor-section elementor-top-section elementor-element elementor-element-116e5ae elementor-section-full_width elementor-section-height-default elementor-section-height-default sc_fly_static"
+                                            <section class="elementor-section elementor-top-section elementor-element elementor-element-116e5ae elementor-section-full_width elementor-section-height-default elementor-section-height-default sc_fly_static"
                                                 data-id="116e5ae" data-element_type="section">
+
                                                 <div class="elementor-container elementor-column-gap-no">
+                                                    <div class="elementor-element elementor-element-2b6a309 sc_fly_static elementor-widget elementor-widget-trx_sc_title"
+                                                        data-id="2b6a309" data-element_type="widget"
+                                                        data-widget_type="trx_sc_title.default">
+                                                        <div class="elementor-widget-container">
+                                                            <div class="sc_title color_style_dark sc_title_default">
+                                                                
+                                                                <h1 class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
+                                                                    <span
+                                                                        class="sc_item_title_text">Widely Grown Products in Zambia
+                                                                    </span>
+                                                                </h1>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <br>
                                                     <div class="elementor-row">
                                                         <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6497656 sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
                                                             data-id="6497656" data-element_type="column">
