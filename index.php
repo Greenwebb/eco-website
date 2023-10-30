@@ -2060,7 +2060,7 @@
                                                                             <h1
                                                                                 class="elementor-heading-title elementor-size-xxl">
                                                                                 <span
-                                                                                    class="has-text-link-color">Agricultural</span>
+                                                                                    class="has-text-link-color">Agricultural Advisory</span>
                                                                                 Services
                                                                             </h1>
                                                                         </div>
@@ -3911,8 +3911,6 @@
             </div>
             <a id="footer_skip_link_anchor" class="agricola_skip_link_anchor" href="#"></a>
             <?php include 'components/footer.php' ?>
-
-
         </div>
     </div>
 
@@ -3941,9 +3939,6 @@
         document.body.className = c;
     })();
     </script>
-
-
-
 
 
     <script type="text/javascript" defer src="js/js-advanced-popups-public.js" id="advanced-popups-js"></script>
@@ -3978,12 +3973,6 @@
     /* ]]> */
     </script>
     <script type="text/javascript" defer src="js/js-trx_demo_panels.js" id="trx_demo_panels-js"></script>
-
-
-
-
-
-
 
 
     <script type="text/javascript" id="tinvwl-js-extra">
@@ -4487,10 +4476,10 @@
     };
     </script>
     <script src="js/jquery-3.4.1.min.js"></script>
-  <script src="js/popper.min.js"></script>
-  <script src="js/bootstrap.min.js"></script>
-  <script src="js/jquery.steps.min.js"></script>
-  <script src="js/bd-wizard.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/jquery.steps.min.js"></script>
+        <script src="js/bd-wizard.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.7.0/js/uikit.min.js"></script>
     <script type="text/javascript" src="js/js-frontend.min.js" id="elementor-frontend-js"></script>
     <script type="text/javascript" src="js/js-preloaded-modules.min.js" id="preloaded-modules-js"></script>
@@ -4530,7 +4519,7 @@
     startAutoSlide();
     </script>
 
-<script>
+    <script>
 		document.addEventListener('DOMContentLoaded', function () {
 			// Get references to form and loader container
 			const form = document.querySelector('form');
