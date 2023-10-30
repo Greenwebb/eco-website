@@ -1980,9 +1980,231 @@
                                 <div data-elementor-type="wp-page" data-elementor-id="18038"
                                     class="elementor elementor-18038">
                                     <div class="elementor-inner">
-                                        <div class="elementor-section-wrap">
+                                        <div class="elementor-section">
+                                        <section style="height: 100vh;" class="elementor-section elementor-top-section elementor-element elementor-element-771869f elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="771869f" data-element_type="section">
+                                                <div class="elementor-container elementor-column-gap-extended">
+                                                    <div class="elementor-row">
+                                                        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d91685a sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="d91685a" data-element_type="column">
+                                                            <div class="elementor-column-wrap elementor-element-populated">
+                                                                <div class="elementor-widget-wrap">
+                                                                    <div class="elementor-element elementor-element-0015647 sc_fly_static elementor-widget elementor-widget-trx_widget_slider" data-id="0015647" data-element_type="widget" data-widget_type="trx_widget_slider.default">
+                                                                        <div class="elementor-widget-container">
+                                                                            <div class="widget_area sc_widget_slider">
+                                                                                <aside class="widget widget_slider">
+                                                                                    <div class="slider_wrap slider_engine_revo slider_alias_organic-farm">
+                                                                                        <div class="wp-block-themepunch-revslider 0">
+                                                                                            <!-- START Organic Farm REVOLUTION SLIDER 6.5.31 -->
+                                                                                            <p class="rs-p-wp-fix"></p>
+                                                                                            <rs-module-wrap id="rev_slider_4_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;">
+                                                                                                <rs-module id="rev_slider_4_1" style="" data-version="6.5.31">
+                                                                                                    <rs-slides>
+                                                                                                        <rs-slide style="position: absolute;" data-key="rs-6" data-title="Slide" data-thumb="//agricola.axiomthemes.com/wp-content/uploads/2022/08/slider-4-slide-1-copyright-146x102.jpg" data-anim="adpr:false;ms:1000ms;" data-in="o:0;" data-out="a:false;">
+                                                                                                            <img decoding="async" src="css/plugins/revslider/public/assets/assets/dummy.png" alt="" title="slider-4-slide-1-copyright" width="1920" height="980" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="images/slider-4-slide-1-copyright.jpg" data-parallax="off" data-panzoom="d:10000;ss:100;se:110%;" data-no-retina>
+                                                                                                            <!--
+							                                        -->
+                                                                                                            <rs-layer id="slider-4-slide-6-layer-3" data-type="image" data-rsp_ch="on" data-xy="x:c;y:m;" data-text="w:normal;s:20,15,8,4;l:0,18,9,6;" data-dim="w:838px,628px,339px,209px;h:647px,485px,262px,161px;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;st:520;sp:1000;sR:520;" data-frame_999="o:0;st:w;sR:7480;" style="z-index:16;">
+                                                                                                                <img decoding="async" src="css/plugins/revslider/public/assets/assets/dummy.png" alt="Marketpalce Farm" class="tp-rs-img rs-lazyload" width="838" height="647" data-lazyload="images/organic-farm.png" data-no-retina>
+                                                                                                            </rs-layer>
+                                                                                                            <!--
+                                                                                    -->
+                                                                                                        </rs-slide>
+                                                                                                        <rs-slide style="position: absolute;" data-key="rs-7" data-title="Slide" data-thumb="//agricola.axiomthemes.com/wp-content/uploads/2022/08/slider-4-slide-2-copyright-146x102.jpg" data-anim="adpr:false;ms:1000ms;" data-in="o:0;" data-out="a:false;">
+                                                                                                            <img decoding="async" src="css/plugins/revslider/public/assets/assets/dummy.png" alt="Slider Slide" title="slider-4-slide-2-copyright" width="1920" height="980" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="images/site/joy.jpg" data-parallax="off" data-panzoom="d:10000;ss:100;se:110%;" data-no-retina>
+                                                                                                            <!--						-->
+                                                                                                            <rs-zone id="rrzm_7" class="rev_row_zone_middle" style="z-index: 14;">
+                                                                                                                <!--
+								                                -->
+                                                                                                                <rs-row id="slider-4-slide-7-layer-13" data-type="row" data-xy="xo:50px;yo:50px;" data-cbreak="nobreak" data-basealign="slide" data-rsp_bd="off" data-frame_0="o:1;" data-frame_999="o:0;st:w;sR:8700;sA:9000;" style="z-index:1;">
+                                                                                                                    <!--
+									                                                            -->
+                                                                                                                    <rs-column id="slider-4-slide-7-layer-14" data-type="column" data-xy="xo:50px;yo:50px;" data-text="l:26,24,24,24;a:center;" data-rsp_bd="off" data-column="w:100%;" data-frame_0="o:1;" data-frame_999="o:0;st:w;sR:8700;sA:9000;" style="z-index:2;width:100%;">
+                                                                                                                        <!--
+										                        -->
+                                                                                                                        <rs-layer id="slider-4-slide-7-layer-1" data-type="text" data-text="w:normal;s:19,17,16,16;l:28,26,24,24;a:center;" data-vbility="t,t,t,f" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-frame_0="x:30px;" data-frame_1="st:1770;sp:1000;" data-frame_999="o:0;st:w;sR:6230;" style="z-index:3;font-family:'DM Sans';display:inline-block;">
+                                                                                                                            Cultivating
+                                                                                                                            Agriculture
+                                                                                                                            that
+                                                                                                                            Works
+                                                                                                                            for
+                                                                                                                            the
+                                                                                                                            Future
+                                                                                                                        </rs-layer>
+                                                                                                                        <!--
+										-->
+                                                                                                                        <rs-layer id="slider-4-slide-7-layer-0" data-type="shape" data-rsp_ch="on" data-xy="xo:50px,37px,19px,11px;yo:160px,120px,64px,39px;" data-text="w:normal;s:20,15,8,4;c:both;l:0,18,9,6;" data-flcr="c:both;" data-dim="w:100%;h:22px,16px,12px,0px;" data-frame_999="o:0;st:w;sR:8700;" style="z-index:4;">
+                                                                                                                        </rs-layer>
+                                                                                                                        <!--
+										-->
+                                                                                                                        <rs-layer id="slider-4-slide-7-layer-24" class="sldr-title" data-type="text" data-xy="xo:0,35px,35px,35px;yo:0,281px,281px,281px;" data-text="w:normal;s:78,58,40,28;l:72,58,42,34;fw:500;a:center;" data-rsp_o="off" data-disp="inline-block" data-frame_0="x:50;" data-frame_1="st:740;sp:1000;sR:740;" data-frame_999="o:0;st:w;sR:7260;" style="z-index:5;font-family:'halyard-display';display:inline-block;">
+                                                                                                                            We’re
+                                                                                                                            a
+                                                                                                                            Unique
+                                                                                                                            and
+                                                                                                                            Traditional<br />
+                                                                                                                            Organic
+                                                                                                                            Farm
+                                                                                                                        </rs-layer>
+                                                                                                                        <!--
+										-->
+                                                                                                                        <rs-layer id="slider-4-slide-7-layer-19" data-type="shape" data-rsp_ch="on" data-xy="xo:50px,37px,19px,11px;yo:160px,120px,64px,39px;" data-text="w:normal;s:20,15,8,4;c:both;l:0,18,9,6;" data-flcr="c:both;" data-dim="w:100%;h:50px,36px,32px,20px;" data-frame_999="o:0;st:w;sR:8700;" style="z-index:6;">
+                                                                                                                        </rs-layer>
+                                                                                                                        <!--
+										--><a id="slider-4-slide-7-layer-21" class="rs-layer rev-btn" href="marketplace.php" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:54,52,50,50;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-padding="r:40,32,28,28;l:40,32,28,28;" data-frame_0="x:30px;" data-frame_1="st:1250;sp:1000;" data-frame_999="o:0;st:w;sR:6750;" data-frame_hover="rX:0deg;rY:0deg;bgc:#dcb000;boc:#1f242e;bor:0px,0px,0px,0px;bos:solid;bow:0px,0px,0px,0px;e:power1.inOut;" style="z-index:7;background-color:#f2c200;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">Go
+                                                                                                                            to
+                                                                                                                            the
+                                                                                                                            Shop
+                                                                                                                        </a>
+                                                                                                                        <!--
+									-->
+                                                                                                                    </rs-column>
+                                                                                                                    <!--
+								    -->
+                                                                                                                </rs-row>
+                                                                                                                <!--
+							        -->
+                                                                                                            </rs-zone>
+                                                                                                            <!--
+                                                                    -->
+                                                                                                        </rs-slide>
+                                                                                                        <rs-slide style="position: absolute;" data-key="rs-8" data-title="Slide" data-thumb="images/site/6.jpg" data-anim="adpr:false;ms:1000ms;" data-in="o:0;" data-out="a:false;">
+                                                                                                            <img decoding="async" src="images/site/6.jpg" alt="Slider Slide" title="slider-4-slide-3-copyright" width="1920" height="980" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="images/site/6.jpg" data-parallax="off" data-panzoom="d:10000;ss:100;se:110%;" data-no-retina>
+                                                                                                            <!--						-->
+                                                                                                            <rs-zone id="rrzm_8" class="rev_row_zone_middle" style="z-index: 14;">
+                                                                                                                <!--
+								    -->
+                                                                                                                <rs-row id="slider-4-slide-8-layer-13" data-type="row" data-xy="xo:50px;yo:50px;" data-cbreak="nobreak" data-basealign="slide" data-rsp_bd="off" data-frame_0="o:1;" data-frame_999="o:0;st:w;sR:8700;sA:9000;" style="z-index:1;">
+                                                                                                                    <!--
+									-->
+                                                                                                                    <rs-column id="slider-4-slide-8-layer-14" data-type="column" data-xy="xo:50px;yo:50px;" data-text="l:26,24,24,24;a:center;" data-rsp_bd="off" data-column="w:100%;" data-frame_0="o:1;" data-frame_999="o:0;st:w;sR:8700;sA:9000;" style="z-index:2;width:100%;">
+                                                                                                                        <!--
+										-->
+                                                                                                                        <rs-layer id="slider-4-slide-8-layer-1" data-type="text" data-text="w:normal;s:19,17,16,16;l:28,26,24,24;a:center;" data-vbility="t,t,t,f" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-frame_0="x:30px;" data-frame_1="st:1770;sp:1000;sR:1770;" data-frame_999="o:0;st:w;sR:6230;" style="z-index:3;font-family:'DM Sans';display:inline-block;">
+                                                                                                                            Cultivating
+                                                                                                                            Agriculture
+                                                                                                                            that
+                                                                                                                            Works
+                                                                                                                            for
+                                                                                                                            the
+                                                                                                                            Future
+                                                                                                                        </rs-layer>
+                                                                                                                        <!--
+										-->
+                                                                                                                        <rs-layer id="slider-4-slide-8-layer-0" data-type="shape" data-rsp_ch="on" data-xy="xo:50px,37px,19px,11px;yo:160px,120px,64px,39px;" data-text="w:normal;s:20,15,8,4;c:both;l:0,18,9,6;" data-flcr="c:both;" data-dim="w:100%;h:22px,16px,8px,0px;" data-frame_999="o:0;st:w;sR:8700;" style="z-index:4;">
+                                                                                                                        </rs-layer>
+                                                                                                                        <!--
+										-->
+                                                                                                                        <rs-layer id="slider-4-slide-8-layer-24" class="sldr-title" data-type="text" data-xy="xo:0,35px,35px,35px;yo:0,281px,281px,281px;" data-text="w:normal;s:92,72,54,38;l:92,76,64,46;fw:500;a:center;" data-rsp_o="off" data-disp="inline-block" data-frame_0="x:50;" data-frame_1="st:740;sp:1000;sR:740;" data-frame_999="o:0;st:w;sR:7260;" style="z-index:5;font-family:'halyard-display';display:inline-block;">
+                                                                                                                            Get
+                                                                                                                            the
+                                                                                                                            Fresh
+                                                                                                                            Product
+                                                                                                                        </rs-layer>
+                                                                                                                        <!--
+										-->
+                                                                                                                        <rs-layer id="slider-4-slide-8-layer-19" data-type="shape" data-rsp_ch="on" data-xy="xo:50px,37px,19px,11px;yo:160px,120px,64px,39px;" data-text="w:normal;s:20,15,8,4;c:both;l:0,18,9,6;" data-flcr="c:both;" data-dim="w:100%;h:44px,30px,26px,20px;" data-frame_999="o:0;st:w;sR:8700;" style="z-index:6;">
+                                                                                                                        </rs-layer>
+                                                                                                                        <!--
+										--><a id="slider-4-slide-8-layer-21" class="rs-layer rev-btn" href="marketplace.php" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:54,52,50,50;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-margin="r:10,8,6,6;" data-padding="r:40,32,28,28;l:40,32,28,28;" data-frame_0="x:30px;" data-frame_1="st:1250;sp:1000;sR:1250;" data-frame_999="o:0;st:w;sR:6750;" data-frame_hover="rX:0deg;rY:0deg;bgc:#dcb000;boc:#1f242e;bor:0px,0px,0px,0px;bos:solid;bow:0px,0px,0px,0px;e:power1.inOut;" style="z-index:7;background-color:#f2c200;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">Go
+                                                                                                                            to
+                                                                                                                            the
+                                                                                                                            Shop
+                                                                                                                        </a>
+                                                                                                                        <!--
+										--><a id="slider-4-slide-8-layer-2" class="rs-layer rev-btn" href="contacts.html" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:50,48,46,46;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-padding="r:38,30,26,26;l:38,30,26,26;" data-border="bos:solid;boc:#ffffff;bow:2px,2px,2px,2px;" data-frame_0="x:30px;" data-frame_1="st:1350;sp:1000;sR:1350;" data-frame_999="o:0;st:w;sR:6650;" data-frame_hover="rX:0deg;rY:0deg;bgc:#92bb53;boc:#92bb53;bor:0px,0px,0px,0px;bos:solid;bow:2px,2px,2px,2px;e:power1.inOut;" style="z-index:8;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">Contact
+                                                                                                                            Info
+                                                                                                                        </a>
+                                                                                                                        <!--
+									-->
+                                                                                                                    </rs-column>
+                                                                                                                    <!--
+								-->
+                                                                                                                </rs-row>
+                                                                                                                <!--
+							-->
+                                                                                                            </rs-zone>
+                                                                                                            <!--
+-->
+                                                                                                        </rs-slide>
+                                                                                                    </rs-slides>
+                                                                                                    <rs-static-layers>
+                                                                                                        <!--
+					-->
+                                                                                                    </rs-static-layers>
+                                                                                                </rs-module>
+                                                                                                <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js">
+                                                                                                </script>
+                                                                                                <script>
+                                                                                                    setREVStartSize({
+                                                                                                        c: 'rev_slider_4_1',
+                                                                                                        rl: [1240,
+                                                                                                            1460,
+                                                                                                            785,
+                                                                                                            500
+                                                                                                        ],
+                                                                                                        el: [980,
+                                                                                                            700,
+                                                                                                            480,
+                                                                                                            480
+                                                                                                        ],
+                                                                                                        gw: [1920,
+                                                                                                            1440,
+                                                                                                            778,
+                                                                                                            480
+                                                                                                        ],
+                                                                                                        gh: [980,
+                                                                                                            700,
+                                                                                                            480,
+                                                                                                            480
+                                                                                                        ],
+                                                                                                        type: 'standard',
+                                                                                                        justify: '',
+                                                                                                        layout: 'fullscreen',
+                                                                                                        offsetContainer: '',
+                                                                                                        offset: '',
+                                                                                                        mh: "0"
+                                                                                                    });
+                                                                                                    if (window
+                                                                                                        .RS_MODULES !==
+                                                                                                        undefined && window
+                                                                                                        .RS_MODULES
+                                                                                                        .modules !==
+                                                                                                        undefined && window
+                                                                                                        .RS_MODULES.modules[
+                                                                                                            "revslider41"
+                                                                                                        ] !== undefined
+                                                                                                    ) {
+                                                                                                        window.RS_MODULES
+                                                                                                            .modules[
+                                                                                                                "revslider41"
+                                                                                                            ].once =
+                                                                                                            false;
+                                                                                                        window.revapi4 =
+                                                                                                            undefined;
+                                                                                                        if (window
+                                                                                                            .RS_MODULES
+                                                                                                            .checkMinimal !==
+                                                                                                            undefined)
+                                                                                                            window
+                                                                                                            .RS_MODULES
+                                                                                                            .checkMinimal()
+                                                                                                    }
+                                                                                                </script>
+                                                                                            </rs-module-wrap>
+                                                                                            <!-- END REVOLUTION SLIDER -->
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </aside>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </section>
                                             <section
-                                                class="elementor-section elementor-top-section elementor-element elementor-element-56d4e51 elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static"
+                                                class="elementor-section elementor-element elementor-element-56d4e51 elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static"
                                                 data-id="56d4e51" data-element_type="section">
                                                 <div class="elementor-container elementor-column-gap-extended">
                                                     <div class="elementor-row">
@@ -3917,662 +4139,689 @@
         </div>
     </div>
 
-
-    <script data-cfasync="false" src="js/cloudflare-static-email-decode.min.js"></script>
+    <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script>
-    window.RS_MODULES = window.RS_MODULES || {};
-    window.RS_MODULES.modules = window.RS_MODULES.modules || {};
-    window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
-    window.RS_MODULES.defered = false;
-    window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
-    window.RS_MODULES.type = 'compiled';
+        window.RS_MODULES = window.RS_MODULES || {};
+        window.RS_MODULES.modules = window.RS_MODULES.modules || {};
+        window.RS_MODULES.waiting = window.RS_MODULES.waiting || [];
+        window.RS_MODULES.defered = false;
+        window.RS_MODULES.moduleWaiting = window.RS_MODULES.moduleWaiting || {};
+        window.RS_MODULES.type = 'compiled';
     </script>
-    <a href="#" class="trx_addons_scroll_to_top trx_addons_icon-up scroll_to_top_style_default"
-        title="Scroll to top"></a><!-- Instagram Feed JS -->
+    <a href="#" class="trx_addons_scroll_to_top trx_addons_icon-up scroll_to_top_style_default" title="Scroll to top"></a><!-- Instagram Feed JS -->
     <script type="text/javascript">
-    var sbiajaxurl = "https://agricola.axiomthemes.com/wp-admin/admin-ajax.php";
+        var sbiajaxurl = "https://agricola.axiomthemes.com/wp-admin/admin-ajax.php";
     </script>
-    <div
-        class="trx_addons_mouse_helper trx_addons_mouse_helper_base trx_addons_mouse_helper_style_default trx_addons_mouse_helper_smooth">
+    <div class="trx_addons_mouse_helper trx_addons_mouse_helper_base trx_addons_mouse_helper_style_default trx_addons_mouse_helper_smooth">
     </div>
     <script type="text/javascript">
-    (function() {
-        var c = document.body.className;
-        c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
-        document.body.className = c;
-    })();
+        (function() {
+            var c = document.body.className;
+            c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
+            document.body.className = c;
+        })();
     </script>
-
-
-    <script type="text/javascript" defer src="js/js-advanced-popups-public.js" id="advanced-popups-js"></script>
-    <script type="text/javascript" defer src="js/js-index.js" id="swv-js"></script>
-    <script type="text/javascript" id="contact-form-7-js-extra">
-    /* <![CDATA[ */
-    var wpcf7 = {
-        "api": {
-            "root": "https:\/\/agricola.axiomthemes.com\/wp-json\/",
-            "namespace": "contact-form-7\/v1"
-        },
-        "cached": "1"
-    };
-    /* ]]> */
-    </script>
-    <script type="text/javascript" defer src="js/js-index.js" id="contact-form-7-js"></script>
-    <script type="text/javascript" defer src="js/js-jquery.powertip.min.js" id="powertip-js"></script>
-    <script type="text/javascript" defer src="js/js-maps_points.js" id="maps-points-js"></script>
-
-
-    <script type="text/javascript" defer src="js/magnific-jquery.magnific-popup.min.js" id="magnific-popup-js"></script>
-    <script type="text/javascript" id="trx_demo_panels-js-extra">
-    /* <![CDATA[ */
-    var TRX_DEMO_STORAGE = {
-        "ajax_url": "https:\/\/agricola.axiomthemes.com\/wp-admin\/admin-ajax.php",
-        "ajax_nonce": "97a84b37c3",
-        "site_url": "https:\/\/agricola.axiomthemes.com",
-        "user_logged_in": "0",
-        "msg_ajax_error": "Invalid server response! Try again later.",
-        "tabs_delay": "3000"
-    };
-    /* ]]> */
-    </script>
-    <script type="text/javascript" defer src="js/js-trx_demo_panels.js" id="trx_demo_panels-js"></script>
-
-
-    <script type="text/javascript" id="tinvwl-js-extra">
-    /* <![CDATA[ */
-    var tinvwl_add_to_wishlist = {
-        "text_create": "Create New",
-        "text_already_in": "{product_name} already in Wishlist",
-        "simple_flow": "",
-        "hide_zero_counter": "",
-        "i18n_make_a_selection_text": "Please select some product options before adding this product to your wishlist.",
-        "tinvwl_break_submit": "No items or actions are selected.",
-        "tinvwl_clipboard": "Copied!",
-        "allow_parent_variable": "",
-        "block_ajax_wishlists_data": "",
-        "update_wishlists_data": "",
-        "hash_key": "ti_wishlist_data_6ea3582e541197a8a202a7f75c2eab9b",
-        "nonce": "caf418133b",
-        "rest_root": "https:\/\/agricola.axiomthemes.com\/wp-json\/",
-        "plugin_url": "https:\/\/agricola.axiomthemes.com\/wp-content\/plugins\/ti-woocommerce-wishlist\/",
-        "wc_ajax_url": "\/?wc-ajax=tinvwl",
-        "stats": "",
-        "popup_timer": "6000"
-    };
-    /* ]]> */
-    </script>
-    <script type="text/javascript" defer src="js/js-public.min.js" id="tinvwl-js"></script>
-    <script type="text/javascript" id="trx_addons-js-extra">
-    /* <![CDATA[ */
-    var TRX_ADDONS_STORAGE = {
-        "admin_mode": "",
-        "ajax_url": "https:\/\/agricola.axiomthemes.com\/wp-admin\/admin-ajax.php",
-        "ajax_nonce": "97a84b37c3",
-        "site_url": "https:\/\/agricola.axiomthemes.com",
-        "post_id": "18038",
-        "vc_edit_mode": "",
-        "is_preview": "",
-        "is_preview_gb": "",
-        "is_preview_elm": "",
-        "popup_engine": "magnific",
-        "scroll_progress": "hide",
-        "hide_fixed_rows": "0",
-        "smooth_scroll": "",
-        "animate_inner_links": "1",
-        "disable_animation_on_mobile": "",
-        "add_target_blank": "0",
-        "menu_collapse": "1",
-        "menu_collapse_icon": "trx_addons_icon-ellipsis-vert",
-        "menu_stretch": "1",
-        "resize_tag_video": "",
-        "resize_tag_iframe": "1",
-        "user_logged_in": "",
-        "theme_slug": "agricola",
-        "theme_bg_color": "#FFFFFF",
-        "theme_accent_color": "#770614",
-        "page_wrap_class": ".page_wrap",
-        "columns_wrap_class": "trx_addons_columns_wrap",
-        "columns_in_single_row_class": "columns_in_single_row",
-        "column_class_template": "trx_addons_column-$1_$2",
-        "email_mask": "^([a-zA-Z0-9_\\-]+\\.)*[a-zA-Z0-9_\\-]+@[a-zA-Z0-9_\\-]+(\\.[a-zA-Z0-9_\\-]+)*\\.[a-zA-Z0-9]{2,12}$",
-        "mobile_breakpoint_fixedrows_off": "768",
-        "mobile_breakpoint_fixedcolumns_off": "768",
-        "mobile_breakpoint_stacksections_off": "768",
-        "mobile_breakpoint_scroll_lag_off": "768",
-        "mobile_breakpoint_fullheight_off": "1025",
-        "mobile_breakpoint_mousehelper_off": "1025",
-        "msg_caption_yes": "Yes",
-        "msg_caption_no": "No",
-        "msg_caption_ok": "OK",
-        "msg_caption_apply": "Apply",
-        "msg_caption_cancel": "Cancel",
-        "msg_caption_attention": "Attention!",
-        "msg_caption_warning": "Warning!",
-        "msg_ajax_error": "Invalid server answer!",
-        "msg_magnific_loading": "Loading image",
-        "msg_magnific_error": "Error loading image",
-        "msg_magnific_close": "Close (Esc)",
-        "msg_error_like": "Error saving your like! Please, try again later.",
-        "msg_field_name_empty": "The name can't be empty",
-        "msg_field_email_empty": "Too short (or empty) email address",
-        "msg_field_email_not_valid": "Invalid email address",
-        "msg_field_text_empty": "The message text can't be empty",
-        "msg_search_error": "Search error! Try again later.",
-        "msg_send_complete": "Send message complete!",
-        "msg_send_error": "Transmit failed!",
-        "msg_validation_error": "Error data validation!",
-        "msg_name_empty": "The name can't be empty",
-        "msg_name_long": "Too long name",
-        "msg_email_empty": "Too short (or empty) email address",
-        "msg_email_long": "E-mail address is too long",
-        "msg_email_not_valid": "E-mail address is invalid",
-        "msg_text_empty": "The message text can't be empty",
-        "msg_copied": "Copied!",
-        "ajax_views": "",
-        "menu_cache": [".menu_mobile_inner nav > ul"],
-        "login_via_ajax": "1",
-        "double_opt_in_registration": "1",
-        "msg_login_empty": "The Login field can't be empty",
-        "msg_login_long": "The Login field is too long",
-        "msg_password_empty": "The password can't be empty and shorter then 4 characters",
-        "msg_password_long": "The password is too long",
-        "msg_login_success": "Login success! The page should be reloaded in 3 sec.",
-        "msg_login_error": "Login failed!",
-        "msg_not_agree": "Please, read and check 'Terms and Conditions'",
-        "msg_password_not_equal": "The passwords in both fields are not equal",
-        "msg_registration_success": "Thank you for registering. Please confirm registration by clicking on the link in the letter sent to the specified email.",
-        "msg_registration_error": "Registration failed!",
-        "shapes_url": "https:\/\/agricola.axiomthemes.com\/wp-content\/themes\/agricola\/skins\/default\/trx_addons\/css\/shapes\/",
-        "mouse_helper_in_swiper_slider": "1",
-        "elementor_stretched_section_container": ".page_wrap",
-        "pagebuilder_preview_mode": "",
-        "elementor_animate_items": ".elementor-heading-title,.sc_item_subtitle,.sc_item_title,.sc_item_descr,.sc_item_posts_container + .sc_item_button,.sc_item_button.sc_title_button,nav > ul > li",
-        "elementor_breakpoints": {
-            "mobile": 767,
-            "tablet": 1024,
-            "desktop": 999999
-        },
-        "add_to_links_url": [{
-            "mask": "elementor.com\/",
-            "link": "https:\/\/be.elementor.com\/visit\/?bta=2496&nci=5383&brand=elementor&utm_campaign=theme"
-        }, {
-            "page": ["admin.php?page=revslider", "plugins.php"],
-            "mask": "\/\/account.sliderrevolution.com\/portal",
-            "link": "https:\/\/themepunch.pxf.io\/4ekEVG"
-        }, {
-            "page": ["admin.php?page=revslider", "plugins.php"],
-            "mask": "\/\/account.sliderrevolution.com\/portal\/pricing",
-            "link": "https:\/\/themepunch.pxf.io\/KeRz5z"
-        }, {
-            "page": ["admin.php?page=revslider", "plugins.php"],
-            "mask": "sliderrevolution.com\/premium-slider-revolution",
-            "link": "https:\/\/themepunch.pxf.io\/9W1nyy"
-        }, {
-            "page": ["admin.php?page=revslider", "plugins.php"],
-            "mask": "\/\/support.sliderrevolution.com",
-            "link": "https:\/\/themepunch.pxf.io\/P0LbGq"
-        }, {
-            "page": ["admin.php?page=revslider", "plugins.php"],
-            "mask": "sliderrevolution.com\/help-center",
-            "link": "https:\/\/themepunch.pxf.io\/doXGdy"
-        }, {
-            "page": ["admin.php?page=revslider", "plugins.php"],
-            "mask": "sliderrevolution.com\/manual",
-            "link": "https:\/\/themepunch.pxf.io\/ZdkK3q"
-        }, {
-            "page": ["admin.php?page=revslider", "plugins.php"],
-            "mask": "sliderrevolution.com\/get-on-board-the-slider-revolution-dashboard",
-            "link": "https:\/\/themepunch.pxf.io\/QOqb1z"
-        }, {
-            "page": ["admin.php?page=revslider", "plugins.php"],
-            "mask": "sliderrevolution.com\/expand-possibilities-with-addons",
-            "link": "https:\/\/themepunch.pxf.io\/6baEN3"
-        }, {
-            "page": ["admin.php?page=revslider", "plugins.php"],
-            "mask": "sliderrevolution.com\/examples",
-            "link": "https:\/\/themepunch.pxf.io\/rnvXdB"
-        }, {
-            "page": ["admin.php?page=revslider", "plugins.php"],
-            "mask": "sliderrevolution.com\/pro-level-design-with-slider-revolution",
-            "link": "https:\/\/themepunch.pxf.io\/jWEmda"
-        }, {
-            "page": ["admin.php?page=revslider", "plugins.php"],
-            "mask": "sliderrevolution.com\/plugin-privacy-policy",
-            "link": "https:\/\/themepunch.pxf.io\/gbzGE0"
-        }, {
-            "page": ["admin.php?page=revslider", "plugins.php"],
-            "mask": "sliderrevolution.com\/faq\/why-was-my-slider-revolution-license-deactivated",
-            "link": "https:\/\/themepunch.pxf.io\/RyxbVy"
-        }, {
-            "page": ["admin.php?page=revslider", "plugins.php"],
-            "mask": "sliderrevolution.com\/faq\/updating-make-sure-clear-caches",
-            "link": "https:\/\/themepunch.pxf.io\/Yg5Nzq"
-        }, {
-            "page": ["admin.php?page=revslider", "plugins.php"],
-            "mask": "sliderrevolution.com\/faq\/where-to-find-purchase-code",
-            "link": "https:\/\/themepunch.pxf.io\/x9xZdO"
-        }, {
-            "page": ["admin.php?page=revslider", "plugins.php"],
-            "mask": "sliderrevolution.com\/documentation\/changelog",
-            "link": "https:\/\/themepunch.pxf.io\/EanyNn"
-        }, {
-            "page": ["admin.php?page=revslider", "plugins.php"],
-            "mask": "sliderrevolution.com\/documentation\/system-requirements\/",
-            "link": "https:\/\/themepunch.pxf.io\/LPv2kO"
-        }, {
-            "page": ["admin.php?page=revslider", "plugins.php"],
-            "mask": "sliderrevolution.com",
-            "link": "https:\/\/themepunch.pxf.io\/DVEORn"
-        }],
-        "animate_to_mc4wp_form_submitted": "1",
-        "msg_no_products_found": "No products found! Please, change query parameters and try again.",
-        "audio_effects_allowed": "0",
-        "bg_colors_selector": "body:not(.body_style_boxed) .page_content_wrap,body.body_style_boxed .page_wrap",
-        "mouse_helper": "1",
-        "mouse_helper_delay": "8",
-        "mouse_helper_centered": "0",
-        "msg_mouse_helper_anchor": "Scroll to",
-        "ai_helper_sc_igenerator_openai_sizes": [],
-        "msg_ai_helper_download": "Download",
-        "msg_ai_helper_download_error": "Error",
-        "msg_ai_helper_download_expired": "The generated image cache timed out. The download link is no longer valid.<br>But you can still download the image by right-clicking on it and selecting \"Save Image As...\"",
-        "portfolio_use_gallery": "",
-        "scroll_to_anchor": "0",
-        "update_location_from_anchor": "0",
-        "msg_sc_googlemap_not_avail": "Googlemap service is not available",
-        "msg_sc_googlemap_geocoder_error": "Error while geocode address",
-        "sc_icons_animation_speed": "50",
-        "msg_sc_osmap_not_avail": "OpenStreetMap service is not available",
-        "msg_sc_osmap_geocoder_error": "Error while geocoding address",
-        "osmap_tiler": "vector",
-        "osmap_tiler_styles": {
-            "basic": {
-                "title": "Basic",
-                "slug": "basic",
-                "url": "https:\/\/api.maptiler.com\/maps\/{style}\/style.json?key=C1rALu26mR1iTxEBrqQj",
-                "maxzoom": "18",
-                "token": ""
+    <script>
+        if (typeof revslider_showDoubleJqueryError === "undefined") {
+            function revslider_showDoubleJqueryError(sliderID) {
+                console.log(
+                    "You have some jquery.js library include that comes after the Slider Revolution files js inclusion."
+                );
+                console.log("To fix this, you can:");
+                console.log(
+                    "1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on"
+                );
+                console.log("2. Find the double jQuery.js inclusion and remove it");
+                return "Double Included jQuery Library";
             }
-        },
-        "osmap_attribution": "Map data \u00a9 <a href=\"https:\/\/www.openstreetmap.org\/\">OpenStreetMap<\/a> contributors",
-        "slider_round_lengths": "1"
-    };
-    /* ]]> */
-    </script>
-    
-    <script type="text/javascript" defer src="js/js-__scripts.js" id="trx_addons-js"></script>
-    <script type="text/javascript" defer src="js/contact-form-7-contact-form-7.js" id="trx_addons-cf7-js"></script>
-    <script type="text/javascript" defer src="js/mouse-helper-mouse-helper.js" id="trx_addons-mouse-helper-js"></script>
-    <script type="text/javascript" defer src="js/skills-chart-legacy.min.js" id="chart-legacy-js"></script>
-    <script type="text/javascript" defer src="js/skills-skills.js" id="trx_addons-sc_skills-js"></script>
-    <script type="text/javascript" defer src="js/menu-superfish.min.js" id="superfish-js"></script>
-    <script type="text/javascript" defer src="js/swiper-swiper.min.js" id="swiper-js"></script>
-    <script type="text/javascript" src="js/tweenmax-tweenmax.min.js" id="tweenmax-js"></script>
-    <script type="text/javascript" id="wpgdprc-front-js-js-extra">
-    /* <![CDATA[ */
-    var wpgdprcFront = {
-        "ajaxUrl": "https:\/\/agricola.axiomthemes.com\/wp-admin\/admin-ajax.php",
-        "ajaxNonce": "b27f7a5a73",
-        "ajaxArg": "security",
-        "pluginPrefix": "wpgdprc",
-        "blogId": "1",
-        "isMultiSite": "",
-        "locale": "en_US",
-        "showSignUpModal": "1",
-        "showFormModal": "",
-        "cookieName": "wpgdprc-consent",
-        "consentVersion": "",
-        "path": "\/",
-        "prefix": "wpgdprc"
-    };
-    /* ]]> */
-    </script>
-    <script type="text/javascript" defer src="js/js-front.min.js" id="wpgdprc-front-js-js"></script>
-    <script type="text/javascript" id="agricola-init-js-extra">
-    /* <![CDATA[ */
-    var AGRICOLA_STORAGE = {
-        "ajax_url": "https:\/\/agricola.axiomthemes.com\/wp-admin\/admin-ajax.php",
-        "ajax_nonce": "97a84b37c3",
-        "site_url": "https:\/\/agricola.axiomthemes.com",
-        "theme_url": "https:\/\/agricola.axiomthemes.com\/wp-content\/themes\/agricola\/",
-        "site_scheme": "scheme_light",
-        "user_logged_in": "",
-        "mobile_layout_width": "768",
-        "mobile_device": "",
-        "mobile_breakpoint_underpanels_off": "768",
-        "mobile_breakpoint_fullheight_off": "1025",
-        "menu_side_stretch": "",
-        "menu_side_icons": "1",
-        "background_video": "",
-        "use_mediaelements": "1",
-        "resize_tag_video": "",
-        "resize_tag_iframe": "1",
-        "open_full_post": "",
-        "which_block_load": "article",
-        "admin_mode": "",
-        "msg_ajax_error": "Invalid server answer!",
-        "msg_i_agree_error": "Please accept the terms of our Privacy Policy.",
-        "toggle_title": "Filter by ",
-        "msg_copied": "Copied!",
-        "alter_link_color": "#770614",
-        "mc4wp_msg_email_min": "Email address is too short (or empty)",
-        "mc4wp_msg_email_max": "Too long email address",
-        "button_hover": "default"
-    };
-    /* ]]> */
-    </script>
-    <script type="text/javascript" defer src="js/js-__scripts.js" id="agricola-init-js"></script>
-    <script id="mediaelement-core-js-before" type="text/javascript">
-    var mejsL10n = {
-        "language": "en",
-        "strings": {
-            "mejs.download-file": "Download File",
-            "mejs.install-flash": "You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/",
-            "mejs.fullscreen": "Fullscreen",
-            "mejs.play": "Play",
-            "mejs.pause": "Pause",
-            "mejs.time-slider": "Time Slider",
-            "mejs.time-help-text": "Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.",
-            "mejs.live-broadcast": "Live Broadcast",
-            "mejs.volume-help-text": "Use Up\/Down Arrow keys to increase or decrease volume.",
-            "mejs.unmute": "Unmute",
-            "mejs.mute": "Mute",
-            "mejs.volume-slider": "Volume Slider",
-            "mejs.video-player": "Video Player",
-            "mejs.audio-player": "Audio Player",
-            "mejs.captions-subtitles": "Captions\/Subtitles",
-            "mejs.captions-chapters": "Chapters",
-            "mejs.none": "None",
-            "mejs.afrikaans": "Afrikaans",
-            "mejs.albanian": "Albanian",
-            "mejs.arabic": "Arabic",
-            "mejs.belarusian": "Belarusian",
-            "mejs.bulgarian": "Bulgarian",
-            "mejs.catalan": "Catalan",
-            "mejs.chinese": "Chinese",
-            "mejs.chinese-simplified": "Chinese (Simplified)",
-            "mejs.chinese-traditional": "Chinese (Traditional)",
-            "mejs.croatian": "Croatian",
-            "mejs.czech": "Czech",
-            "mejs.danish": "Danish",
-            "mejs.dutch": "Dutch",
-            "mejs.english": "English",
-            "mejs.estonian": "Estonian",
-            "mejs.filipino": "Filipino",
-            "mejs.finnish": "Finnish",
-            "mejs.french": "French",
-            "mejs.galician": "Galician",
-            "mejs.german": "German",
-            "mejs.greek": "Greek",
-            "mejs.haitian-creole": "Haitian Creole",
-            "mejs.hebrew": "Hebrew",
-            "mejs.hindi": "Hindi",
-            "mejs.hungarian": "Hungarian",
-            "mejs.icelandic": "Icelandic",
-            "mejs.indonesian": "Indonesian",
-            "mejs.irish": "Irish",
-            "mejs.italian": "Italian",
-            "mejs.japanese": "Japanese",
-            "mejs.korean": "Korean",
-            "mejs.latvian": "Latvian",
-            "mejs.lithuanian": "Lithuanian",
-            "mejs.macedonian": "Macedonian",
-            "mejs.malay": "Malay",
-            "mejs.maltese": "Maltese",
-            "mejs.norwegian": "Norwegian",
-            "mejs.persian": "Persian",
-            "mejs.polish": "Polish",
-            "mejs.portuguese": "Portuguese",
-            "mejs.romanian": "Romanian",
-            "mejs.russian": "Russian",
-            "mejs.serbian": "Serbian",
-            "mejs.slovak": "Slovak",
-            "mejs.slovenian": "Slovenian",
-            "mejs.spanish": "Spanish",
-            "mejs.swahili": "Swahili",
-            "mejs.swedish": "Swedish",
-            "mejs.tagalog": "Tagalog",
-            "mejs.thai": "Thai",
-            "mejs.turkish": "Turkish",
-            "mejs.ukrainian": "Ukrainian",
-            "mejs.vietnamese": "Vietnamese",
-            "mejs.welsh": "Welsh",
-            "mejs.yiddish": "Yiddish"
         }
-    };
     </script>
-    <script type="text/javascript" defer src="js/mediaelement-mediaelement-and-player.min.js" id="mediaelement-core-js">
+    <script type='text/javascript' defer="defer" src='css/plugins/advanced-popups/public/js/advanced-popups-public.js' id='advanced-popups-js'></script>
+    <script type='text/javascript' defer="defer" src='css/plugins/devvn-image-hotspot/frontend/js/jquery.powertip.min.js' id='powertip-js'></script>
+    <script type='text/javascript' defer="defer" src='css/plugins/devvn-image-hotspot/frontend/js/maps_points.js' id='maps-points-js'></script>
+    <script type='text/javascript' defer="defer" src='css/plugins/revslider/public/assets/js/rbtools.min.js' async id='tp-tools-js'></script>
+    <script type='text/javascript' defer="defer" src='css/plugins/revslider/public/assets/js/rs6.min.js' async id='revmin-js'></script>
+    <script type='text/javascript' defer="defer" src='css/plugins/trx_addons/js/magnific/jquery.magnific-popup.min.js' id='magnific-popup-js'></script>
+    <script type='text/javascript' id='trx_demo_panels-js-extra'>
+        /* <![CDATA[ */
+        var TRX_DEMO_STORAGE = {
+            "ajax_url": "https:\/\/agricola.axiomthemes.com\/wp-admin\/admin-ajax.php",
+            "ajax_nonce": "e073edf7b1",
+            "site_url": "https:\/\/agricola.axiomthemes.com",
+            "user_logged_in": "0",
+            "msg_ajax_error": "Invalid server response! Try again later.",
+            "tabs_delay": "3000"
+        };
+        /* ]]> */
     </script>
-    <script type="text/javascript" defer src="js/mediaelement-mediaelement-migrate.min.js" id="mediaelement-migrate-js">
+    <script type='text/javascript' defer="defer" src='css/plugins/trx_demo/js/trx_demo_panels.js' id='trx_demo_panels-js'></script>
+    <script type='text/javascript' defer="defer" src='css/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js' id='jquery-blockui-js'></script>
+    <script type='text/javascript' id='wc-add-to-cart-js-extra'>
+        /* <![CDATA[ */
+        var wc_add_to_cart_params = {
+            "ajax_url": "index.html",
+            "wc_ajax_url": "\/?wc-ajax=%%endpoint%%",
+            "i18n_view_cart": "View cart",
+            "cart_url": "https:\/\/agricola.axiomthemes.com\/cart\/",
+            "is_cart": "",
+            "cart_redirect_after_add": "no"
+        };
+        /* ]]> */
     </script>
-    <script type="text/javascript" id="mediaelement-js-extra">
-    /* <![CDATA[ */
-    var _wpmejsSettings = {
-        "pluginPath": "\/wp-includes\/js\/mediaelement\/",
-        "classPrefix": "mejs-",
-        "stretching": "responsive",
-        "audioShortcodeLibrary": "mediaelement",
-        "videoShortcodeLibrary": "mediaelement"
-    };
-    /* ]]> */
+    <script type='text/javascript' defer="defer" src='css/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js' id='wc-add-to-cart-js'></script>
+    <script type='text/javascript' src='css/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js' id='js-cookie-js'>
     </script>
-    <script type="text/javascript" defer src="js/mediaelement-wp-mediaelement.min.js" id="wp-mediaelement-js"></script>
-    <script type="text/javascript" defer src="js/default-skin.js" id="agricola-skin-default-js"></script>
-    <script type="text/javascript" defer src="js/contact-form-7-contact-form-7.js" id="agricola-contact-form-7-js">
+    <script type='text/javascript' id='woocommerce-js-extra'>
+        /* <![CDATA[ */
+        var woocommerce_params = {
+            "ajax_url": "index.html",
+            "wc_ajax_url": "\/?wc-ajax=%%endpoint%%"
+        };
+        /* ]]> */
     </script>
-    <script type="text/javascript" src="js/js-webpack.runtime.min.js" id="elementor-webpack-runtime-js"></script>
-    <script type="text/javascript" src="js/js-frontend-modules.min.js" id="elementor-frontend-modules-js"></script>
-    <script type="text/javascript" src="js/waypoints-waypoints.min.js" id="elementor-waypoints-js"></script>
-    <script type="text/javascript" src="js/ui-core.min.js" id="jquery-ui-core-js"></script>
-    <script type="text/javascript" src="js/share-link-share-link.min.js" id="share-link-js"></script>
-    <script type="text/javascript" src="js/dialog-dialog.min.js" id="elementor-dialog-js"></script>
-    <script id="elementor-frontend-js-before" type="text/javascript">
-    var elementorFrontendConfig = {
-        "environmentMode": {
-            "edit": false,
-            "wpPreview": false,
-            "isScriptDebug": false
-        },
-        "i18n": {
-            "shareOnFacebook": "Share on Facebook",
-            "shareOnTwitter": "Share on Twitter",
-            "pinIt": "Pin it",
-            "download": "Download",
-            "downloadImage": "Download image",
-            "fullscreen": "Fullscreen",
-            "zoom": "Zoom",
-            "share": "Share",
-            "playVideo": "Play Video",
-            "previous": "Previous",
-            "next": "Next",
-            "close": "Close"
-        },
-        "is_rtl": false,
-        "breakpoints": {
-            "xs": 0,
-            "sm": 480,
-            "md": 768,
-            "lg": 1025,
-            "xl": 1440,
-            "xxl": 1600
-        },
-        "responsive": {
-            "breakpoints": {
-                "mobile": {
-                    "label": "Mobile",
-                    "value": 767,
-                    "default_value": 767,
-                    "direction": "max",
-                    "is_enabled": true
-                },
-                "mobile_extra": {
-                    "label": "Mobile Extra",
-                    "value": 880,
-                    "default_value": 880,
-                    "direction": "max",
-                    "is_enabled": false
-                },
-                "tablet": {
-                    "label": "Tablet",
-                    "value": 1024,
-                    "default_value": 1024,
-                    "direction": "max",
-                    "is_enabled": true
-                },
-                "tablet_extra": {
-                    "label": "Tablet Extra",
-                    "value": 1200,
-                    "default_value": 1200,
-                    "direction": "max",
-                    "is_enabled": false
-                },
-                "laptop": {
-                    "label": "Laptop",
-                    "value": 1366,
-                    "default_value": 1366,
-                    "direction": "max",
-                    "is_enabled": false
-                },
-                "widescreen": {
-                    "label": "Widescreen",
-                    "value": 2400,
-                    "default_value": 2400,
-                    "direction": "min",
-                    "is_enabled": false
+    <script type='text/javascript' defer="defer" src='css/plugins/woocommerce/assets/js/frontend/woocommerce.min.js' id='woocommerce-js'></script>
+    <script type='text/javascript' id='wc-cart-fragments-js-extra'>
+        /* <![CDATA[ */
+        var wc_cart_fragments_params = {
+            "ajax_url": "index.html",
+            "wc_ajax_url": "\/?wc-ajax=%%endpoint%%",
+            "cart_hash_key": "wc_cart_hash_6ea3582e541197a8a202a7f75c2eab9b",
+            "fragment_name": "wc_fragments_6ea3582e541197a8a202a7f75c2eab9b",
+            "request_timeout": "5000"
+        };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' defer="defer" src='css/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js' id='wc-cart-fragments-js'></script>
+    <script type='text/javascript' id='tinvwl-js-extra'>
+        /* <![CDATA[ */
+        var tinvwl_add_to_wishlist = {
+            "text_create": "Create New",
+            "text_already_in": "{product_name} already in Wishlist",
+            "simple_flow": "",
+            "hide_zero_counter": "",
+            "i18n_make_a_selection_text": "Please select some product options before adding this product to your wishlist.",
+            "tinvwl_break_submit": "No items or actions are selected.",
+            "tinvwl_clipboard": "Copied!",
+            "allow_parent_variable": "",
+            "block_ajax_wishlists_data": "",
+            "update_wishlists_data": "",
+            "hash_key": "ti_wishlist_data_6ea3582e541197a8a202a7f75c2eab9b",
+            "nonce": "d9b545e489",
+            "rest_root": "https:\/\/agricola.axiomthemes.com\/wp-json\/",
+            "plugin_url": "https:\/\/agricola.axiomthemes.com\/wp-content\/plugins\/ti-woocommerce-wishlist\/",
+            "wc_ajax_url": "\/?wc-ajax=tinvwl",
+            "stats": "",
+            "popup_timer": "6000"
+        };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' defer="defer" src='css/plugins/ti-woocommerce-wishlist/assets/js/public.min.js' id='tinvwl-js'></script>
+    <script type='text/javascript' id='trx_addons-js-extra'>
+        /* <![CDATA[ */
+        var TRX_ADDONS_STORAGE = {
+            "admin_mode": "",
+            "ajax_url": "https:\/\/agricola.axiomthemes.com\/wp-admin\/admin-ajax.php",
+            "ajax_nonce": "e073edf7b1",
+            "site_url": "https:\/\/agricola.axiomthemes.com",
+            "post_id": "18091",
+            "vc_edit_mode": "",
+            "is_preview": "",
+            "is_preview_gb": "",
+            "is_preview_elm": "",
+            "popup_engine": "magnific",
+            "scroll_progress": "hide",
+            "hide_fixed_rows": "0",
+            "smooth_scroll": "",
+            "animate_inner_links": "1",
+            "disable_animation_on_mobile": "",
+            "add_target_blank": "0",
+            "menu_collapse": "1",
+            "menu_collapse_icon": "trx_addons_icon-ellipsis-vert",
+            "menu_stretch": "1",
+            "resize_tag_video": "",
+            "resize_tag_iframe": "1",
+            "user_logged_in": "",
+            "theme_slug": "agricola",
+            "theme_bg_color": "#FFFFFF",
+            "theme_accent_color": "#F2C200",
+            "page_wrap_class": ".page_wrap",
+            "columns_wrap_class": "trx_addons_columns_wrap",
+            "columns_in_single_row_class": "columns_in_single_row",
+            "column_class_template": "trx_addons_column-$1_$2",
+            "email_mask": "^([a-zA-Z0-9_\\-]+\\.)*[a-zA-Z0-9_\\-]+@[a-zA-Z0-9_\\-]+(\\.[a-zA-Z0-9_\\-]+)*\\.[a-zA-Z0-9]{2,12}$",
+            "mobile_breakpoint_fixedrows_off": "768",
+            "mobile_breakpoint_fixedcolumns_off": "768",
+            "mobile_breakpoint_stacksections_off": "768",
+            "mobile_breakpoint_scroll_lag_off": "768",
+            "mobile_breakpoint_fullheight_off": "1025",
+            "mobile_breakpoint_mousehelper_off": "1025",
+            "msg_caption_yes": "Yes",
+            "msg_caption_no": "No",
+            "msg_caption_ok": "OK",
+            "msg_caption_apply": "Apply",
+            "msg_caption_cancel": "Cancel",
+            "msg_caption_attention": "Attention!",
+            "msg_caption_warning": "Warning!",
+            "msg_ajax_error": "Invalid server answer!",
+            "msg_magnific_loading": "Loading image",
+            "msg_magnific_error": "Error loading image",
+            "msg_magnific_close": "Close (Esc)",
+            "msg_error_like": "Error saving your like! Please, try again later.",
+            "msg_field_name_empty": "The name can't be empty",
+            "msg_field_email_empty": "Too short (or empty) email address",
+            "msg_field_email_not_valid": "Invalid email address",
+            "msg_field_text_empty": "The message text can't be empty",
+            "msg_search_error": "Search error! Try again later.",
+            "msg_send_complete": "Send message complete!",
+            "msg_send_error": "Transmit failed!",
+            "msg_validation_error": "Error data validation!",
+            "msg_name_empty": "The name can't be empty",
+            "msg_name_long": "Too long name",
+            "msg_email_empty": "Too short (or empty) email address",
+            "msg_email_long": "E-mail address is too long",
+            "msg_email_not_valid": "E-mail address is invalid",
+            "msg_text_empty": "The message text can't be empty",
+            "msg_copied": "Copied!",
+            "ajax_views": "",
+            "menu_cache": [".menu_mobile_inner nav > ul"],
+            "login_via_ajax": "1",
+            "double_opt_in_registration": "1",
+            "msg_login_empty": "The Login field can't be empty",
+            "msg_login_long": "The Login field is too long",
+            "msg_password_empty": "The password can't be empty and shorter then 4 characters",
+            "msg_password_long": "The password is too long",
+            "msg_login_success": "Login success! The page should be reloaded in 3 sec.",
+            "msg_login_error": "Login failed!",
+            "msg_not_agree": "Please, read and check 'Terms and Conditions'",
+            "msg_password_not_equal": "The passwords in both fields are not equal",
+            "msg_registration_success": "Thank you for registering. Please confirm registration by clicking on the link in the letter sent to the specified email.",
+            "msg_registration_error": "Registration failed!",
+            "shapes_url": "https:\/\/agricola.axiomthemes.com\/wp-content\/themes\/agricola\/skins\/default\/trx_addons\/css\/shapes\/",
+            "mouse_helper_in_swiper_slider": "1",
+            "elementor_stretched_section_container": ".page_wrap",
+            "pagebuilder_preview_mode": "",
+            "elementor_animate_items": ".elementor-heading-title,.sc_item_subtitle,.sc_item_title,.sc_item_descr,.sc_item_posts_container + .sc_item_button,.sc_item_button.sc_title_button,nav > ul > li",
+            "elementor_breakpoints": {
+                "mobile": 767,
+                "tablet": 1024,
+                "desktop": 999999
+            },
+            "add_to_links_url": [{
+                "mask": "elementor.com\/",
+                "link": "https:\/\/be.elementor.com\/visit\/?bta=2496&nci=5383&brand=elementor&utm_campaign=theme"
+            }, {
+                "page": ["organic-farm/admin-page-revslider.html", "organic-farm/plugins.html"],
+                "mask": "\/\/account.sliderrevolution.com\/portal",
+                "link": "https:\/\/themepunch.pxf.io\/4ekEVG"
+            }, {
+                "page": ["organic-farm/admin-page-revslider.html", "organic-farm/plugins.html"],
+                "mask": "\/\/account.sliderrevolution.com\/portal\/pricing",
+                "link": "https:\/\/themepunch.pxf.io\/KeRz5z"
+            }, {
+                "page": ["organic-farm/admin-page-revslider.html", "organic-farm/plugins.html"],
+                "mask": "sliderrevolution.com\/premium-slider-revolution",
+                "link": "https:\/\/themepunch.pxf.io\/9W1nyy"
+            }, {
+                "page": ["organic-farm/admin-page-revslider.html", "organic-farm/plugins.html"],
+                "mask": "\/\/support.sliderrevolution.com",
+                "link": "https:\/\/themepunch.pxf.io\/P0LbGq"
+            }, {
+                "page": ["organic-farm/admin-page-revslider.html", "organic-farm/plugins.html"],
+                "mask": "sliderrevolution.com\/help-center",
+                "link": "https:\/\/themepunch.pxf.io\/doXGdy"
+            }, {
+                "page": ["organic-farm/admin-page-revslider.html", "organic-farm/plugins.html"],
+                "mask": "sliderrevolution.com\/manual",
+                "link": "https:\/\/themepunch.pxf.io\/ZdkK3q"
+            }, {
+                "page": ["organic-farm/admin-page-revslider.html", "organic-farm/plugins.html"],
+                "mask": "sliderrevolution.com\/get-on-board-the-slider-revolution-dashboard",
+                "link": "https:\/\/themepunch.pxf.io\/QOqb1z"
+            }, {
+                "page": ["organic-farm/admin-page-revslider.html", "organic-farm/plugins.html"],
+                "mask": "sliderrevolution.com\/expand-possibilities-with-addons",
+                "link": "https:\/\/themepunch.pxf.io\/6baEN3"
+            }, {
+                "page": ["organic-farm/admin-page-revslider.html", "organic-farm/plugins.html"],
+                "mask": "sliderrevolution.com\/examples",
+                "link": "https:\/\/themepunch.pxf.io\/rnvXdB"
+            }, {
+                "page": ["organic-farm/admin-page-revslider.html", "organic-farm/plugins.html"],
+                "mask": "sliderrevolution.com\/pro-level-design-with-slider-revolution",
+                "link": "https:\/\/themepunch.pxf.io\/jWEmda"
+            }, {
+                "page": ["organic-farm/admin-page-revslider.html", "organic-farm/plugins.html"],
+                "mask": "sliderrevolution.com\/plugin-privacy-policy",
+                "link": "https:\/\/themepunch.pxf.io\/gbzGE0"
+            }, {
+                "page": ["organic-farm/admin-page-revslider.html", "organic-farm/plugins.html"],
+                "mask": "sliderrevolution.com\/faq\/why-was-my-slider-revolution-license-deactivated",
+                "link": "https:\/\/themepunch.pxf.io\/RyxbVy"
+            }, {
+                "page": ["organic-farm/admin-page-revslider.html", "organic-farm/plugins.html"],
+                "mask": "sliderrevolution.com\/faq\/updating-make-sure-clear-caches",
+                "link": "https:\/\/themepunch.pxf.io\/Yg5Nzq"
+            }, {
+                "page": ["organic-farm/admin-page-revslider.html", "organic-farm/plugins.html"],
+                "mask": "sliderrevolution.com\/faq\/where-to-find-purchase-code",
+                "link": "https:\/\/themepunch.pxf.io\/x9xZdO"
+            }, {
+                "page": ["organic-farm/admin-page-revslider.html", "organic-farm/plugins.html"],
+                "mask": "sliderrevolution.com\/documentation\/changelog",
+                "link": "https:\/\/themepunch.pxf.io\/EanyNn"
+            }, {
+                "page": ["organic-farm/admin-page-revslider.html", "organic-farm/plugins.html"],
+                "mask": "sliderrevolution.com\/documentation\/system-requirements\/",
+                "link": "https:\/\/themepunch.pxf.io\/LPv2kO"
+            }, {
+                "page": ["organic-farm/admin-page-revslider.html", "organic-farm/plugins.html"],
+                "mask": "sliderrevolution.com",
+                "link": "https:\/\/themepunch.pxf.io\/DVEORn"
+            }],
+            "animate_to_mc4wp_form_submitted": "1",
+            "msg_no_products_found": "No products found! Please, change query parameters and try again.",
+            "audio_effects_allowed": "0",
+            "bg_colors_selector": "body:not(.body_style_boxed) .page_content_wrap,body.body_style_boxed .page_wrap",
+            "mouse_helper": "1",
+            "mouse_helper_delay": "8",
+            "mouse_helper_centered": "0",
+            "msg_mouse_helper_anchor": "Scroll to",
+            "ai_helper_sc_igenerator_openai_sizes": [],
+            "msg_ai_helper_download": "Download",
+            "msg_ai_helper_download_error": "Error",
+            "msg_ai_helper_download_expired": "The generated image cache timed out. The download link is no longer valid.<br>But you can still download the image by right-clicking on it and selecting \"Save Image As...\"",
+            "portfolio_use_gallery": "",
+            "scroll_to_anchor": "0",
+            "update_location_from_anchor": "0",
+            "msg_sc_googlemap_not_avail": "Googlemap service is not available",
+            "msg_sc_googlemap_geocoder_error": "Error while geocode address",
+            "sc_icons_animation_speed": "50",
+            "msg_sc_osmap_not_avail": "OpenStreetMap service is not available",
+            "msg_sc_osmap_geocoder_error": "Error while geocoding address",
+            "osmap_tiler": "vector",
+            "osmap_tiler_styles": {
+                "basic": {
+                    "title": "Basic",
+                    "slug": "basic",
+                    "url": "https:\/\/api.maptiler.com\/maps\/{style}\/style.json?key=C1rALu26mR1iTxEBrqQj",
+                    "maxzoom": "18",
+                    "token": ""
                 }
+            },
+            "osmap_attribution": "Map data \u00a9 <a href=\"https:\/\/www.openstreetmap.org\/\">OpenStreetMap<\/a> contributors",
+            "slider_round_lengths": "1"
+        };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' defer="defer" src='css/plugins/trx_addons/js/__scripts.js' id='trx_addons-js'>
+    </script>
+    <script type='text/javascript' defer="defer" src='css/plugins/trx_addons/components/api/woocommerce/woocommerce.js' id='trx_addons-woocommerce-js'></script>
+    <script type='text/javascript' defer="defer" src='css/plugins/trx_addons/addons/mouse-helper/mouse-helper.js' id='trx_addons-mouse-helper-js'></script>
+    <script type='text/javascript' defer="defer" src='css/plugins/trx_addons/components/cpt/layouts/shortcodes/menu/superfish.min.js' id='superfish-js'></script>
+    <script type='text/javascript' defer="defer" src='css/plugins/trx_addons/js/swiper/swiper.min.js' id='swiper-js'>
+    </script>
+    <script type='text/javascript' src='css/plugins/trx_addons/js/tweenmax/tweenmax.min.js' id='tweenmax-js'></script>
+    <script type='text/javascript' id='wpgdprc-front-js-js-extra'>
+        /* <![CDATA[ */
+        var wpgdprcFront = {
+            "ajaxUrl": "https:\/\/agricola.axiomthemes.com\/wp-admin\/admin-ajax.php",
+            "ajaxNonce": "38805982a9",
+            "ajaxArg": "security",
+            "pluginPrefix": "wpgdprc",
+            "blogId": "1",
+            "isMultiSite": "",
+            "locale": "en_US",
+            "showSignUpModal": "1",
+            "showFormModal": "",
+            "cookieName": "wpgdprc-consent",
+            "consentVersion": "",
+            "path": "\/",
+            "prefix": "wpgdprc"
+        };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' defer="defer" src='css/plugins/wp-gdpr-compliance/Assets/js/front.min.js' id='wpgdprc-front-js-js'></script>
+    <script type='text/javascript' id='agricola-init-js-extra'>
+        /* <![CDATA[ */
+        var AGRICOLA_STORAGE = {
+            "ajax_url": "https:\/\/agricola.axiomthemes.com\/wp-admin\/admin-ajax.php",
+            "ajax_nonce": "e073edf7b1",
+            "site_url": "https:\/\/agricola.axiomthemes.com",
+            "theme_url": "https:\/\/agricola.axiomthemes.com\/wp-content\/themes\/agricola\/",
+            "site_scheme": "scheme_light",
+            "user_logged_in": "",
+            "mobile_layout_width": "768",
+            "mobile_device": "",
+            "mobile_breakpoint_underpanels_off": "768",
+            "mobile_breakpoint_fullheight_off": "1025",
+            "menu_side_stretch": "",
+            "menu_side_icons": "1",
+            "background_video": "",
+            "use_mediaelements": "1",
+            "resize_tag_video": "",
+            "resize_tag_iframe": "1",
+            "open_full_post": "",
+            "which_block_load": "article",
+            "admin_mode": "",
+            "msg_ajax_error": "Invalid server answer!",
+            "msg_i_agree_error": "Please accept the terms of our Privacy Policy.",
+            "toggle_title": "Filter by ",
+            "msg_copied": "Copied!",
+            "alter_link_color": "#F2C200",
+            "mc4wp_msg_email_min": "Email address is too short (or empty)",
+            "mc4wp_msg_email_max": "Too long email address",
+            "button_hover": "default"
+        };
+        /* ]]> */
+    </script>
+    <script type='text/javascript' defer="defer" src='wp-content/themes/agricola/js/__scripts.js' id='agricola-init-js'>
+    </script>
+    <script id="mediaelement-core-js-before" type="text/javascript">
+        var mejsL10n = {
+            "language": "en",
+            "strings": {
+                "mejs.download-file": "Download File",
+                "mejs.install-flash": "You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/",
+                "mejs.fullscreen": "Fullscreen",
+                "mejs.play": "Play",
+                "mejs.pause": "Pause",
+                "mejs.time-slider": "Time Slider",
+                "mejs.time-help-text": "Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.",
+                "mejs.live-broadcast": "Live Broadcast",
+                "mejs.volume-help-text": "Use Up\/Down Arrow keys to increase or decrease volume.",
+                "mejs.unmute": "Unmute",
+                "mejs.mute": "Mute",
+                "mejs.volume-slider": "Volume Slider",
+                "mejs.video-player": "Video Player",
+                "mejs.audio-player": "Audio Player",
+                "mejs.captions-subtitles": "Captions\/Subtitles",
+                "mejs.captions-chapters": "Chapters",
+                "mejs.none": "None",
+                "mejs.afrikaans": "Afrikaans",
+                "mejs.albanian": "Albanian",
+                "mejs.arabic": "Arabic",
+                "mejs.belarusian": "Belarusian",
+                "mejs.bulgarian": "Bulgarian",
+                "mejs.catalan": "Catalan",
+                "mejs.chinese": "Chinese",
+                "mejs.chinese-simplified": "Chinese (Simplified)",
+                "mejs.chinese-traditional": "Chinese (Traditional)",
+                "mejs.croatian": "Croatian",
+                "mejs.czech": "Czech",
+                "mejs.danish": "Danish",
+                "mejs.dutch": "Dutch",
+                "mejs.english": "English",
+                "mejs.estonian": "Estonian",
+                "mejs.filipino": "Filipino",
+                "mejs.finnish": "Finnish",
+                "mejs.french": "French",
+                "mejs.galician": "Galician",
+                "mejs.german": "German",
+                "mejs.greek": "Greek",
+                "mejs.haitian-creole": "Haitian Creole",
+                "mejs.hebrew": "Hebrew",
+                "mejs.hindi": "Hindi",
+                "mejs.hungarian": "Hungarian",
+                "mejs.icelandic": "Icelandic",
+                "mejs.indonesian": "Indonesian",
+                "mejs.irish": "Irish",
+                "mejs.italian": "Italian",
+                "mejs.japanese": "Japanese",
+                "mejs.korean": "Korean",
+                "mejs.latvian": "Latvian",
+                "mejs.lithuanian": "Lithuanian",
+                "mejs.macedonian": "Macedonian",
+                "mejs.malay": "Malay",
+                "mejs.maltese": "Maltese",
+                "mejs.norwegian": "Norwegian",
+                "mejs.persian": "Persian",
+                "mejs.polish": "Polish",
+                "mejs.portuguese": "Portuguese",
+                "mejs.romanian": "Romanian",
+                "mejs.russian": "Russian",
+                "mejs.serbian": "Serbian",
+                "mejs.slovak": "Slovak",
+                "mejs.slovenian": "Slovenian",
+                "mejs.spanish": "Spanish",
+                "mejs.swahili": "Swahili",
+                "mejs.swedish": "Swedish",
+                "mejs.tagalog": "Tagalog",
+                "mejs.thai": "Thai",
+                "mejs.turkish": "Turkish",
+                "mejs.ukrainian": "Ukrainian",
+                "mejs.vietnamese": "Vietnamese",
+                "mejs.welsh": "Welsh",
+                "mejs.yiddish": "Yiddish"
             }
-        },
-        "version": "3.7.7",
-        "is_static": false,
-        "experimentalFeatures": {
-            "e_import_export": true,
-            "e_hidden_wordpress_widgets": true,
-            "landing-pages": true,
-            "elements-color-picker": true,
-            "favorite-widgets": true,
-            "admin-top-bar": true
-        },
-        "urls": {
-            "assets": "https:\/\/agricola.axiomthemes.com\/wp-content\/plugins\/elementor\/assets\/"
-        },
-        "settings": {
-            "page": [],
-            "editorPreferences": []
-        },
-        "kit": {
-            "stretched_section_container": ".page_wrap",
-            "active_breakpoints": ["viewport_mobile", "viewport_tablet"],
-            "global_image_lightbox": "yes",
-            "lightbox_enable_counter": "yes",
-            "lightbox_enable_fullscreen": "yes",
-            "lightbox_enable_zoom": "yes",
-            "lightbox_enable_share": "yes",
-            "lightbox_title_src": "title",
-            "lightbox_description_src": "description"
-        },
-        "post": {
-            "id": 18038,
-            "title": "Agro%20Services%20%E2%80%93%20Agricola",
-            "excerpt": "",
-            "featuredImage": false
-        }
-    };
+        };
     </script>
-    <script src="js/jquery-3.4.1.min.js"></script>
-        <script src="js/popper.min.js"></script>
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/jquery.steps.min.js"></script>
-        <script src="js/bd-wizard.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.7.0/js/uikit.min.js"></script>
-    <script type="text/javascript" src="js/js-frontend.min.js" id="elementor-frontend-js"></script>
-    <script type="text/javascript" src="js/js-preloaded-modules.min.js" id="preloaded-modules-js"></script>
-    <script>
-       
-
-    // Get all slider items
-    // Variables
-    const slider = document.querySelector('.uk-slider-container');
-    const sliderItems = document.querySelectorAll('.slider-item');
-    const itemWidth = sliderItems[0].clientWidth;
-    let currentIndex = 0;
-
-    // Function to smoothly slide to the next item
-    function slideNext() {
-        currentIndex = (currentIndex + 1) % sliderItems.length;
-
-        // Calculate the offset for smooth sliding
-        const offset = -currentIndex * itemWidth;
-
-        // Apply a smooth transition effect
-        slider.style.transition = 'transform 1s ease-in-out';
-        slider.style.transform = `translateX(${offset}px)`;
-
-        // Reset the transition property to prevent abrupt transitions
-        setTimeout(() => {
-            slider.style.transition = 'none';
-        }, 1000); // Adjust the timing as needed
-    }
-
-    // Function to start automatic sliding
-    function startAutoSlide() {
-        setInterval(slideNext, 1000); // Slide every 5 seconds
-    }
-
-    // Initialize automatic sliding
-    startAutoSlide();
+    <script type='text/javascript' defer="defer" src='js/mediaelement-mediaelement-and-player.min.js' id='mediaelement-core-js'></script>
+    <script type='text/javascript' defer="defer" src='js/mediaelement-mediaelement-migrate.min.js' id='mediaelement-migrate-js'></script>
+    <script type='text/javascript' id='mediaelement-js-extra'>
+        /* <![CDATA[ */
+        var _wpmejsSettings = {
+            "pluginPath": "\/wp-includes\/js\/mediaelement\/",
+            "classPrefix": "mejs-",
+            "stretching": "responsive",
+            "audioShortcodeLibrary": "mediaelement",
+            "videoShortcodeLibrary": "mediaelement"
+        };
+        /* ]]> */
     </script>
-
-    <script>
-		document.addEventListener('DOMContentLoaded', function () {
-			// Get references to form and loader container
-			const form = document.querySelector('form');
-			const loaderContainer = document.getElementById('loader-container');
-			const submitText = document.getElementById('submit-text');
-			const successText = document.getElementById('success_text');
-			const failedText = document.getElementById('error_text');
-
-			// Add a submit event listener to the form
-			form.addEventListener('submit', function (e) {
-				e.preventDefault(); // Prevent the default form submission
-
-				// Show the loader GIF while processing
-				loaderContainer.style.display = 'block';
-				submitText.style.display = 'none';
-
-				// Create a FormData object to collect form data
-				const formData = new FormData(form);
-
-				// Make a POST request to your Laravel API endpoint
-				fetch('https:/auth.greenwebbtech.com/api/contact-us', {
-					method: 'POST',
-					body: formData,
-				})
-				.then(response => {
-					if (response.ok) {
-						// Handle the response here, e.g., show a success message
-						// alert('Form submitted successfully.');
-						failedText.style.display = 'none';
-						successText.style.display = 'block';
-						
-					} else {
-						// Handle errors, e.g., show an error message
-						// alert('Form submission failed.');
-						successText.style.display = 'none';
-						failedText.style.display = 'block';
-					}
-				})
-				.catch(error => {
-					// Handle network errors, e.g., show a connection error message
-					alert('Network error:', error);
-				})
-				.finally(() => {
-					// Hide the loader GIF
-					loaderContainer.style.display = 'none';
-					submitText.style.display = 'block';
-				});
-			});
-		});
-
+    <script type='text/javascript' defer="defer" src='js/mediaelement-wp-mediaelement.min.js' id='wp-mediaelement-js'>
+    </script>
+    <script type='text/javascript' defer="defer" src='js/default-skin.js' id='agricola-skin-default-js'></script>
+    <script type='text/javascript' defer="defer" src='wp-content/themes/agricola/plugins/woocommerce/woocommerce.js' id='agricola-woocommerce-js'></script>
+    <script type='text/javascript' src='css/plugins/elementor/assets/js/webpack.runtime.min.js' id='elementor-webpack-runtime-js'></script>
+    <script type='text/javascript' src='css/plugins/elementor/assets/js/frontend-modules.min.js' id='elementor-frontend-modules-js'></script>
+    <script type='text/javascript' src='css/plugins/elementor/assets/lib/waypoints/waypoints.min.js' id='elementor-waypoints-js'></script>
+    <script type='text/javascript' src='js/ui-core.min.js' id='jquery-ui-core-js'></script>
+    <script type='text/javascript' src='css/plugins/elementor/assets/lib/share-link/share-link.min.js' id='share-link-js'></script>
+    <script type='text/javascript' src='css/plugins/elementor/assets/lib/dialog/dialog.min.js' id='elementor-dialog-js'>
+    </script>
+    <script id="elementor-frontend-js-before" type="text/javascript">
+        var elementorFrontendConfig = {
+            "environmentMode": {
+                "edit": false,
+                "wpPreview": false,
+                "isScriptDebug": false
+            },
+            "i18n": {
+                "shareOnFacebook": "Share on Facebook",
+                "shareOnTwitter": "Share on Twitter",
+                "pinIt": "Pin it",
+                "download": "Download",
+                "downloadImage": "Download image",
+                "fullscreen": "Fullscreen",
+                "zoom": "Zoom",
+                "share": "Share",
+                "playVideo": "Play Video",
+                "previous": "Previous",
+                "next": "Next",
+                "close": "Close"
+            },
+            "is_rtl": false,
+            "breakpoints": {
+                "xs": 0,
+                "sm": 480,
+                "md": 768,
+                "lg": 1025,
+                "xl": 1440,
+                "xxl": 1600
+            },
+            "responsive": {
+                "breakpoints": {
+                    "mobile": {
+                        "label": "Mobile",
+                        "value": 767,
+                        "default_value": 767,
+                        "direction": "max",
+                        "is_enabled": true
+                    },
+                    "mobile_extra": {
+                        "label": "Mobile Extra",
+                        "value": 880,
+                        "default_value": 880,
+                        "direction": "max",
+                        "is_enabled": false
+                    },
+                    "tablet": {
+                        "label": "Tablet",
+                        "value": 1024,
+                        "default_value": 1024,
+                        "direction": "max",
+                        "is_enabled": true
+                    },
+                    "tablet_extra": {
+                        "label": "Tablet Extra",
+                        "value": 1200,
+                        "default_value": 1200,
+                        "direction": "max",
+                        "is_enabled": false
+                    },
+                    "laptop": {
+                        "label": "Laptop",
+                        "value": 1366,
+                        "default_value": 1366,
+                        "direction": "max",
+                        "is_enabled": false
+                    },
+                    "widescreen": {
+                        "label": "Widescreen",
+                        "value": 2400,
+                        "default_value": 2400,
+                        "direction": "min",
+                        "is_enabled": false
+                    }
+                }
+            },
+            "version": "3.7.7",
+            "is_static": false,
+            "experimentalFeatures": {
+                "e_import_export": true,
+                "e_hidden_wordpress_widgets": true,
+                "landing-pages": true,
+                "elements-color-picker": true,
+                "favorite-widgets": true,
+                "admin-top-bar": true
+            },
+            "urls": {
+                "assets": "https:\/\/agricola.axiomthemes.com\/wp-content\/plugins\/elementor\/assets\/"
+            },
+            "settings": {
+                "page": [],
+                "editorPreferences": []
+            },
+            "kit": {
+                "stretched_section_container": ".page_wrap",
+                "active_breakpoints": ["viewport_mobile", "viewport_tablet"],
+                "global_image_lightbox": "yes",
+                "lightbox_enable_counter": "yes",
+                "lightbox_enable_fullscreen": "yes",
+                "lightbox_enable_zoom": "yes",
+                "lightbox_enable_share": "yes",
+                "lightbox_title_src": "title",
+                "lightbox_description_src": "description"
+            },
+            "post": {
+                "id": 18091,
+                "title": "Organic%20Farm%20%E2%80%93%20Agricola",
+                "excerpt": "",
+                "featuredImage": false
+            }
+        };
+    </script>
+    <script type='text/javascript' src='css/plugins/elementor/assets/js/frontend.min.js' id='elementor-frontend-js'>
+    </script>
+    <script type='text/javascript' src='css/plugins/elementor/assets/js/preloaded-modules.min.js' id='preloaded-modules-js'></script>
+    <script id="rs-initialisation-scripts">
+        var tpj = jQuery;
+        var revapi4;
+        if (window.RS_MODULES === undefined) window.RS_MODULES = {};
+        if (RS_MODULES.modules === undefined) RS_MODULES.modules = {};
+        RS_MODULES.modules["revslider41"] = {
+            once: RS_MODULES.modules["revslider41"] !== undefined ? RS_MODULES.modules["revslider41"].once : undefined,
+            init: function() {
+                window.revapi4 = window.revapi4 === undefined || window.revapi4 === null || window.revapi4
+                    .length === 0 ? document.getElementById("rev_slider_4_1") : window.revapi4;
+                if (window.revapi4 === null || window.revapi4 === undefined || window.revapi4.length == 0) {
+                    window.revapi4initTry = window.revapi4initTry === undefined ? 0 : window.revapi4initTry + 1;
+                    if (window.revapi4initTry < 20) requestAnimationFrame(function() {
+                        RS_MODULES.modules["revslider41"].init()
+                    });
+                    return;
+                }
+                window.revapi4 = jQuery(window.revapi4);
+                if (window.revapi4.revolution == undefined) {
+                    revslider_showDoubleJqueryError("rev_slider_4_1");
+                    return;
+                }
+                revapi4.revolutionInit({
+                    revapi: "revapi4",
+                    DPR: "dpr",
+                    sliderLayout: "fullscreen",
+                    visibilityLevels: "1240,1460,785,500",
+                    gridwidth: "1920,1440,778,480",
+                    gridheight: "980,700,480,480",
+                    lazyType: "smart",
+                    perspective: 600,
+                    perspectiveType: "global",
+                    editorheight: "980,700,480,480",
+                    responsiveLevels: "1240,1460,785,500",
+                    progressBar: {
+                        disableProgressBar: true
+                    },
+                    navigation: {
+                        wheelCallDelay: 1000,
+                        onHoverStop: false,
+                        touch: {
+                            touchenabled: true,
+                            touchOnDesktop: true
+                        },
+                        arrows: {
+                            enable: true,
+                            style: "arrows_simple",
+                            hide_onmobile: true,
+                            hide_under: "1136px",
+                            animSpeed: "500ms",
+                            animDelay: "500ms",
+                            left: {
+                                anim: "right",
+                                h_offset: 66
+                            },
+                            right: {
+                                anim: "left",
+                                h_offset: 66
+                            }
+                        },
+                        bullets: {
+                            enable: true,
+                            tmp: "",
+                            style: "bullets_dots_fill",
+                            v_offset: 50,
+                            space: 22
+                        }
+                    },
+                    parallax: {
+                        levels: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 15, 17, 20, 25, 30],
+                        type: "mouse",
+                        origo: "slidercenter",
+                        speed: 0
+                    },
+                    viewPort: {
+                        global: true,
+                        globalDist: "-200px",
+                        enable: false
+                    },
+                    fallbacks: {
+                        allowHTML5AutoPlayOnAndroid: true
+                    },
+                });
+            }
+        } // End of RevInitScript
+        if (window.RS_MODULES.checkMinimal !== undefined) {
+            window.RS_MODULES.checkMinimal();
+        };
 	</script>
 </body>
 
