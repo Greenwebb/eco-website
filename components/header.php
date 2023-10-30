@@ -12,6 +12,7 @@
 
 /* Style when the dropdown is open */
 #dropdown-content.show {
+    margin-top: 6%;
     display: block;
     padding: 3%;
 }
@@ -257,7 +258,7 @@
                                         <div class="sc_layouts_item elementor-element elementor-element-feaea9d sc_layouts_hide_on_mobile sc_fly_static elementor-widget elementor-widget-trx_sc_button" data-id="feaea9d" data-element_type="widget" data-widget_type="trx_sc_button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="sc_item_button sc_button_wrap">
-                                                    <a href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button hide_on_mobile sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                    <a href="https://auth.greenwebbtech.com/register?source=website&destination=website&type=farmer" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button hide_on_mobile sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                                                         <span class="sc_button_text">
                                                             <span class="sc_button_title">Farmer</span>
                                                         </span>
@@ -269,7 +270,7 @@
                                         <div class="sc_layouts_item elementor-element elementor-element-feaea9d sc_layouts_hide_on_mobile sc_fly_static elementor-widget elementor-widget-trx_sc_button" data-id="feaea9d" data-element_type="widget" data-widget_type="trx_sc_button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="sc_item_button sc_button_wrap">
-                                                    <a href="#" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button hide_on_mobile sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                    <a href="https://auth.greenwebbtech.com/register?source=website&destination=website&type=agronomist" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button hide_on_mobile sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                                                         <span class="sc_button_text">
                                                             <span class="sc_button_title">Agronomist</span>
                                                         </span>
