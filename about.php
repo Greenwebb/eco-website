@@ -5846,12 +5846,12 @@
                                                                                     data-widget_type="agrarium_heading.default">
                                                                                     <div class="elementor-widget-container">
                                                                                         <div class="agrarium-heading-widget">
-                                                                                            <h2 class="agrarium-heading">
+                                                                                            <h1 class="agrarium-heading">
                                                                                                 <span class="agrarium-subheading">
                                                                                                     About EcoAgro 
                                                                                                 </span>
                                                                                                 <span class="agrarium-heading-content">Zambian Agriculture Ecosystem Platform</span>
-                                                                                            </h2>
+                                                                                            </h1>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -5864,7 +5864,7 @@
                                                                                         <div
                                                                                             class="elementor-text-editor elementor-clearfix">
                                                                                             <p>
-                                                                                                <strong><span
+                                                                                                <span
                                                                                                         style="color: #2c2c2c">
                                                                                                         EcoAgro is a leading call center business 
                                                                                                         for agriculture, specializing in serving 
@@ -5882,9 +5882,110 @@
                                                                                                         community and provide tailored solutions 
                                                                                                         that drive productivity and growth.
 
-                                                                                                    </span></strong>
+                                                                                                    </span>
                                                                                             </p>
-                                                                                            <p>
+                                                                                            <div
+                                                                                        class="elementor-column-wrap elementor-element-populated">
+                                                                                        <div
+                                                                                            class="elementor-widget-wrap">
+                                                                                            <div class="elementor-element elementor-element-01f4f36 sc_fly_static elementor-widget elementor-widget-heading"
+                                                                                                data-id="01f4f36"
+                                                                                                data-element_type="widget"
+                                                                                                data-widget_type="heading.default">
+                                                                                                <div
+                                                                                                    class="elementor-widget-container">
+                                                                                                    <h5
+                                                                                                        class="elementor-heading-title elementor-size-default">
+                                                                                                        What We Do</h5>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div style="padding:2%" class="elementor-element elementor-element-7d31cf7 sc_fly_static elementor-widget elementor-widget-spacer"
+                                                                                                data-id="7d31cf7"
+                                                                                                data-element_type="widget"
+                                                                                                data-widget_type="spacer.default">
+                                                                                                <div
+                                                                                                    class="elementor-widget-container">
+                                                                                                    <div
+                                                                                                        class="elementor-spacer">
+                                                                                                        <div
+                                                                                                            class="elementor-spacer-inner">
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div class="elementor-element elementor-element-96efdb5 sc_fly_static elementor-widget elementor-widget-text-editor"
+                                                                                                data-id="96efdb5"
+                                                                                                data-element_type="widget"
+                                                                                                data-widget_type="text-editor.default">
+                                                                                                <div
+                                                                                                    class="elementor-widget-container">
+                                                                                                    <div
+                                                                                                        class="elementor-text-editor elementor-clearfix">
+                                                                                                        <p>"We specialize in delivering top-quality Advisory Services and Agrotech Tools. 
+                                                                                                            Our mission is to provide excellence and innovation to diverse industries, 
+                                                                                                            particularly in agriculture. Discover how we can assist you in achieving success.."
+                                                                                                        </p>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div class="elementor-element elementor-element-db3dfa1 sc_height_small sc_fly_static elementor-widget elementor-widget-spacer"
+                                                                                                data-id="db3dfa1"
+                                                                                                data-element_type="widget"
+                                                                                                data-widget_type="spacer.default">
+                                                                                                <div
+                                                                                                    class="elementor-widget-container">
+                                                                                                    <div
+                                                                                                        class="elementor-spacer">
+                                                                                                        <div
+                                                                                                            class="elementor-spacer-inner">
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div class="elementor-element elementor-element-785f10a sc_fly_static elementor-widget elementor-widget-heading"
+                                                                                                data-id="785f10a"
+                                                                                                data-element_type="widget"
+                                                                                                data-widget_type="heading.default">
+                                                                                                <div class="elementor-widget-container">
+                                                                                                    <h5 class="elementor-heading-title elementor-size-default">
+                                                                                                        The
+                                                                                                        Opportunities
+                                                                                                    </h5>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div style="padding:2%" class="elementor-element elementor-element-d7f76cf sc_fly_static elementor-widget elementor-widget-spacer"
+                                                                                                data-id="d7f76cf"
+                                                                                                data-element_type="widget"
+                                                                                                data-widget_type="spacer.default">
+                                                                                                <div
+                                                                                                    class="elementor-widget-container">
+                                                                                                    <div
+                                                                                                        class="elementor-spacer">
+                                                                                                        <div
+                                                                                                            class="elementor-spacer-inner">
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div class="elementor-element elementor-element-0c2a35a sc_fly_static elementor-widget elementor-widget-text-editor"
+                                                                                                data-id="0c2a35a"
+                                                                                                data-element_type="widget"
+                                                                                                data-widget_type="text-editor.default">
+                                                                                                <div
+                                                                                                    class="elementor-widget-container">
+                                                                                                    <div
+                                                                                                        class="elementor-text-editor elementor-clearfix">
+                                                                                                        <p>
+                                                                                                        We believe in creating limitless possibilities through our unwavering commitment 
+                                                                                                        to excellence and innovation. Our mission  is to unlock potential and drive progress. 
+                                                                                                        Join us on this journey of growth and transformation.
+                                                                                                        </p>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                            <!-- <p>
                                                                                             At EcoAgro, we are dedicated 
                                                                                             to supporting the success of 
                                                                                             farmers by leveraging 
@@ -5898,7 +5999,7 @@
                                                                                             productivity, profitability, and 
                                                                                             sustainable farming practices.
 
-                                                                                            </p>
+                                                                                            </p> -->
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -7119,7 +7220,7 @@
                                         </div>
                                     </div>
                                 </section>  -->
-                                <section style="padding-top: 4%; padding-bottom:4%" lass="elementor-section elementor-top-section elementor-element elementor-element-477720b8 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                <!-- <section style="padding-top: 4%; padding-bottom:4%" lass="elementor-section elementor-top-section elementor-element elementor-element-477720b8 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                                     data-id="477720b8" data-element_type="section">
                                     <div class="elementor-container elementor-column-gap-default">
                                         <div class="elementor-row">
@@ -7300,7 +7401,8 @@
                                             </div>
                                         </div>
                                     </div>
-                                </section>
+                                </section> -->
+                                <br>
                             </div>
                         </div>
                     </div>

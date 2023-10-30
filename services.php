@@ -5784,10 +5784,12 @@
                                                                                         <div class="elementor-widget-container">
                                                                                             <div class="agrarium-heading-widget">
                                                                                                 <h2 class="agrarium-heading">
-                                                                                                    <span class="agrarium-subheading">We
-                                                                                                        grow for
-                                                                                                        you</span><span class="agrarium-heading-content">
-                                                                                                        Our Services</span>
+                                                                                                    <span class="agrarium-subheading">
+                                                                                                        Your Partner in Progress
+                                                                                                    </span>
+                                                                                                    <span class="agrarium-heading-content">
+                                                                                                        Our Services
+                                                                                                    </span>
                                                                                                 </h2>
                                                                                             </div>
                                                                                         </div>
@@ -5989,49 +5991,66 @@
                                                             <section style="margin-top: -10%;" class="elementor-section elementor-inner-section elementor-element elementor-element-27e45935 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="27e45935" data-element_type="section" data-settings='{"animation":"none"}'>
                                                                 <div class="elementor-container elementor-column-gap-extended">
                                                                     <div class="elementor-row">
-                                                                        <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-4f106a13" data-id="4f106a13" data-element_type="column">
+                                                                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4f106a13" data-id="4f106a13" data-element_type="column">
                                                                             <div class="elementor-column-wrap elementor-element-populated">
                                                                                 <div class="elementor-widget-wrap">
                                                                                     <div class="elementor-element elementor-element-7627cce8 elementor-widget elementor-widget-agrarium_banner" data-id="7627cce8" data-element_type="widget" data-widget_type="agrarium_banner.default">
                                                                                         <div class="elementor-widget-container">
 
                                                                                             <div class="banner-widget banner-widget-type-2">
-                                                                                                <a href="https://auth.greenwebbtech.com/login?source=website&destination=call-center" class="banner-inner" target="_blank"><span class="banner-bg"></span><span class="banner-overlay"></span><span class="banner-content"><span class="additional-title">Call Center</span><span class="overlay-title">Call Center</span></span></a>
+                                                                                                <a href="https://call-center.greenwebbtech.com" class="banner-inner" target="_blank"><span class="banner-bg"></span>
+                                                                                                    <span class="banner-overlay"></span>
+                                                                                                    <span class="banner-content">
+                                                                                                        <span class="additional-title">Call Center</span>
+                                                                                                        <!-- <span class="overlay-title">Call Center</span> -->
+                                                                                                    </span>
+                                                                                                </a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                        <div class="pt-mobile elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-607952a0" data-id="607952a0" data-element_type="column">
+                                                                        <div class="pt-mobile elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-607952a0" data-id="607952a0" data-element_type="column">
                                                                             <div class="elementor-column-wrap elementor-element-populated">
                                                                                 <div class="elementor-widget-wrap">
                                                                                     <div class="elementor-element elementor-element-6a98d518 elementor-widget elementor-widget-agrarium_banner" data-id="6a98d518" data-element_type="widget" data-widget_type="agrarium_banner.default">
                                                                                         <div class="elementor-widget-container">
 
                                                                                             <div class="banner-widget banner-widget-type-2">
-                                                                                                <a href="https://auth.greenwebbtech.com/login?source=website&destination=website" class="banner-inner" target="_blank"><span class="banner-bg"></span><span class="banner-overlay"></span><span class="banner-content"><span class="additional-title">Advisory Services</span><span class="overlay-title">Advisory Services</span></span></a>
+                                                                                                <a href="https://call-center.greenwebbtech.com" class="banner-inner" target="_blank"><span class="banner-bg"></span>
+                                                                                                    <span class="banner-overlay"></span>
+                                                                                                    <span class="banner-content">
+                                                                                                        <span class="additional-title">Advisory Services</span>
+                                                                                                    </span>
+                                                                                                </a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                        <div class="pt-mobile elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7c181ee2" data-id="7c181ee2" data-element_type="column">
+                                                                        <div class="pt-mobile elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7c181ee2" data-id="7c181ee2" data-element_type="column">
                                                                             <div class="elementor-column-wrap elementor-element-populated">
                                                                                 <div class="elementor-widget-wrap">
                                                                                     <div class="elementor-element elementor-element-5073036f elementor-widget elementor-widget-agrarium_banner" data-id="5073036f" data-element_type="widget" data-widget_type="agrarium_banner.default">
                                                                                         <div class="elementor-widget-container">
 
                                                                                             <div class="banner-widget banner-widget-type-2">
-                                                                                                <a href="https://auth.greenwebbtech.com/login?source=website&destination=marketplace" class="banner-inner" target="_blank"><span class="banner-bg"></span><span class="banner-overlay"></span><span class="banner-content"><span class="additional-title">Marketplace</span><span class="overlay-title">Marketplace</span></span></a>
+                                                                                                <a href="https://auth.greenwebbtech.com/login?source=website&destination=marketplace" class="banner-inner" target="_blank">
+                                                                                                    <span class="banner-bg"></span>
+                                                                                                    <span class="banner-overlay"></span>
+                                                                                                    <span class="banner-content">
+                                                                                                        <span class="additional-title">Marketplace</span>
+                                                                                                    </span>
+                                                                                                </a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
                                                                         </div>
-                                                                        <div class="pt-mobile elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7fa93e39" data-id="7fa93e39" data-element_type="column">
+                                                                        <!-- <div class="pt-mobile elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7fa93e39" data-id="7fa93e39" data-element_type="column">
                                                                             <div class="elementor-column-wrap elementor-element-populated">
                                                                                 <div class="elementor-widget-wrap">
                                                                                     <div class="elementor-element elementor-element-6bb90aae elementor-widget elementor-widget-agrarium_banner" data-id="6bb90aae" data-element_type="widget" data-widget_type="agrarium_banner.default">
@@ -6045,7 +6064,7 @@
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
-                                                                        </div>
+                                                                        </div> -->
                                                                     </div>
                                                                 </div>
                                                             </section>
@@ -6056,7 +6075,7 @@
                                         </div>
                                     </section>
                                     <br><br>
-                                    <section class="elementor-section elementor-top-section elementor-element elementor-element-2b6cd1a1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2b6cd1a1" data-element_type="section">
+                                    <!-- <section class="elementor-section elementor-top-section elementor-element elementor-element-2b6cd1a1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2b6cd1a1" data-element_type="section">
                                         <div class="elementor-container elementor-column-gap-default">
                                             <div class="elementor-row">
                                                 <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-68a14509" data-id="68a14509" data-element_type="column">
@@ -6160,69 +6179,10 @@
                                                 </div>
                                             </div>
                                         </div>
-                                    </section>
-                                    <section style="padding-bottom:4%;" class="elementor-section elementor-top-section elementor-element elementor-element-79d6658 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="79d6658" data-element_type="section" data-settings='{"stretch_section":"section-stretched"}'>
-                                        <div class="elementor-container elementor-column-gap-extended">
-                                            <div class="elementor-row">
-                                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7ff58a0" data-id="7ff58a0" data-element_type="column" data-settings='{"animation":"none"}'>
-                                                    <div class="elementor-column-wrap elementor-element-populated">
-                                                        <div class="elementor-widget-wrap">
-                                                            <div class="elementor-element elementor-element-821ef10 elementor-element-valign-center elementor-widget elementor-widget-agrarium_banner" data-id="821ef10" data-element_type="widget" data-widget_type="agrarium_banner.default">
-                                                                <div class="elementor-widget-container">
+                                    </section> -->
+                                    
 
-                                                                    <div class="banner-widget banner-widget-type-2">
-                                                                        <span class="banner-inner">
-                                                                            <span class="banner-bg"></span><span class="banner-overlay"></span><span class="banner-content"><span class="banner-title">
-                                                                                Skilled Agricultural Experts</span><span class="banner-description">
-                                                                                Our team of experts possess in-depth knowledge of various farming 
-                                                                                practices, crop cultivation, livestock management, 
-                                                                                and agricultural technologies. 
-                                                                                </span>
-                                                                                    <span class="banner-button underline">
-                                                                                        <!-- <a class="agrarium-button" href="modern-agro-machinery.html" target="_blank">
-                                                                                            Read more
-                                                                                        </a> -->
-                                                                                    </span></span></span>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="pt-mobile elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-05f503f" data-id="05f503f" data-element_type="column" data-settings='{"animation":"none"}'>
-                                                    <div class="elementor-column-wrap elementor-element-populated">
-                                                        <div class="elementor-widget-wrap">
-                                                            <div class="elementor-element elementor-element-768e89e elementor-element-valign-center elementor-widget elementor-widget-agrarium_banner" data-id="768e89e" data-element_type="widget" data-widget_type="agrarium_banner.default">
-                                                                <div class="elementor-widget-container">
-
-                                                                    <div class="banner-widget banner-widget-type-2">
-                                                                        <span class="banner-inner"><span class="banner-bg"></span><span class="banner-overlay"></span><span class="banner-content"><span class="banner-title">
-                                                                        Offers Job Opportunities
-                                                                                    </span><span class="banner-description">
-                                                                                    Offers a platform for 
-                                                                                    skilled professionals to 
-                                                                                    offer a servive from the 
-                                                                                    comfort of their home. Expand access to a 
-                                                                                    wider network of skilled 
-                                                                                    professionals in 
-                                                                                    Agronomy and 
-                                                                                    Livestock outside your 
-                                                                                    staff compliment
-                                                                                    </span><span class="banner-button underline">
-                                                                                        <!-- <a class="agrarium-button" href="modern-agro-machinery.html" target="_blank">Read
-                                                                                        more</a> -->
-                                                                                    </span></span></span>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </section>
-
-                                    <section class="pt-mobile elementor-section elementor-top-section elementor-element elementor-element-169505c4 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default"
+                                <section class="pt-mobile elementor-section elementor-top-section elementor-element elementor-element-169505c4 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default"
                                     data-id="169505c4" data-element_type="section"
                                     data-settings='{"stretch_section":"section-stretched","animation":"none"}'>
                                     <div class="elementor-container elementor-column-gap-no">
@@ -6249,8 +6209,7 @@
                                                                                     data-element_type="widget"
                                                                                     data-settings='{"_animation":"none"}'
                                                                                     data-widget_type="agrarium_heading.default">
-                                                                                    <div
-                                                                                        class="elementor-widget-container">
+                                                                                    <div class="elementor-widget-container" style="text-align:center">
                                                                                         <div
                                                                                             class="agrarium-heading-widget">
                                                                                             <h2
@@ -6472,6 +6431,66 @@
                                         </div>
                                     </div>
                                 </section>
+                                <section style="padding-bottom:4%; margin-top:-2%" class="elementor-section elementor-top-section elementor-element elementor-element-79d6658 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="79d6658" data-element_type="section" data-settings='{"stretch_section":"section-stretched"}'>
+                                        <div class="elementor-container elementor-column-gap-extended">
+                                            <div class="elementor-row">
+                                                <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7ff58a0" data-id="7ff58a0" data-element_type="column" data-settings='{"animation":"none"}'>
+                                                    <div class="elementor-column-wrap elementor-element-populated">
+                                                        <div class="elementor-widget-wrap">
+                                                            <div class="elementor-element elementor-element-821ef10 elementor-element-valign-center elementor-widget elementor-widget-agrarium_banner" data-id="821ef10" data-element_type="widget" data-widget_type="agrarium_banner.default">
+                                                                <div class="elementor-widget-container">
+
+                                                                    <div class="banner-widget banner-widget-type-2">
+                                                                        <span class="banner-inner">
+                                                                            <span class="banner-bg"></span><span class="banner-overlay"></span><span class="banner-content"><span class="banner-title">
+                                                                                Skilled Agricultural Experts</span><span class="banner-description">
+                                                                                Our team of experts possess in-depth knowledge of various farming 
+                                                                                practices, crop cultivation, livestock management, 
+                                                                                and agricultural technologies. 
+                                                                                </span>
+                                                                                    <span class="banner-button underline">
+                                                                                        <!-- <a class="agrarium-button" href="modern-agro-machinery.html" target="_blank">
+                                                                                            Read more
+                                                                                        </a> -->
+                                                                                    </span></span></span>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="pt-mobile elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-05f503f" data-id="05f503f" data-element_type="column" data-settings='{"animation":"none"}'>
+                                                    <div class="elementor-column-wrap elementor-element-populated">
+                                                        <div class="elementor-widget-wrap">
+                                                            <div class="elementor-element elementor-element-768e89e elementor-element-valign-center elementor-widget elementor-widget-agrarium_banner" data-id="768e89e" data-element_type="widget" data-widget_type="agrarium_banner.default">
+                                                                <div class="elementor-widget-container">
+
+                                                                    <div class="banner-widget banner-widget-type-2">
+                                                                        <span class="banner-inner"><span class="banner-bg"></span><span class="banner-overlay"></span><span class="banner-content"><span class="banner-title">
+                                                                        Offers Job Opportunities
+                                                                                    </span><span class="banner-description">
+                                                                                    Offers a platform for 
+                                                                                    skilled professionals to 
+                                                                                    offer a servive from the 
+                                                                                    comfort of their home. Expand access to a 
+                                                                                    wider network of skilled 
+                                                                                    professionals in 
+                                                                                    Agronomy and 
+                                                                                    Livestock outside your 
+                                                                                    staff compliment
+                                                                                    </span><span class="banner-button underline">
+                                                                                        <!-- <a class="agrarium-button" href="modern-agro-machinery.html" target="_blank">Read
+                                                                                        more</a> -->
+                                                                                    </span></span></span>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </section>
                                 </div>
                             </div>
                         </div>

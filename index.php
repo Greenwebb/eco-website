@@ -2398,15 +2398,11 @@
                                                                         class="elementor-section elementor-inner-section elementor-element elementor-element-6473f57 elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static"
                                                                         data-id="6473f57" data-element_type="section">
                                                                         <div
-                                                                            class="elementor-container elementor-column-gap-no">
-                                                                            <div class="elementor-row">
-                                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-eba696e sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
-                                                                                    data-id="eba696e"
-                                                                                    data-element_type="column">
-                                                                                    <div
-                                                                                        class="elementor-column-wrap elementor-element-populated">
-                                                                                        <div
-                                                                                            class="elementor-widget-wrap">
+                                                                            class="elementor-container">
+                                                                            <div class="">
+                                                                                <div class="elementor-col-100 elementor-element elementor-element-eba696e sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static" data-id="eba696e" data-element_type="">
+                                                                                    <div class="elementor-column-wrap elementor-element-populated">
+                                                                                        <div class="elementor-widget-wrap">
                                                                                             <div class="elementor-element elementor-element-e07e48d no-title sc_fly_static elementor-widget elementor-widget-image"
                                                                                                 data-id="e07e48d"
                                                                                                 data-element_type="widget"
@@ -2426,7 +2422,7 @@
                                                                                                     </div>
                                                                                                 </div>
                                                                                             </div>
-                                                                                            <div class="elementor-element elementor-element-0406701 sc_height_large sc_layouts_hide_on_mobile sc_fly_static elementor-widget elementor-widget-spacer"
+                                                                                            <!-- <div class="elementor-element elementor-element-0406701 sc_height_large sc_layouts_hide_on_mobile sc_fly_static elementor-widget elementor-widget-spacer"
                                                                                                 data-id="0406701"
                                                                                                 data-element_type="widget"
                                                                                                 data-widget_type="spacer.default">
@@ -2439,11 +2435,11 @@
                                                                                                         </div>
                                                                                                     </div>
                                                                                                 </div>
-                                                                                            </div>
+                                                                                            </div> -->
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
-                                                                                <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-92403ce sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
+                                                                                <!-- <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-92403ce sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
                                                                                     data-id="92403ce"
                                                                                     data-element_type="column">
                                                                                     <div
@@ -2470,7 +2466,7 @@
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
-                                                                                </div>
+                                                                                </div> -->
                                                                             </div>
                                                                         </div>
                                                                     </section>
@@ -2569,11 +2565,11 @@
                                                                         data-widget_type="trx_sc_button.default">
                                                                         <div class="elementor-widget-container">
                                                                             <div class="sc_item_button sc_button_wrap">
-                                                                                <a href="services.php"
+                                                                                <a href="about.php"
                                                                                     class="sc_button sc_button_default sc_button_size_normal sc_button_icon_left"><span
                                                                                         class="sc_button_text"><span
-                                                                                            class="sc_button_title">Our
-                                                                                            Services</span></span></a>
+                                                                                            class="sc_button_title">Learn
+                                                                                            More</span></span></a>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -3723,10 +3719,9 @@
                                                                             <div class="elementor-image">
                                                                                 <img decoding="async" loading="lazy"
                                                                                     width="740" height="836"
-                                                                                    src="images/site/2.png"
+                                                                                    src="images/site/45.jpg"
                                                                                     class="attachment-full size-full"
                                                                                     alt=""
-                                                                                    style="height:70vh"
                                                                                     sizes="(max-width: 740px) 100vw, 740px">
                                                                             </div>
                                                                         </div>
