@@ -2057,10 +2057,8 @@
                                                                         data-id="85b3acb" data-element_type="widget"
                                                                         data-widget_type="heading.default">
                                                                         <div class="elementor-widget-container">
-                                                                            <h1
-                                                                                class="elementor-heading-title elementor-size-xxl">
-                                                                                <span
-                                                                                    class="has-text-link-color">Agricultural Advisory</span>
+                                                                            <h1 class="elementor-heading-title elementor-size-xxl">
+                                                                                <span class="has-text-link-color">Agricultural Advisory</span>
                                                                                 Services
                                                                             </h1>
                                                                         </div>
@@ -2111,10 +2109,8 @@
                                                                         <div class="elementor-widget-container">
                                                                             <div
                                                                                 class="sc_services color_style_dark sc_services_cool sc_services_featured_top">
-                                                                                <div
-                                                                                    class="sc_services_columns_wrap sc_item_columns sc_item_posts_container sc_item_columns_4 trx_addons_columns_wrap columns_padding_bottom columns_in_single_row">
-                                                                                    <div
-                                                                                        class="trx_addons_column-1_4 trx_addons_column-1_2-tablet">
+                                                                                <div class="sc_services_columns_wrap sc_item_columns sc_item_posts_container sc_item_columns_4 trx_addons_columns_wrap columns_padding_bottom columns_in_single_row">
+                                                                                    <div class="trx_addons_column-1_3 trx_addons_column-1_2-tablet">
                                                                                         <div data-post-id="871"
                                                                                             class="sc_services_item sc_item_container post_container with_content with_more with_image sc_services_item_featured_none post-871 cpt_services type-cpt_services status-publish has-post-thumbnail hentry cpt_services_group-what-we-do">
                                                                                             <div class="sc_services_item_content "
@@ -2153,7 +2149,7 @@
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
-                                                                                    <div class="pt-mobile trx_addons_column-1_4 trx_addons_column-1_2-tablet">
+                                                                                    <div class="pt-mobile trx_addons_column-1_3 trx_addons_column-1_2-tablet">
                                                                                         <div data-post-id="870" class="sc_services_item sc_item_container post_container with_content with_more with_image sc_services_item_featured_none post-870 cpt_services type-cpt_services status-publish has-post-thumbnail hentry cpt_services_group-what-we-do">
                                                                                             <div class="sc_services_item_content "
                                                                                                 style="background-image: url('images/6.webp');">
@@ -2188,7 +2184,7 @@
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
-                                                                                    <div class="pt-mobile trx_addons_column-1_4 trx_addons_column-1_2-tablet">
+                                                                                    <div class="pt-mobile trx_addons_column-1_3 trx_addons_column-1_2-tablet">
                                                                                         <div data-post-id="864"
                                                                                             class="sc_services_item sc_item_container post_container with_content with_more with_image sc_services_item_featured_none post-864 cpt_services type-cpt_services status-publish has-post-thumbnail hentry cpt_services_group-what-we-do">
                                                                                             <div class="sc_services_item_content "
@@ -2226,7 +2222,7 @@
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
-                                                                                    <div class="pt-mobile trx_addons_column-1_4 trx_addons_column-1_2-tablet">
+                                                                                    <!-- <div class="pt-mobile trx_addons_column-1_4 trx_addons_column-1_2-tablet">
                                                                                         <div data-post-id="17767"
                                                                                             class="sc_services_item sc_item_container post_container with_content with_more with_image sc_services_item_featured_none post-17767 cpt_services type-cpt_services status-publish has-post-thumbnail hentry cpt_services_group-what-we-do">
                                                                                             <div class="sc_services_item_content "
@@ -2261,7 +2257,7 @@
                                                                                                     href="#coming-soon"></a>
                                                                                             </div>
                                                                                         </div>
-                                                                                    </div>
+                                                                                    </div> -->
                                                                                 </div>
                                                                             </div>
                                                                         </div>
