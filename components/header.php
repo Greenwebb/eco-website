@@ -30,7 +30,7 @@
                                     <div class="elementor-widget-wrap">
                                         <div class="sc_layouts_item elementor-element elementor-element-f112344 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="f112344" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
                                         <div class="elementor-widget-container">
-                                            <a href="index.php" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1675068927">
+                                            <a href="https://website.greenwebbtech.com" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1675068927">
                                                 <img style="width: 150px; height: 160px" class="logo_image" src="images/logo.png" srcset="images/logo.png 2x" alt="Ecoagro" width="200" height="83">
                                             </a>
                                         </div>
@@ -40,7 +40,7 @@
                                                 <nav class="sc_layouts_menu sc_layouts_menu_default sc_layouts_menu_dir_horizontal menu_hover_zoom_line" data-animation-in="fadeInUpSmall" data-animation-out="fadeOutDownSmall">
                                                     <ul id="menu_main" class="sc_layouts_menu_nav menu_main_nav">
                                                         <li id="menu-item-18273" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-18273">
-                                                            <a href="index.php"><span>Home</span></a>
+                                                            <a href="https://website.greenwebbtech.com"><span>Home</span></a>
 
                                                         </li>
                                                         <li id="menu-item-18295" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18295">
