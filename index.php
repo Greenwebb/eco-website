@@ -2901,7 +2901,7 @@
                                                                                         <div data-post-id="864"
                                                                                             class="sc_services_item sc_item_container post_container with_content with_more with_image sc_services_item_featured_none post-864 cpt_services type-cpt_services status-publish has-post-thumbnail hentry cpt_services_group-what-we-do">
                                                                                             <div class="sc_services_item_content "
-                                                                                                style="background-image: url('images/mk.webp');">
+                                                                                                style="background-image: url('images/site/55.jpg');">
                                                                                                 <div
                                                                                                     class="sc_services_item_content_inner">
                                                                                                     <div
@@ -5314,6 +5314,7 @@
             window.RS_MODULES.checkMinimal();
         };
     </script>
+    
 </body>
 
 </html>
