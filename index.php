@@ -6,83 +6,196 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <link rel="profile" href="//gmpg.org/xfn/11">
-    <title>Agro Services &ndash; Ecoagro</title>
+    <title>Agro Services &ndash; EcoAgro</title>
     <meta name="robots" content="max-image-preview:large">
    
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
-        integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous">
-    </script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="css/materialdesignicons.min.css">
- 
+    <script type="text/javascript">
+        window._wpemojiSettings = {
+            "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/",
+            "ext": ".png",
+            "svgUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/",
+            "svgExt": ".svg",
+            "source": {
+                "concatemoji": "js/wp-emoji-release.min.js"
+            }
+        };
+        /*! This file is auto-generated */
+        ! function(i, n) {
+            var o, s, e;
+
+            function c(e) {
+                try {
+                    var t = {
+                        supportTests: e,
+                        timestamp: (new Date).valueOf()
+                    };
+                    sessionStorage.setItem(o, JSON.stringify(t))
+                } catch (e) {}
+            }
+
+            function p(e, t, n) {
+                e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(t, 0, 0);
+                var t = new Uint32Array(e.getImageData(0, 0, e.canvas.width, e.canvas.height).data),
+                    r = (e.clearRect(0, 0, e.canvas.width, e.canvas.height), e.fillText(n, 0, 0), new Uint32Array(e
+                        .getImageData(0, 0, e.canvas.width, e.canvas.height).data));
+                return t.every(function(e, t) {
+                    return e === r[t]
+                })
+            }
+
+            function u(e, t, n) {
+                switch (t) {
+                    case "flag":
+                        return n(e, "\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f", "\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f") ? !1 : !
+                            n(e, "\ud83c\uddfa\ud83c\uddf3", "\ud83c\uddfa\u200b\ud83c\uddf3") && !n(e,
+                                "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
+                                "\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f"
+                            );
+                    case "emoji":
+                        return !n(e, "\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff",
+                            "\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")
+                }
+                return !1
+            }
+
+            function f(e, t, n) {
+                var r = "undefined" != typeof WorkerGlobalScope && self instanceof WorkerGlobalScope ? new OffscreenCanvas(
+                        300, 150) : i.createElement("canvas"),
+                    a = r.getContext("2d", {
+                        willReadFrequently: !0
+                    }),
+                    o = (a.textBaseline = "top", a.font = "600 32px Arial", {});
+                return e.forEach(function(e) {
+                    o[e] = t(a, e, n)
+                }), o
+            }
+
+            function t(e) {
+                var t = i.createElement("script");
+                t.src = e, t.defer = !0, i.head.appendChild(t)
+            }
+            "undefined" != typeof Promise && (o = "wpEmojiSettingsSupports", s = ["flag", "emoji"], n.supports = {
+                everything: !0,
+                everythingExceptFlag: !0
+            }, e = new Promise(function(e) {
+                i.addEventListener("DOMContentLoaded", e, {
+                    once: !0
+                })
+            }), new Promise(function(t) {
+                var n = function() {
+                    try {
+                        var e = JSON.parse(sessionStorage.getItem(o));
+                        if ("object" == typeof e && "number" == typeof e.timestamp && (new Date).valueOf() <
+                            e.timestamp + 604800 && "object" == typeof e.supportTests) return e.supportTests
+                    } catch (e) {}
+                    return null
+                }();
+                if (!n) {
+                    if ("undefined" != typeof Worker && "undefined" != typeof OffscreenCanvas && "undefined" !=
+                        typeof URL && URL.createObjectURL && "undefined" != typeof Blob) try {
+                        var e = "postMessage(" + f.toString() + "(" + [JSON.stringify(s), u.toString(), p
+                                .toString()
+                            ].join(",") + "));",
+                            r = new Blob([e], {
+                                type: "text/javascript"
+                            }),
+                            a = new Worker(URL.createObjectURL(r), {
+                                name: "wpTestEmojiSupports"
+                            });
+                        return void(a.onmessage = function(e) {
+                            c(n = e.data), a.terminate(), t(n)
+                        })
+                    } catch (e) {}
+                    c(n = f(s, u, p))
+                }
+                t(n)
+            }).then(function(e) {
+                for (var t in e) n.supports[t] = e[t], n.supports.everything = n.supports.everything && n
+                    .supports[t], "flag" !== t && (n.supports.everythingExceptFlag = n.supports
+                        .everythingExceptFlag && n.supports[t]);
+                n.supports.everythingExceptFlag = n.supports.everythingExceptFlag && !n.supports.flag, n
+                    .DOMReady = !1, n.readyCallback = function() {
+                        n.DOMReady = !0
+                    }
+            }).then(function() {
+                return e
+            }).then(function() {
+                var e;
+                n.supports.everything || (n.readyCallback(), (e = n.source || {}).concatemoji ? t(e
+                    .concatemoji) : e.wpemoji && e.twemoji && (t(e.twemoji), t(e.wpemoji)))
+            }))
+        }((window, document), window._wpemojiSettings);
+    </script>
 
     <style type="text/css">
         /* Styles for larger screens (not mobile) */
-.mobile-view {
-  display: none; /* Show the element by default */
-}
+        .mobile-view {
+            display: none; /* Show the element by default */
+        }
 
-/* Media query for screens with a maximum width of 767px (typical for mobile devices) */
-@media screen and (max-width: 767px) {
-  /* Styles for mobile screens */
-  .mobile-view {
-    display: block; /* Hide the element on mobile screens */
-    padding:2%;
-  }
-}
-/* Styles for the modal */
-.modal {
-  display: none;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.7);
-  z-index: 1000;
-  justify-content: center;
-  align-items: center;
-}
+        /* Media query for screens with a maximum width of 767px (typical for mobile devices) */
+        @media screen and (max-width: 767px) {
+        /* Styles for mobile screens */
+        .mobile-view {
+            display: block; /* Hide the element on mobile screens */
+            padding:2%;
+        }
+        }
+        /* Styles for the modal */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.7);
+            z-index: 1000;
+            justify-content: center;
+            align-items: center;
+        }
 
-.modal-content {
-  background-color: #fff;
-  padding: 20px;
-  border-radius: 5px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-}
+        .modal-content {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+        }
 
-.close-modal {
-  position: absolute;
-  top: 10px;
-  right: 10px;
-  font-size: 24px;
-  cursor: pointer;
-}
-.items-row {
-    margin-top: 10%;
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-}
-.item2{
-    border-left: 1px solid #DDDAD3 ;
-}
-.item1,
-.item2 {
-  text-align: center;
-  display: flex;
-  flex-direction: column;
-  align-items: center; /* Center content vertically */
-}
+        .close-modal {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 24px;
+            cursor: pointer;
+        }
+        .items-row {
+            margin-top: 10%;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+        .item2{
+            border-left: 1px solid #DDDAD3 ;
+        }
+        .item1,
+        .item2 {
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center; /* Center content vertically */
+        }
 
-/* Make the images responsive */
-.item1 img,
-.item2 img {
-  max-width: 100%; /* Ensure the image doesn't exceed its container's width */
-  height: auto; /* Maintain aspect ratio */
-}
+        /* Make the images responsive */
+        .item1 img,
+        .item2 img {
+            max-width: 100%; /* Ensure the image doesn't exceed its container's width */
+            height: auto; /* Maintain aspect ratio */
+        }
 
 
 
@@ -99,28 +212,17 @@
         padding: 0 !important;
       }
     </style>
-    <link property="stylesheet" rel="stylesheet" id="trx_addons-icons-css" href="css/css-trx_addons_icons.css"
-        type="text/css" media="all">
+    <link property="stylesheet" rel="stylesheet" id="trx_addons-icons-css" href="css/css-trx_addons_icons.css"type="text/css" media="all">
     <link property="stylesheet" rel="stylesheet" href="css/prod.css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="trx_demo_icons-css" href="css/css-trx_demo_icons.css"
-        type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="trx_demo_icons_animation-css" href="css/css-animation.css"
-        type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="agricola-font-halyard-display-css"
-        href="https://use.typekit.net/xog3vbp.css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="agricola-font-google_fonts-css"
-        href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;subset=latin,latin-ext&amp;display=swap"
-        type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="agricola-fontello-css" href="css/css-fontello.css" type="text/css"
-        media="all">
-    <link property="stylesheet" rel="stylesheet" id="sbi_styles-css" href="css/css-sbi-styles.min.css" type="text/css"
-        media="all">
-    <link property="stylesheet" rel="stylesheet" id="wp-block-library-css" href="css/block-library-style.min.css"
-        type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="wc-blocks-vendors-style-css"
-        href="css/build-wc-blocks-vendors-style.css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="wc-blocks-style-css" href="css/build-wc-blocks-style.css"
-        type="text/css" media="all">
+    <link property="stylesheet" rel="stylesheet" id="trx_demo_icons-css" href="css/css-trx_demo_icons.css" type="text/css" media="all">
+    <link property="stylesheet" rel="stylesheet" id="trx_demo_icons_animation-css" href="css/css-animation.css" type="text/css" media="all">
+    <link property="stylesheet" rel="stylesheet" id="agricola-font-halyard-display-css" href="https://use.typekit.net/xog3vbp.css" type="text/css" media="all">
+    <link property="stylesheet" rel="stylesheet" id="agricola-font-google_fonts-css" href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;subset=latin,latin-ext&amp;display=swap" type="text/css" media="all">
+    <link property="stylesheet" rel="stylesheet" id="agricola-fontello-css" href="css/css-fontello.css" type="text/css" media="all">
+    <link property="stylesheet" rel="stylesheet" id="sbi_styles-css" href="css/css-sbi-styles.min.css" type="text/css" media="all">
+    <link property="stylesheet" rel="stylesheet" id="wp-block-library-css" href="css/block-library-style.min.css" type="text/css" media="all">
+    <link property="stylesheet" rel="stylesheet" id="wc-blocks-vendors-style-css" href="css/build-wc-blocks-vendors-style.css" type="text/css" media="all">
+    <link property="stylesheet" rel="stylesheet" id="wc-blocks-style-css" href="css/build-wc-blocks-style.css" type="text/css" media="all">
     <style id="classic-theme-styles-inline-css" type="text/css">
     /*! This file is auto-generated */
     .wp-block-button__link {
@@ -515,21 +617,25 @@
         line-height: 1.6;
     }
     </style>
-    <link property="stylesheet" rel="stylesheet" id="advanced-popups-css" href="css/css-advanced-popups-public.css"
-        type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="contact-form-7-css" href="css/css-styles.css" type="text/css"
-        media="all">
-    <link property="stylesheet" rel="stylesheet" id="powertip-css" href="css/css-jquery.powertip.min.css"
-        type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="maps-points-css" href="css/css-maps_points.css" type="text/css"
-        media="all">
-    <link property="stylesheet" rel="stylesheet" id="magnific-popup-css" href="css/magnific-magnific-popup.min.css"
-        type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="trx_demo_panels-css" href="css/css-trx_demo_panels.css"
-        type="text/css" media="all">
+    <link property="stylesheet" rel="stylesheet" id="advanced-popups-css" href="css/css-advanced-popups-public.css"type="text/css" media="all">
+    <link property="stylesheet" rel="stylesheet" id="contact-form-7-css" href="css/css-styles.css" type="text/css"media="all">
+    <link property="stylesheet" rel="stylesheet" id="powertip-css" href="css/css-jquery.powertip.min.css"type="text/css" media="all">
+    <link property="stylesheet" rel="stylesheet" id="maps-points-css" href="css/css-maps_points.css" type="text/css"media="all">
+    <link property="stylesheet" rel="stylesheet" id="magnific-popup-css" href="css/magnific-magnific-popup.min.css"type="text/css" media="all">
+    <link property="stylesheet" rel="stylesheet" id="trx_demo_panels-css" href="css/css-trx_demo_panels.css"type="text/css" media="all">
 
+    <link property="stylesheet" rel='stylesheet' id='magnific-popup-css' href='css/plugins/trx_addons/js/magnific/magnific-popup.min.css' type='text/css' media='all' />
+    <link property="stylesheet" rel='stylesheet' id='trx_demo_panels-css' href='css/plugins/trx_demo/css/trx_demo_panels.css' type='text/css' media='all' />
+    <link property="stylesheet" rel='stylesheet' id='woocommerce-layout-css' href='css/plugins/woocommerce/assets/css/woocommerce-layout.css' type='text/css' media='all' />
+    <link property="stylesheet" rel='stylesheet' id='woocommerce-smallscreen-css' href='css/plugins/woocommerce/assets/css/woocommerce-smallscreen.css' type='text/css' media='only screen and (max-width: 768px)' />
+    <link property="stylesheet" rel='stylesheet' id='woocommerce-general-css' href='css/plugins/woocommerce/assets/css/woocommerce.css' type='text/css' media='all' />
+    <style id='woocommerce-inline-inline-css' type='text/css'>
+        .woocommerce form .form-row .required {
+            visibility: visible;
+        }
+    </style>
 
-     <link rel="stylesheet" href="css/bd-wizard.css">
+    <link rel="stylesheet" href="css/bd-wizard.css">
 
     <link property="stylesheet" rel="preload" as="font" type="font/woff2" crossorigin="anonymous"
         id="tinvwl-webfont-font-css"
@@ -1790,8 +1896,83 @@
         }
     }
     </style>
-    <style id="rs-plugin-settings-inline-css" type="text/css">
-    #rs-demo-id {}
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+        @media (max-width:1023px) and (min-width:769px) {
+            .sldr-title {
+                font-size: 50px !important;
+                line-height: 50px !important
+            }
+        }
+
+        @media (max-width:1136px) and (min-width:778px) {
+            .sldr-hide {
+                display: none !important
+            }
+        }
+
+        #rev_slider_4_1_wrapper .arrows_simple.tparrows {
+            cursor: pointer;
+            background: transparent;
+            width: 60px;
+            height: 60px;
+            position: absolute;
+            display: block;
+            z-index: 1000;
+            transition: .3s ease
+        }
+
+        #rev_slider_4_1_wrapper .arrows_simple.tparrows.rs-touchhover {
+            background: transparent
+        }
+
+        #rev_slider_4_1_wrapper .arrows_simple.tparrows:before {
+            font-family: 'fontello';
+            font-size: 48px;
+            color: #ffffff;
+            display: block;
+            line-height: 60px;
+            text-align: center;
+            transition: .3s ease
+        }
+
+        #rev_slider_4_1_wrapper .arrows_simple.tparrows.tp-leftarrow:before {
+            content: '\EA23'
+        }
+
+        #rev_slider_4_1_wrapper .arrows_simple.tparrows.tp-rightarrow:before {
+            content: '\EA24'
+        }
+
+        #rev_slider_4_1_wrapper .arrows_simple.tparrows.tp-leftarrow.rs-touchhover:before {
+            transform: translateX(-8px)
+        }
+
+        #rev_slider_4_1_wrapper .arrows_simple.tparrows.tp-rightarrow.rs-touchhover:before {
+            transform: translateX(8px)
+        }
+
+        @media (max-width:1440px) {
+            #rev_slider_4_1_wrapper .arrows_simple.tparrows:before {
+                font-size: 42px
+            }
+        }
+
+        #rev_slider_4_1_wrapper .bullets_dots_fill .tp-bullet {
+            width: 8px;
+            height: 8px;
+            position: absolute;
+            background: rgba(255, 255, 255, 0.4);
+            border-radius: 50%;
+            cursor: pointer;
+            box-sizing: content-box;
+            transition: .3s ease
+        }
+
+        #rev_slider_4_1_wrapper .bullets_dots_fill .tp-bullet.rs-touchhover,
+        #rev_slider_4_1_wrapper .bullets_dots_fill .tp-bullet.selected {
+            background: #f2c200;
+            box-shadow: 0px 0px 0px 5px transparent
+        }
     </style>
     <style type="text/css">
     .trx_demo_inline_98460003 {
@@ -1826,6 +2007,7 @@
         media="all">
     <link property="stylesheet" rel="stylesheet" id="e-animations-css" href="css/animations-animations.min.css"
         type="text/css" media="all">
+    <link property="stylesheet" rel='stylesheet' id='rs-plugin-settings-css' href='css/plugins/revslider/public/assets/css/rs6.css' type='text/css' media='all' />
 
     <link property="stylesheet" rel="stylesheet" id="trx_addons-responsive-css" href="css/css-__responsive.css"
         type="text/css" media="(max-width:1439px)">
@@ -1935,7 +2117,365 @@
         //});
     };
     </script>
+<style id="elementor-post-18654">
+        .elementor-18654 .elementor-element.elementor-element-b275fda>.elementor-container>.elementor-row>.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+            align-content: center;
+            align-items: center;
+        }
 
+        .elementor-18654 .elementor-element.elementor-element-b275fda:not(.elementor-motion-effects-element-type-background),
+        .elementor-18654 .elementor-element.elementor-element-b275fda>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+            background-color: #FFFFFF;
+        }
+
+        .elementor-18654 .elementor-element.elementor-element-b275fda {
+            transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+            padding: 20px 60px 20px 60px;
+        }
+
+        .elementor-18654 .elementor-element.elementor-element-b275fda>.elementor-background-overlay {
+            transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+        }
+
+        .elementor-18654 .elementor-element.elementor-element-f112344 .logo_image {
+            max-height: 53px;
+        }
+
+        .elementor-18654 .elementor-element.elementor-element-f112344>.elementor-widget-container {
+            margin: -5px 35px 0px 0px;
+        }
+
+        .elementor-18654 .elementor-element.elementor-element-3fb9c4d>.elementor-widget-container {
+            margin: -3px 0px 0px 8px;
+        }
+
+        .elementor-18654 .elementor-element.elementor-element-d662b41>.elementor-widget-container {
+            margin: 0px 0px 0px 10px;
+        }
+
+        .elementor-18654 .elementor-element.elementor-element-97bba67>.elementor-container>.elementor-row>.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+            align-content: center;
+            align-items: center;
+        }
+
+        .elementor-18654 .elementor-element.elementor-element-97bba67:not(.elementor-motion-effects-element-type-background),
+        .elementor-18654 .elementor-element.elementor-element-97bba67>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+            background-color: #FFFFFF;
+        }
+
+        .elementor-18654 .elementor-element.elementor-element-97bba67 {
+            transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+            padding: 17px 30px 17px 30px;
+        }
+
+        .elementor-18654 .elementor-element.elementor-element-97bba67>.elementor-background-overlay {
+            transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+        }
+
+        .elementor-18654 .elementor-element.elementor-element-703d5de .logo_image {
+            max-height: 53px;
+        }
+
+        .elementor-18654 .elementor-element.elementor-element-703d5de>.elementor-widget-container {
+            margin: -5px 0px 0px 0px;
+        }
+
+        .elementor-18654 .elementor-element.elementor-element-f59f78f>.elementor-widget-container {
+            margin: -2px 0px 0px 3px;
+        }
+
+        .elementor-18654 .elementor-element.elementor-element-feaea9d>.elementor-widget-container {
+            margin: 0px 0px 0px 5px;
+        }
+
+        @media(max-width:767px) {
+            .elementor-18654 .elementor-element.elementor-element-97bba67 {
+                padding: 14px 20px 14px 20px;
+            }
+
+            .elementor-18654 .elementor-element.elementor-element-20ea2c9 {
+                width: 50%;
+            }
+
+            .elementor-18654 .elementor-element.elementor-element-703d5de .logo_image {
+                max-height: 45px;
+            }
+
+            .elementor-18654 .elementor-element.elementor-element-89c39a1 {
+                width: 50%;
+            }
+
+            .elementor-18654 .elementor-element.elementor-element-f59f78f>.elementor-widget-container {
+                margin: 0px 0px 0px 0px;
+            }
+        }
+
+        @media(min-width:768px) {
+            .elementor-18654 .elementor-element.elementor-element-772feca {
+                width: 70.971%;
+            }
+
+            .elementor-18654 .elementor-element.elementor-element-3e4e340 {
+                width: 30.962%;
+            }
+        }
+    </style>
+    <style id="elementor-post-18733">
+        .elementor-18733 .elementor-element.elementor-element-41b371d9:not(.elementor-motion-effects-element-type-background),
+        .elementor-18733 .elementor-element.elementor-element-41b371d9>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+            background-color: #29444a;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-41b371d9 {
+            transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-41b371d9>.elementor-background-overlay {
+            transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-387ce355 {
+            --spacer-size: 50px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-4f75f04 {
+            --spacer-size: 10px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-7acdfc8b:not(.elementor-motion-effects-element-type-background),
+        .elementor-18733 .elementor-element.elementor-element-7acdfc8b>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+            background-color: #29444a;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-7acdfc8b {
+            transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+            margin-top: -10px;
+            margin-bottom: 0px;
+            padding: 0px 0px 0px 0px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-7acdfc8b>.elementor-background-overlay {
+            transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-3de2856b .sc_item_title_text {
+            -webkit-text-stroke-width: 0px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-3de2856b .sc_item_title_text2 {
+            -webkit-text-stroke-width: 0px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-3de2856b>.elementor-widget-container {
+            padding: 0% 28% 0% 0%;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-3cd6553d .sc_item_title_text {
+            -webkit-text-stroke-width: 0px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-3cd6553d .sc_item_title_text2 {
+            -webkit-text-stroke-width: 0px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-1cafe0e8 {
+            --spacer-size: 6px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-5f23599f {
+            --spacer-size: 10px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-bd0b05b .sc_item_title_text {
+            -webkit-text-stroke-width: 0px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-bd0b05b .sc_item_title_text2 {
+            -webkit-text-stroke-width: 0px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-3255073d .sc_item_title_text {
+            -webkit-text-stroke-width: 0px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-3255073d .sc_item_title_text2 {
+            -webkit-text-stroke-width: 0px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-26b9af5c {
+            --spacer-size: 6px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-254c2c69 {
+            --spacer-size: 4px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-3049b76f:not(.elementor-motion-effects-element-type-background),
+        .elementor-18733 .elementor-element.elementor-element-3049b76f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+            background-color: #29444a;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-3049b76f {
+            transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+            padding: 0px 0px 0px 0px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-3049b76f>.elementor-background-overlay {
+            transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-c27e11 {
+            --spacer-size: 5px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-447840c2 {
+            --spacer-size: 50px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-6b710157 {
+            --divider-border-style: solid;
+            --divider-color: #282F27;
+            --divider-border-width: 1px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-6b710157 .elementor-divider-separator {
+            width: 100%;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-6b710157 .elementor-divider {
+            padding-top: 10px;
+            padding-bottom: 10px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-103f48b8>.elementor-container>.elementor-row>.elementor-column>.elementor-column-wrap>.elementor-widget-wrap {
+            align-content: center;
+            align-items: center;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-103f48b8:not(.elementor-motion-effects-element-type-background),
+        .elementor-18733 .elementor-element.elementor-element-103f48b8>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+            background-color: #29444a;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-103f48b8 {
+            transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+            padding: 0px 0px 13px 0px;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-103f48b8>.elementor-background-overlay {
+            transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+        }
+
+        .elementor-18733 .elementor-element.elementor-element-2651d8ba {
+            color: #96999F;
+            font-size: 16px;
+            line-height: 1.2em;
+        }
+
+        @media(max-width:1024px) {
+            .elementor-18733 .elementor-element.elementor-element-3de2856b>.elementor-widget-container {
+                padding: 0% 5% 0% 0%;
+            }
+        }
+
+        @media(min-width:768px) {
+            .elementor-18733 .elementor-element.elementor-element-23b1fd56 {
+                width: 52.424%;
+            }
+
+            .elementor-18733 .elementor-element.elementor-element-39921ff6 {
+                width: 24.242%;
+            }
+
+            .elementor-18733 .elementor-element.elementor-element-47075a87 {
+                width: 22.974%;
+            }
+
+            .elementor-18733 .elementor-element.elementor-element-e3ec0fc {
+                width: 61.97%;
+            }
+
+            .elementor-18733 .elementor-element.elementor-element-3a27fc28 {
+                width: 37.992%;
+            }
+        }
+
+        @media(max-width:1024px) and (min-width:768px) {
+            .elementor-18733 .elementor-element.elementor-element-23b1fd56 {
+                width: 34%;
+            }
+
+            .elementor-18733 .elementor-element.elementor-element-39921ff6 {
+                width: 33%;
+            }
+
+            .elementor-18733 .elementor-element.elementor-element-47075a87 {
+                width: 33%;
+            }
+
+            .elementor-18733 .elementor-element.elementor-element-e3ec0fc {
+                width: 52%;
+            }
+
+            .elementor-18733 .elementor-element.elementor-element-3a27fc28 {
+                width: 48%;
+            }
+        }
+
+        @media(max-width:767px) {
+            .elementor-18733 .elementor-element.elementor-element-7acdfc8b {
+                margin-top: -5px;
+                margin-bottom: 0px;
+            }
+
+            .elementor-18733 .elementor-element.elementor-element-3de2856b>.elementor-widget-container {
+                padding: 0% 0% 0% 0%;
+            }
+
+            .elementor-18733 .elementor-element.elementor-element-39921ff6>.elementor-element-populated {
+                margin: 20px 0px 0px 0px;
+                --e-column-margin-right: 0px;
+                --e-column-margin-left: 0px;
+            }
+
+            .elementor-18733 .elementor-element.elementor-element-eb34645 {
+                font-size: 15px;
+            }
+
+            .elementor-18733 .elementor-element.elementor-element-5f23599f {
+                --spacer-size: 5px;
+            }
+
+            .elementor-18733 .elementor-element.elementor-element-47075a87>.elementor-element-populated {
+                margin: 20px 0px 0px 0px;
+                --e-column-margin-right: 0px;
+                --e-column-margin-left: 0px;
+            }
+
+            .elementor-18733 .elementor-element.elementor-element-44de9cee {
+                font-size: 15px;
+            }
+
+            .elementor-18733 .elementor-element.elementor-element-103f48b8 {
+                padding: 0px 0px 0px 0px;
+            }
+
+            .elementor-18733 .elementor-element.elementor-element-3a27fc28>.elementor-element-populated {
+                margin: -2px 0px 21px 0px;
+                --e-column-margin-right: 0px;
+                --e-column-margin-left: 0px;
+            }
+
+            .elementor-18733 .elementor-element.elementor-element-2651d8ba {
+                font-size: 15px;
+            }
+        }
+
+        .header_position_over:not(.trx_addons_page_scrolled) .top_panel .sc_layouts_row[class*="scheme_"],
+        .header_position_over .top_panel .sc_layouts_row[class*="scheme_"]:not(.sc_layouts_row_fixed_on) {
+            background-color: white;
+        }
+    </style>
     <style type="text/css" id="trx_addons-inline-styles-inline-css">
     .trx_addons_inline_1675068927 img.logo_image {
         max-height: 53px;
@@ -2000,135 +2540,86 @@
                                                                                                     <rs-slides>
                                                                                                         <rs-slide style="position: absolute;" data-key="rs-6" data-title="Slide" data-thumb="//agricola.axiomthemes.com/wp-content/uploads/2022/08/slider-4-slide-1-copyright-146x102.jpg" data-anim="adpr:false;ms:1000ms;" data-in="o:0;" data-out="a:false;">
                                                                                                             <img decoding="async" src="css/plugins/revslider/public/assets/assets/dummy.png" alt="" title="slider-4-slide-1-copyright" width="1920" height="980" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="images/site/10.jpeg" data-parallax="off" data-panzoom="d:10000;ss:100;se:110%;" data-no-retina>
-                                                                                                            <!--
-							                                        -->
-                                                                                                            <rs-layer id="slider-4-slide-6-layer-3" data-type="image" data-rsp_ch="on" data-xy="x:c;y:m;" data-text="w:normal;s:20,15,8,4;l:0,18,9,6;" data-dim="w:838px,628px,339px,209px;h:647px,485px,262px,161px;" data-frame_0="sX:0.9;sY:0.9;" data-frame_1="e:power2.inOut;st:520;sp:1000;sR:520;" data-frame_999="o:0;st:w;sR:7480;" style="z-index:16;">
-                                                                                                                <img decoding="async" src="css/plugins/revslider/public/assets/assets/dummy.png" alt="Marketpalce Farm" class="tp-rs-img rs-lazyload" width="838" height="647" data-lazyload="images/organic-farm.png" data-no-retina>
-                                                                                                            </rs-layer>
-                                                                                                            <!--
-                                                                                    -->
+                                                                                                            <rs-zone id="rrzm_6" class="rev_row_zone_middle" style="z-index: 14;">
+                                                                                                                
+                                                                                                                <rs-row id="slider-4-slide-6-layer-13" data-type="row" data-xy="xo:50px;yo:50px;" data-cbreak="nobreak" data-basealign="slide" data-rsp_bd="off" data-frame_0="o:1;" data-frame_999="o:0;st:w;sR:8700;sA:9000;" style="z-index:1;">
+                                                                                                                
+                                                                                                                    <rs-column id="slider-4-slide-6-layer-14" data-type="column" data-xy="xo:50px;yo:50px;" data-text="l:26,24,24,24;a:center;" data-rsp_bd="off" data-column="w:100%;" data-frame_0="o:1;" data-frame_999="o:0;st:w;sR:8700;sA:9000;" style="z-index:2;width:100%;">
+                                                                                                                    
+                                                                                                                        <rs-layer id="slider-4-slide-6-layer-3" class="sldr-title" data-type="text" data-xy="xo:0,35px,35px,35px;yo:0,281px,281px,281px;" data-text="w:normal;s:78,58,40,28;l:72,58,42,34;fw:500;a:center;" data-rsp_o="off" data-disp="inline-block" data-frame_0="x:50;" data-frame_1="st:740;sp:1000;sR:740;" data-frame_999="o:0;st:w;sR:7260;" style="z-index:5;font-family:'halyard-display';display:inline-block;">
+                                                                                                                                    Professional help is <br />on call
+                                                                                                                                    
+                                                                                                                        </rs-layer>
+                                                                                                                    </rs-column>
+                                                                                                                </rs-row>
+                                                                                                            </rs-zone>
+                                                                                                            
                                                                                                         </rs-slide>
                                                                                                         <rs-slide style="position: absolute;" data-key="rs-7" data-title="Slide" data-thumb="//agricola.axiomthemes.com/wp-content/uploads/2022/08/slider-4-slide-2-copyright-146x102.jpg" data-anim="adpr:false;ms:1000ms;" data-in="o:0;" data-out="a:false;">
                                                                                                             <img decoding="async" src="css/plugins/revslider/public/assets/assets/dummy.png" alt="Slider Slide" title="slider-4-slide-2-copyright" width="1920" height="980" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="images/site/3.png" data-parallax="off" data-panzoom="d:10000;ss:100;se:110%;" data-no-retina>
-                                                                                                            <!--						-->
+                                                                                                            
                                                                                                             <rs-zone id="rrzm_7" class="rev_row_zone_middle" style="z-index: 14;">
-                                                                                                                <!--
-								                                -->
+                                                                                                                
                                                                                                                 <rs-row id="slider-4-slide-7-layer-13" data-type="row" data-xy="xo:50px;yo:50px;" data-cbreak="nobreak" data-basealign="slide" data-rsp_bd="off" data-frame_0="o:1;" data-frame_999="o:0;st:w;sR:8700;sA:9000;" style="z-index:1;">
-                                                                                                                    <!--
-									                                                            -->
+                                                                                                                
                                                                                                                     <rs-column id="slider-4-slide-7-layer-14" data-type="column" data-xy="xo:50px;yo:50px;" data-text="l:26,24,24,24;a:center;" data-rsp_bd="off" data-column="w:100%;" data-frame_0="o:1;" data-frame_999="o:0;st:w;sR:8700;sA:9000;" style="z-index:2;width:100%;">
-                                                                                                                        <!--
-										                        -->
-                                                                                                                        <rs-layer id="slider-4-slide-7-layer-1" data-type="text" data-text="w:normal;s:19,17,16,16;l:28,26,24,24;a:center;" data-vbility="t,t,t,f" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-frame_0="x:30px;" data-frame_1="st:1770;sp:1000;" data-frame_999="o:0;st:w;sR:6230;" style="z-index:3;font-family:'DM Sans';display:inline-block;">
-                                                                                                                            Cultivating
-                                                                                                                            Agriculture
-                                                                                                                            that
-                                                                                                                            Works
-                                                                                                                            for
-                                                                                                                            the
-                                                                                                                            Future
+                                                                                                                    
+                                                                                                                        <rs-layer  data-type="text" data-text="w:normal;s:19,17,16,16;l:28,26,24,24;a:center;" data-vbility="t,t,t,f" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-frame_0="x:30px;" data-frame_1="st:1770;sp:1000;" data-frame_999="o:0;st:w;sR:6230;" style="z-index:3;font-family:'DM Sans';display:inline-block;">
+                                                                                                                            Reach to us
                                                                                                                         </rs-layer>
-                                                                                                                        <!--
-										-->
+                                                                                                                        
                                                                                                                         <rs-layer id="slider-4-slide-7-layer-0" data-type="shape" data-rsp_ch="on" data-xy="xo:50px,37px,19px,11px;yo:160px,120px,64px,39px;" data-text="w:normal;s:20,15,8,4;c:both;l:0,18,9,6;" data-flcr="c:both;" data-dim="w:100%;h:22px,16px,12px,0px;" data-frame_999="o:0;st:w;sR:8700;" style="z-index:4;">
                                                                                                                         </rs-layer>
-                                                                                                                        <!--
-										-->
+                                                                                                                        
                                                                                                                         <rs-layer id="slider-4-slide-7-layer-24" class="sldr-title" data-type="text" data-xy="xo:0,35px,35px,35px;yo:0,281px,281px,281px;" data-text="w:normal;s:78,58,40,28;l:72,58,42,34;fw:500;a:center;" data-rsp_o="off" data-disp="inline-block" data-frame_0="x:50;" data-frame_1="st:740;sp:1000;sR:740;" data-frame_999="o:0;st:w;sR:7260;" style="z-index:5;font-family:'halyard-display';display:inline-block;">
-                                                                                                                            We’re
-                                                                                                                            a
-                                                                                                                            Unique
-                                                                                                                            and
-                                                                                                                            Traditional<br />
-                                                                                                                            Organic
-                                                                                                                            Farm
+                                                                                                                        Professional help is <br />on call
+                                                                                                                        
                                                                                                                         </rs-layer>
-                                                                                                                        <!--
-										-->
+                                                                                                                        
                                                                                                                         <rs-layer id="slider-4-slide-7-layer-19" data-type="shape" data-rsp_ch="on" data-xy="xo:50px,37px,19px,11px;yo:160px,120px,64px,39px;" data-text="w:normal;s:20,15,8,4;c:both;l:0,18,9,6;" data-flcr="c:both;" data-dim="w:100%;h:50px,36px,32px,20px;" data-frame_999="o:0;st:w;sR:8700;" style="z-index:6;">
                                                                                                                         </rs-layer>
-                                                                                                                        <!--
-										--><a id="slider-4-slide-7-layer-21" class="rs-layer rev-btn" href="marketplace.php" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:54,52,50,50;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-padding="r:40,32,28,28;l:40,32,28,28;" data-frame_0="x:30px;" data-frame_1="st:1250;sp:1000;" data-frame_999="o:0;st:w;sR:6750;" data-frame_hover="rX:0deg;rY:0deg;bgc:#dcb000;boc:#1f242e;bor:0px,0px,0px,0px;bos:solid;bow:0px,0px,0px,0px;e:power1.inOut;" style="z-index:7;background-color:#f2c200;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">Go
-                                                                                                                            to
-                                                                                                                            the
-                                                                                                                            Shop
+                                                                                                                        <a id="slider-4-slide-7-layer-21" class="rs-layer rev-btn" href="contact.php" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:54,52,50,50;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-padding="r:40,32,28,28;l:40,32,28,28;" data-frame_0="x:30px;" data-frame_1="st:1250;sp:1000;" data-frame_999="o:0;st:w;sR:6750;" data-frame_hover="rX:0deg;rY:0deg;bgc:#dcb000;boc:#1f242e;bor:0px,0px,0px,0px;bos:solid;bow:0px,0px,0px,0px;e:power1.inOut;" style="z-index:7;background-color:#f2c200;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">Go
+                                                                                                                            Contact Us
                                                                                                                         </a>
-                                                                                                                        <!--
-									-->
                                                                                                                     </rs-column>
-                                                                                                                    <!--
-								    -->
                                                                                                                 </rs-row>
-                                                                                                                <!--
-							        -->
                                                                                                             </rs-zone>
-                                                                                                            <!--
-                                                                    -->
                                                                                                         </rs-slide>
                                                                                                         <rs-slide style="position: absolute;" data-key="rs-8" data-title="Slide" data-thumb="images/site/6.jpg" data-anim="adpr:false;ms:1000ms;" data-in="o:0;" data-out="a:false;">
                                                                                                             <img decoding="async" src="images/site/6.jpg" alt="Slider Slide" title="slider-4-slide-3-copyright" width="1920" height="980" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="images/site/6.jpg" data-parallax="off" data-panzoom="d:10000;ss:100;se:110%;" data-no-retina>
-                                                                                                            <!--						-->
+                                                                                                            
                                                                                                             <rs-zone id="rrzm_8" class="rev_row_zone_middle" style="z-index: 14;">
-                                                                                                                <!--
-								    -->
+                                                                                                            
                                                                                                                 <rs-row id="slider-4-slide-8-layer-13" data-type="row" data-xy="xo:50px;yo:50px;" data-cbreak="nobreak" data-basealign="slide" data-rsp_bd="off" data-frame_0="o:1;" data-frame_999="o:0;st:w;sR:8700;sA:9000;" style="z-index:1;">
-                                                                                                                    <!--
-									-->
+                                                                                                                
                                                                                                                     <rs-column id="slider-4-slide-8-layer-14" data-type="column" data-xy="xo:50px;yo:50px;" data-text="l:26,24,24,24;a:center;" data-rsp_bd="off" data-column="w:100%;" data-frame_0="o:1;" data-frame_999="o:0;st:w;sR:8700;sA:9000;" style="z-index:2;width:100%;">
-                                                                                                                        <!--
-										-->
+                                                                                                                
                                                                                                                         <rs-layer id="slider-4-slide-8-layer-1" data-type="text" data-text="w:normal;s:19,17,16,16;l:28,26,24,24;a:center;" data-vbility="t,t,t,f" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-frame_0="x:30px;" data-frame_1="st:1770;sp:1000;sR:1770;" data-frame_999="o:0;st:w;sR:6230;" style="z-index:3;font-family:'DM Sans';display:inline-block;">
-                                                                                                                            Cultivating
-                                                                                                                            Agriculture
-                                                                                                                            that
-                                                                                                                            Works
-                                                                                                                            for
-                                                                                                                            the
-                                                                                                                            Future
+                                                                                                                            Buy fresh products on Marketplace
                                                                                                                         </rs-layer>
-                                                                                                                        <!--
-										-->
                                                                                                                         <rs-layer id="slider-4-slide-8-layer-0" data-type="shape" data-rsp_ch="on" data-xy="xo:50px,37px,19px,11px;yo:160px,120px,64px,39px;" data-text="w:normal;s:20,15,8,4;c:both;l:0,18,9,6;" data-flcr="c:both;" data-dim="w:100%;h:22px,16px,8px,0px;" data-frame_999="o:0;st:w;sR:8700;" style="z-index:4;">
                                                                                                                         </rs-layer>
-                                                                                                                        <!--
-										-->
                                                                                                                         <rs-layer id="slider-4-slide-8-layer-24" class="sldr-title" data-type="text" data-xy="xo:0,35px,35px,35px;yo:0,281px,281px,281px;" data-text="w:normal;s:92,72,54,38;l:92,76,64,46;fw:500;a:center;" data-rsp_o="off" data-disp="inline-block" data-frame_0="x:50;" data-frame_1="st:740;sp:1000;sR:740;" data-frame_999="o:0;st:w;sR:7260;" style="z-index:5;font-family:'halyard-display';display:inline-block;">
-                                                                                                                            Get
-                                                                                                                            the
-                                                                                                                            Fresh
-                                                                                                                            Product
+                                                                                                                             Increase your prodctivity 
                                                                                                                         </rs-layer>
-                                                                                                                        <!--
-										-->
                                                                                                                         <rs-layer id="slider-4-slide-8-layer-19" data-type="shape" data-rsp_ch="on" data-xy="xo:50px,37px,19px,11px;yo:160px,120px,64px,39px;" data-text="w:normal;s:20,15,8,4;c:both;l:0,18,9,6;" data-flcr="c:both;" data-dim="w:100%;h:44px,30px,26px,20px;" data-frame_999="o:0;st:w;sR:8700;" style="z-index:6;">
                                                                                                                         </rs-layer>
-                                                                                                                        <!--
-										--><a id="slider-4-slide-8-layer-21" class="rs-layer rev-btn" href="marketplace.php" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:54,52,50,50;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-margin="r:10,8,6,6;" data-padding="r:40,32,28,28;l:40,32,28,28;" data-frame_0="x:30px;" data-frame_1="st:1250;sp:1000;sR:1250;" data-frame_999="o:0;st:w;sR:6750;" data-frame_hover="rX:0deg;rY:0deg;bgc:#dcb000;boc:#1f242e;bor:0px,0px,0px,0px;bos:solid;bow:0px,0px,0px,0px;e:power1.inOut;" style="z-index:7;background-color:#f2c200;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">Go
+                                                                                                                        <a id="slider-4-slide-8-layer-21" class="rs-layer rev-btn" href="https://market.greenwebbtech.com/shop-products" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:54,52,50,50;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-margin="r:10,8,6,6;" data-padding="r:40,32,28,28;l:40,32,28,28;" data-frame_0="x:30px;" data-frame_1="st:1250;sp:1000;sR:1250;" data-frame_999="o:0;st:w;sR:6750;" data-frame_hover="rX:0deg;rY:0deg;bgc:#dcb000;boc:#1f242e;bor:0px,0px,0px,0px;bos:solid;bow:0px,0px,0px,0px;e:power1.inOut;" style="z-index:7;background-color:#f2c200;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">Go
                                                                                                                             to
                                                                                                                             the
                                                                                                                             Shop
                                                                                                                         </a>
-                                                                                                                        <!--
-										--><a id="slider-4-slide-8-layer-2" class="rs-layer rev-btn" href="contacts.html" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:50,48,46,46;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-padding="r:38,30,26,26;l:38,30,26,26;" data-border="bos:solid;boc:#ffffff;bow:2px,2px,2px,2px;" data-frame_0="x:30px;" data-frame_1="st:1350;sp:1000;sR:1350;" data-frame_999="o:0;st:w;sR:6650;" data-frame_hover="rX:0deg;rY:0deg;bgc:#92bb53;boc:#92bb53;bor:0px,0px,0px,0px;bos:solid;bow:2px,2px,2px,2px;e:power1.inOut;" style="z-index:8;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">Contact
+                                                                                                                        <a id="slider-4-slide-8-layer-2" class="rs-layer rev-btn" href="contact.php" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:50,48,46,46;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-padding="r:38,30,26,26;l:38,30,26,26;" data-border="bos:solid;boc:#ffffff;bow:2px,2px,2px,2px;" data-frame_0="x:30px;" data-frame_1="st:1350;sp:1000;sR:1350;" data-frame_999="o:0;st:w;sR:6650;" data-frame_hover="rX:0deg;rY:0deg;bgc:#92bb53;boc:#92bb53;bor:0px,0px,0px,0px;bos:solid;bow:2px,2px,2px,2px;e:power1.inOut;" style="z-index:8;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">Contact
                                                                                                                             Info
                                                                                                                         </a>
-                                                                                                                        <!--
-									-->
                                                                                                                     </rs-column>
-                                                                                                                    <!--
-								-->
                                                                                                                 </rs-row>
-                                                                                                                <!--
-							-->
                                                                                                             </rs-zone>
-                                                                                                            <!--
--->
+                                                                                                            
                                                                                                         </rs-slide>
                                                                                                     </rs-slides>
                                                                                                     <rs-static-layers>
-                                                                                                        <!--
-					-->
+                                                                                                        
                                                                                                     </rs-static-layers>
                                                                                                 </rs-module>
                                                                                                 <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js">
@@ -2260,8 +2751,8 @@
                                                                         <div class="elementor-widget-container">
                                                                             <div
                                                                                 class="elementor-text-editor elementor-clearfix">
-                                                                                <p>Cultivating agriculture that works
-                                                                                    for the future</p>
+                                                                                <!-- <p>Cultivating agriculture that works
+                                                                                    for the future</p> -->
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -2713,7 +3204,7 @@
                                                                                     class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
                                                                                     <span
                                                                                         class="sc_item_title_text">Learn
-                                                                                        More About Ecoagro & Agriculture
+                                                                                        More About Us
                                                                                     </span>
                                                                                 </h1>
                                                                             </div>
@@ -3625,7 +4116,7 @@
                                                                                         class="elementor-tab-content elementor-clearfix"
                                                                                         data-tab="1" role="tabpanel"
                                                                                         aria-labelledby="elementor-tab-title-1081">
-                                                                                        <p>Ecoagro emphasizes sustainable agriculture, which involves practices that maintain or enhance soil quality, conserve water, and minimize the use of synthetic chemicals.</p>
+                                                                                        <p>EcoAgro emphasizes sustainable agriculture, which involves practices that maintain or enhance soil quality, conserve water, and minimize the use of synthetic chemicals.</p>
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="elementor-accordion-item">
@@ -3651,7 +4142,7 @@
                                                                                         class="elementor-tab-content elementor-clearfix"
                                                                                         data-tab="2" role="tabpanel"
                                                                                         aria-labelledby="elementor-tab-title-1082">
-                                                                                        <p>Ecoagro often engages in education and outreach programs to promote sustainable farming practices within communities.</p>
+                                                                                        <p>EcoAgro often engages in education and outreach programs to promote sustainable farming practices within communities.</p>
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="elementor-accordion-item">
@@ -4725,7 +5216,7 @@
             },
             "post": {
                 "id": 18091,
-                "title": "Organic%20Farm%20%E2%80%93%20Agricola",
+                "title": "EcoAgro%20Farm%20%E2%80%93%20Agricola",
                 "excerpt": "",
                 "featuredImage": false
             }
@@ -4822,7 +5313,7 @@
         if (window.RS_MODULES.checkMinimal !== undefined) {
             window.RS_MODULES.checkMinimal();
         };
-	</script>
+    </script>
 </body>
 
 </html>

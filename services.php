@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <link rel="profile" href="//gmpg.org/xfn/11">
-    <title>Agro Services &ndash; Ecoagro</title>
+    <title>Agro Services &ndash; EcoAgro</title>
     <meta name="robots" content="max-image-preview:large">
 
 
@@ -5985,7 +5985,7 @@
                                                         <div class="elementor-widget-wrap">
                                                             <!-- <div class="elementor-element elementor-element-3fab1ea8 elementor-widget elementor-widget-agrarium_special_text" data-id="3fab1ea8" data-element_type="widget" data-widget_type="agrarium_special_text.default">
                                                                 <div class="">
-                                                                    <div class="special-text">Ecoagro</div>
+                                                                    <div class="special-text">EcoAgro</div>
                                                                 </div>
                                                             </div> -->
                                                             <section style="margin-top: -10%;" class="elementor-section elementor-inner-section elementor-element elementor-element-27e45935 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="27e45935" data-element_type="section" data-settings='{"animation":"none"}'>

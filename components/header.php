@@ -40,6 +40,9 @@
                                                             <a href="index.php"><span>Home</span></a>
 
                                                         </li>
+                                                        <li id="menu-item-18295" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18295">
+                                                            <a href="about.php"><span>About</span></a>
+                                                        </li>
                                                         <li id="menu-item-17651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17651">
                                                             <a href="services.php"><span>Services</span></a>
                                                             <ul class="sub-menu">
@@ -58,10 +61,6 @@
 
                                                             </ul>
                                                         </li>
-                                                        <li id="menu-item-18295" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18295">
-                                                            <a href="about.php"><span>About</span></a>
-
-                                                        </li>
                                                         <li id="menu-item-18300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18300">
                                                             <a href="https://market.greenwebbtech.com"><span>Marketplace</span></a>
 
@@ -69,9 +68,9 @@
                                                         <li id="menu-item-17194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17194">
                                                             <a href="contact.php"><span>Contact</span></a>
                                                         </li>
-                                                        <li id="menu-item-17194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17194">
+                                                        <!-- <li id="menu-item-17194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17194">
                                                             <a href="tel:+260773505560" style="color: #CF4A2A; font-weight:bold; font-size: 21px;"><span>+260 773 505 560</span></a>
-                                                        </li>
+                                                        </li> -->
                                                     </ul>
                                                 </nav>
                                             </div>

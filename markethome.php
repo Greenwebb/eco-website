@@ -17,15 +17,7 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://agricola.axiomthemes.com/organic-farm/" />
     <meta property="og:title" content="Organic Farm" />
-    <meta property="og:description" content="			
-Cultivating Agriculture that Works for the Future 
-										We’re a Unique and Traditional
-Organic Farm 
-										Go to the Shop 
-Cultivating Agriculture that Works for the Future 
-										Get the Fresh Product 
-										Go to the Shop 
-										Contact Info 
+    <meta property="og:description" content="Cultivating Agriculture that Works for the Future  We’re a Unique and Traditional Organic Farm Go to the Shop Cultivating Agriculture that Works for the Future Get the Fresh Product Go to the Shop Contact Info 
 			Our BenefitsOrganic Farm		
 			Natural FarmingConsectetur adipiscing elit, sed do eiusmod tempo.Quality ProductsConsectetur adipiscing elit, sed do" />
     <script type="text/javascript">

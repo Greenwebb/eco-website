@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <link rel="profile" href="//gmpg.org/xfn/11">
-    <title>Agro Services &ndash; Ecoagro</title>
+    <title>Agro Services &ndash; EcoAgro</title>
     <meta name="robots" content="max-image-preview:large">
 
 
@@ -2600,7 +2600,7 @@
         }
 
         .page-title-container .page-title-bg {
-            background-image: url("images/bg.webp");
+            background-image: url("images/site/wf.jpg");
         }
 
         .page-title-container h1.page-title,
@@ -5718,13 +5718,16 @@
     </style>
 
 
-
-
-
-
-
-
-
+<!-- Custom -->
+<style>
+    /* CSS for screens up to 768 pixels wide */
+@media screen and (max-width: 768px) {
+  .pt-mobile {
+    padding-top: 6%; /* Change the background color to your preference */
+    /* Add any other CSS properties or styles you want for smaller screens */
+  }
+}
+</style>
 </head>
 
 <body class="page-template-default page page-id-18038 wp-custom-logo theme-agricola woocommerce-no-js tinvwl-theme-style skin_default scheme_light blog_mode_page body_style_fullscreen is_single sidebar_hide expand_content remove_margins trx_addons_present header_type_custom header_style_header-custom-18654 header_position_default menu_side_none no_layout fixed_blocks_sticky elementor-default elementor-kit-15 elementor-page elementor-page-18038">
@@ -5755,7 +5758,7 @@
                             <div class="page-title-row">
                                 <div class="page-title-wrapper">
                                     <div class="page-title-box">
-                                        <h1 class="page-title text-white">About</h1>
+                                        <h1 class="page-title text-white">About Us</h1>
                                     </div>
                                 </div>
                             </div>
@@ -5828,33 +5831,27 @@
                                                                 </div>
                                                             </div>
                                                         </section>
-                                                        <section
-                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-629cc83 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                        <section style="padding-top: 10%;" class="elementor-section elementor-inner-section elementor-element elementor-element-629cc83 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
                                                             data-id="629cc83" data-element_type="section">
-                                                            <div
-                                                                class="elementor-container elementor-column-gap-default">
+                                                            <div class="elementor-container elementor-column-gap-default">
                                                                 <div class="elementor-row">
                                                                     <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-07287f3"
                                                                         data-id="07287f3" data-element_type="column"
                                                                         data-settings='{"background_background":"classic"}'>
-                                                                        <div
-                                                                            class="elementor-column-wrap elementor-element-populated">
+                                                                        <div class="elementor-column-wrap elementor-element-populated">
                                                                             <div class="elementor-widget-wrap">
-                                                                                <div class="elementor-element elementor-element-2c6fe86 elementor-widget elementor-widget-agrarium_heading"
+                                                                                <div style="padding-bottom:5%;" class="elementor-element elementor-element-2c6fe86 elementor-widget elementor-widget-agrarium_heading"
                                                                                     data-id="2c6fe86"
                                                                                     data-element_type="widget"
                                                                                     data-widget_type="agrarium_heading.default">
-                                                                                    <div
-                                                                                        class="elementor-widget-container">
-                                                                                        <div
-                                                                                            class="agrarium-heading-widget">
-                                                                                            <h2
-                                                                                                class="agrarium-heading">
-                                                                                                <span
-                                                                                                    class="agrarium-subheading">About
-                                                                                                    EcoAgro</span><span
-                                                                                                    class="agrarium-heading-content"> Zambian Agriculture Ecosystem Platform</span>
-                                                                                            </h2>
+                                                                                    <div class="elementor-widget-container">
+                                                                                        <div class="agrarium-heading-widget">
+                                                                                            <h1 class="agrarium-heading">
+                                                                                                <span class="agrarium-subheading">
+                                                                                                    About EcoAgro 
+                                                                                                </span>
+                                                                                                <span class="agrarium-heading-content">Zambian Agriculture Ecosystem Platform</span>
+                                                                                            </h1>
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -5867,113 +5864,146 @@
                                                                                         <div
                                                                                             class="elementor-text-editor elementor-clearfix">
                                                                                             <p>
-                                                                                                <strong>
-                                                                                                    <span style="color: #2c2c2c">
-                                                                                                        We're dedicated to pioneering innovative 
-                                                                                                        solutions and services that drive the agricultural industry towards 
-                                                                                                        a sustainable and prosperous future.
+                                                                                                <span
+                                                                                                        style="color: #2c2c2c">
+                                                                                                        EcoAgro is a leading call center business 
+                                                                                                        for agriculture, specializing in serving 
+                                                                                                        small to medium scale farmers as both 
+                                                                                                        consumers and producers. With a strong 
+                                                                                                        commitment to sustainability and 
+                                                                                                        environmental stewardship, we aim to 
+                                                                                                        revolutionize the way farmers interact 
+                                                                                                        with agricultural services and 
+                                                                                                        information. 
+                                                                                                        <br><br>
+                                                                                                        As a local Zambian call 
+                                                                                                        center, we are uniquely positioned to 
+                                                                                                        understand the needs of our agricultural 
+                                                                                                        community and provide tailored solutions 
+                                                                                                        that drive productivity and growth.
+
                                                                                                     </span>
-                                                                                                </strong>
                                                                                             </p>
-                                                                                            <p>
-                                                                                                At EcoAgro, we are at the forefront of sustainable and technology-driven agriculture solutions. 
-                                                                                                Our journey began with a vision to transform the agricultural landscape by harnessing the power 
-                                                                                                of innovation, data, and expertise. Today, we proudly offer a range of cutting-edge SAAS solutions 
-                                                                                                and services that empower farmers, agribusinesses, and agricultural enthusiasts to thrive 
-                                                                                                in a rapidly evolving industry.
-                                                                                            </p>
+                                                                                            <div
+                                                                                        class="elementor-column-wrap elementor-element-populated">
+                                                                                        <div
+                                                                                            class="elementor-widget-wrap">
+                                                                                            <div class="elementor-element elementor-element-01f4f36 sc_fly_static elementor-widget elementor-widget-heading"
+                                                                                                data-id="01f4f36"
+                                                                                                data-element_type="widget"
+                                                                                                data-widget_type="heading.default">
+                                                                                                <div
+                                                                                                    class="elementor-widget-container">
+                                                                                                    <h5
+                                                                                                        class="elementor-heading-title elementor-size-default">
+                                                                                                        What We Do</h5>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div style="padding:2%" class="elementor-element elementor-element-7d31cf7 sc_fly_static elementor-widget elementor-widget-spacer"
+                                                                                                data-id="7d31cf7"
+                                                                                                data-element_type="widget"
+                                                                                                data-widget_type="spacer.default">
+                                                                                                <div
+                                                                                                    class="elementor-widget-container">
+                                                                                                    <div
+                                                                                                        class="elementor-spacer">
+                                                                                                        <div
+                                                                                                            class="elementor-spacer-inner">
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div class="elementor-element elementor-element-96efdb5 sc_fly_static elementor-widget elementor-widget-text-editor"
+                                                                                                data-id="96efdb5"
+                                                                                                data-element_type="widget"
+                                                                                                data-widget_type="text-editor.default">
+                                                                                                <div
+                                                                                                    class="elementor-widget-container">
+                                                                                                    <div
+                                                                                                        class="elementor-text-editor elementor-clearfix">
+                                                                                                        <p>"We specialize in delivering top-quality Advisory Services and Agrotech Tools. 
+                                                                                                            Our mission is to provide excellence and innovation to diverse industries, 
+                                                                                                            particularly in agriculture. Discover how we can assist you in achieving success.."
+                                                                                                        </p>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div class="elementor-element elementor-element-db3dfa1 sc_height_small sc_fly_static elementor-widget elementor-widget-spacer"
+                                                                                                data-id="db3dfa1"
+                                                                                                data-element_type="widget"
+                                                                                                data-widget_type="spacer.default">
+                                                                                                <div
+                                                                                                    class="elementor-widget-container">
+                                                                                                    <div
+                                                                                                        class="elementor-spacer">
+                                                                                                        <div
+                                                                                                            class="elementor-spacer-inner">
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div class="elementor-element elementor-element-785f10a sc_fly_static elementor-widget elementor-widget-heading"
+                                                                                                data-id="785f10a"
+                                                                                                data-element_type="widget"
+                                                                                                data-widget_type="heading.default">
+                                                                                                <div class="elementor-widget-container">
+                                                                                                    <h5 class="elementor-heading-title elementor-size-default">
+                                                                                                        The
+                                                                                                        Opportunities
+                                                                                                    </h5>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div style="padding:2%" class="elementor-element elementor-element-d7f76cf sc_fly_static elementor-widget elementor-widget-spacer"
+                                                                                                data-id="d7f76cf"
+                                                                                                data-element_type="widget"
+                                                                                                data-widget_type="spacer.default">
+                                                                                                <div
+                                                                                                    class="elementor-widget-container">
+                                                                                                    <div
+                                                                                                        class="elementor-spacer">
+                                                                                                        <div
+                                                                                                            class="elementor-spacer-inner">
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div class="elementor-element elementor-element-0c2a35a sc_fly_static elementor-widget elementor-widget-text-editor"
+                                                                                                data-id="0c2a35a"
+                                                                                                data-element_type="widget"
+                                                                                                data-widget_type="text-editor.default">
+                                                                                                <div
+                                                                                                    class="elementor-widget-container">
+                                                                                                    <div
+                                                                                                        class="elementor-text-editor elementor-clearfix">
+                                                                                                        <p>
+                                                                                                        We believe in creating limitless possibilities through our unwavering commitment 
+                                                                                                        to excellence and innovation. Our mission  is to unlock potential and drive progress. 
+                                                                                                        Join us on this journey of growth and transformation.
+                                                                                                        </p>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                            <!-- <p>
+                                                                                            At EcoAgro, we are dedicated 
+                                                                                            to supporting the success of 
+                                                                                            farmers by leveraging 
+                                                                                            technology, industry expertise, 
+                                                                                            and a customer-centric 
+                                                                                            approach. Our goal is to 
+                                                                                            empower the agricultural 
+                                                                                            community in Zambia by 
+                                                                                            providing exceptional call 
+                                                                                            center services that enhance 
+                                                                                            productivity, profitability, and 
+                                                                                            sustainable farming practices.
+
+                                                                                            </p> -->
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
-                                                                                <section
-                                                                                    class="elementor-section elementor-inner-section elementor-element elementor-element-1450e31 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
-                                                                                    data-id="1450e31"
-                                                                                    data-element_type="section">
-                                                                                    <div
-                                                                                        class="elementor-container elementor-column-gap-no">
-                                                                                        <div class="elementor-row">
-                                                                                            <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8b44085"
-                                                                                                data-id="8b44085" data-element_type="column">
-                                                                                                <div
-                                                                                                    class="elementor-column-wrap elementor-element-populated">
-                                                                                                    <div
-                                                                                                        class="elementor-widget-wrap">
-                                                                                                        <div class="elementor-element elementor-element-b76fe05 elementor-widget elementor-widget-counter"
-                                                                                                            data-id="b76fe05"
-                                                                                                            data-element_type="widget"
-                                                                                                            data-widget_type="counter.default">
-                                                                                                            <div
-                                                                                                                class="elementor-widget-container">
-                                                                                                                <div
-                                                                                                                    class="elementor-counter">
-                                                                                                                    <div
-                                                                                                                        class="elementor-counter-number-wrapper">
-                                                                                                                        <span
-                                                                                                                            class="elementor-counter-number-prefix"></span>
-                                                                                                                        <span
-                                                                                                                            class="elementor-counter-number"
-                                                                                                                            data-duration="2100"
-                                                                                                                            data-to-value="200"
-                                                                                                                            data-from-value="0"
-                                                                                                                            data-delimiter=",">0</span>
-                                                                                                                        <span
-                                                                                                                            class="elementor-counter-number-suffix">k</span>
-                                                                                                                    </div>
-                                                                                                                    <div
-                                                                                                                        class="elementor-counter-title">
-                                                                                                                        Tons
-                                                                                                                        of
-                                                                                                                        Harvest
-                                                                                                                    </div>
-                                                                                                                </div>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                            <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8c63036"
-                                                                                                data-id="8c63036"
-                                                                                                data-element_type="column">
-                                                                                                <div
-                                                                                                    class="elementor-column-wrap elementor-element-populated">
-                                                                                                    <div
-                                                                                                        class="elementor-widget-wrap">
-                                                                                                        <div class="elementor-element elementor-element-1774ca5 elementor-widget elementor-widget-counter"
-                                                                                                            data-id="1774ca5"
-                                                                                                            data-element_type="widget"
-                                                                                                            data-widget_type="counter.default">
-                                                                                                            <div
-                                                                                                                class="elementor-widget-container">
-                                                                                                                <div
-                                                                                                                    class="elementor-counter">
-                                                                                                                    <div
-                                                                                                                        class="elementor-counter-number-wrapper">
-                                                                                                                        <span
-                                                                                                                            class="elementor-counter-number-prefix"></span>
-                                                                                                                        <span
-                                                                                                                            class="elementor-counter-number"
-                                                                                                                            data-duration="2100"
-                                                                                                                            data-to-value="100"
-                                                                                                                            data-from-value="0"
-                                                                                                                            data-delimiter=",">0</span>
-                                                                                                                        <span
-                                                                                                                            class="elementor-counter-number-suffix">+</span>
-                                                                                                                    </div>
-                                                                                                                    <div
-                                                                                                                        class="elementor-counter-title">
-                                                                                                                        Types
-                                                                                                                        of
-                                                                                                                        Products
-                                                                                                                    </div>
-                                                                                                                </div>
-                                                                                                            </div>
-                                                                                                        </div>
-                                                                                                    </div>
-                                                                                                </div>
-                                                                                            </div>
-                                                                                        </div>
-                                                                                    </div>
-                                                                                </section>
+                                                                                
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -5982,7 +6012,7 @@
                                                                         <div
                                                                             class="elementor-column-wrap elementor-element-populated">
                                                                             <div class="elementor-widget-wrap">
-                                                                                <div class="elementor-element elementor-element-54c6e19 elementor-widget-tablet__width-initial elementor-absolute scroll-motion-yes scroll-motion-direction-up elementor-widget elementor-widget-image"
+                                                                                <!-- <div class="elementor-element elementor-element-54c6e19 elementor-widget-tablet__width-initial elementor-absolute scroll-motion-yes scroll-motion-direction-up elementor-widget elementor-widget-image"
                                                                                     data-id="54c6e19"
                                                                                     data-element_type="widget"
                                                                                     data-settings='{"_position":"absolute"}'
@@ -5991,13 +6021,13 @@
                                                                                         class="elementor-widget-container">
                                                                                         <div class="elementor-image">
                                                                                             <img decoding="async"
-                                                                                                width="176" height="217"
+                                                                                                width="176" height="417"
                                                                                                 src="images/site/1.png"
                                                                                                 class="attachment-large size-large wp-image-3105"
                                                                                                 alt="" />
                                                                                         </div>
                                                                                     </div>
-                                                                                </div>
+                                                                                </div> -->
                                                                                 <div class="elementor-element elementor-element-c04628d elementor-widget-tablet__width-auto scroll-motion-no elementor-invisible elementor-widget elementor-widget-image"
                                                                                     data-id="c04628d"
                                                                                     data-element_type="widget"
@@ -6006,15 +6036,15 @@
                                                                                     <div
                                                                                         class="elementor-widget-container">
                                                                                         <div class="elementor-image">
-                                                                                            <img decoding="async"
+                                                                                            <img style="margin-top: 4%" decoding="async"
                                                                                                 fetchpriority="high"
                                                                                                 width="544" height="628"
-                                                                                                src="images/08-%D0%A1%D0%BB%D0%BE%D0%B9-1.png"
+                                                                                                src="images/site/calllady.jpg"
                                                                                                 class="attachment-full size-full wp-image-7216"
                                                                                                 alt="" srcset="
-                                                    https://g2h4v2c9.stackpathcdn.com/themes/agrarium/wp-content/uploads/2021/08/Слой-1.png         544w,
-                                                    https://g2h4v2c9.stackpathcdn.com/themes/agrarium/wp-content/uploads/2021/08/Слой-1-260x300.png 260w
-                                                  " sizes="(max-width: 544px) 100vw, 544px" />
+                                                                                                images/site/calllady.jpg  544w,
+                                                                                                images/site/calllady.jpg  260w
+                                                                                            " sizes="(max-width: 544px) 100vw, 544px" />
                                                                                         </div>
                                                                                     </div>
                                                                                 </div>
@@ -6030,10 +6060,1349 @@
                                         </div>
                                     </div>
                                 </section>
-                                
-                                
-                                
-                                
+                                <section style="padding-top: 10%;" class="elementor-section elementor-top-section elementor-element elementor-element-24839b7 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static"
+                                    data-id="24839b7" data-element_type="section">
+                                    <div class="elementor-container elementor-column-gap-extended">
+                                        <div class="elementor-row">
+                                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fde3dae sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
+                                                data-id="fde3dae" data-element_type="column">
+                                                <div class="elementor-column-wrap elementor-element-populated">
+                                                    <div class="elementor-widget-wrap">
+                                                        <section
+                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-6473f57 elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static"
+                                                            data-id="6473f57" data-element_type="section">
+                                                            <div class="elementor-container elementor-column-gap-no">
+                                                                    
+                                                                    <div class=" elementor-element elementor-element-92403ce sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
+                                                                        data-id="92403ce" >
+                                                                        <div
+                                                                            class="elementor-column-wrap elementor-element-populated">
+                                                                            <div
+                                                                                class="elementor-widget-wrap">
+                                                                                <div class="elementor-element elementor-element-d9c2209 no-title sc_fly_static elementor-widget elementor-widget-image"
+                                                                                    data-id="d9c2209"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="image.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div
+                                                                                            class="elementor-image">
+                                                                                            <img decoding="async"
+                                                                                                width="615"
+                                                                                                height="675"
+                                                                                                
+                                                                                                src="images/site/ss.jpg"
+                                                                                                class="attachment-full size-full"
+                                                                                                alt="" sizes="(max-width: 615px) 100vw, 615px">
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                            </div>
+                                                        </section>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                            <div style="padding-top: 4%;" class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-bf910de sc_inner_width_none sc_content_align_inherit sc_layouts_column_icons_position_left sc_fly_static"
+                                                data-id="bf910de" data-element_type="column">
+                                                <div
+                                                    class="elementor-column-wrap elementor-element-populated">
+                                                    <div class="elementor-widget-wrap">
+                                                        <div class="elementor-element elementor-element-2b6a309 sc_fly_static elementor-widget elementor-widget-trx_sc_title"
+                                                            data-id="2b6a309" data-element_type="widget"
+                                                            data-widget_type="trx_sc_title.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="sc_title color_style_dark sc_title_default">
+                                                                    <!-- <span class="sc_item_subtitle sc_title_subtitle sc_item_subtitle_above sc_item_title_style_default">About
+                                                                        Us</span> -->
+                                                                    <h1 class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
+                                                                        <span class="sc_item_title_text">
+                                                                            Why partner with us?
+                                                                        </span>
+                                                                    </h1>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-4941a60 sc_fly_static elementor-widget elementor-widget-spacer"
+                                                            data-id="4941a60" data-element_type="widget"
+                                                            data-widget_type="spacer.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="elementor-spacer">
+                                                                    <div class="elementor-spacer-inner">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div style="margin-top: 6%;" class="elementor-element elementor-element-bd05054 sc_fly_static elementor-widget elementor-widget-text-editor"
+                                                            data-id="bd05054" data-element_type="widget"
+                                                            data-widget_type="text-editor.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="elementor-text-editor elementor-clearfix">
+                                                                    <p>
+                                                                        At EcoAgro, our dedicated team of skilled agricultural experts, alongside our highly-trained 
+                                                                        customer service specialists, work together to provide tailored solutions and exceptional 
+                                                                        support to farmers. We are also equipped with a dedicated technology team proficient 
+                                                                        in cutting-edge tools to streamline operations and enhance the customer experience. 
+                                                                        Our high-caliber executives, with a proven track record in the call center industry 
+                                                                        and deep agricultural sector understanding, lead our objective-oriented and 
+                                                                        strategically adept team.
+                                                                    </p>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-fae36ad sc_fly_static elementor-widget elementor-widget-spacer"
+                                                            data-id="fae36ad" data-element_type="widget"
+                                                            data-widget_type="spacer.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="elementor-spacer">
+                                                                    <div class="elementor-spacer-inner">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div style="padding-top: 4%;" class="elementor-element elementor-element-ca14252 sc_fly_static elementor-widget elementor-widget-text-editor"
+                                                            data-id="ca14252" data-element_type="widget"
+                                                            data-widget_type="text-editor.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div
+                                                                    class="elementor-text-editor elementor-clearfix">
+                                                                    <ul class="trx_addons_list_success">
+                                                                        <li>Skilled Agricultural Experts</li>
+                                                                        <li>Customer Service Specialists </li>
+                                                                        <li>Technology Professionals</li>
+                                                                        <li>Executive Leadership</li>
+                                                                    </ul>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-17e50bb sc_fly_static elementor-widget elementor-widget-spacer"
+                                                            data-id="17e50bb" data-element_type="widget"
+                                                            data-widget_type="spacer.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="elementor-spacer">
+                                                                    <div class="elementor-spacer-inner">
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+                                <section
+                                    class="elementor-section elementor-top-section elementor-element elementor-element-f6cc3fd elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                    data-id="f6cc3fd" data-element_type="section"
+                                    data-settings='{"stretch_section":"section-stretched","background_background":"classic"}'>
+                                    <div class="elementor-container elementor-column-gap-default">
+                                        <div class="elementor-row">
+                                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f96e755"
+                                                data-id="f96e755" data-element_type="column">
+                                                <div class="elementor-column-wrap elementor-element-populated">
+                                                    <div class="elementor-widget-wrap">
+                                                        <div class="elementor-element elementor-element-ea7d2f0 elementor-absolute scroll-motion-no elementor-widget elementor-widget-agrarium_vertical_text"
+                                                            data-id="ea7d2f0" data-element_type="widget"
+                                                            data-settings='{"_position":"absolute"}'
+                                                            data-widget_type="agrarium_vertical_text.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="vertical-text">
+                                                                    <!-- Agrarium EST 1956 -->
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="elementor-element elementor-element-d4a1805 elementor-widget elementor-widget-agrarium_slogan"
+                                                            data-id="d4a1805" data-element_type="widget"
+                                                            data-widget_type="agrarium_slogan.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="slogan">
+                                                                    4 years of experience in Advisory 
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <!-- <section
+                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-f12e523 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                            data-id="f12e523" data-element_type="section">
+                                                            <div class="elementor-container elementor-column-gap-no">
+                                                                <div class="elementor-row">
+                                                                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-fd9f0f8"
+                                                                        data-id="fd9f0f8" data-element_type="column">
+                                                                        <div
+                                                                            class="elementor-column-wrap elementor-element-populated">
+                                                                            <div class="elementor-widget-wrap">
+                                                                                <div class="elementor-element elementor-element-ed963d6 elementor-widget elementor-widget-agrarium_heading"
+                                                                                    data-id="ed963d6"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="agrarium_heading.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div
+                                                                                            class="agrarium-heading-widget">
+                                                                                            <h2
+                                                                                                class="agrarium-heading">
+                                                                                                <span
+                                                                                                    class="agrarium-subheading">History</span><span
+                                                                                                    class="agrarium-heading-content">Farming
+                                                                                                    have been since
+                                                                                                    1956</span>
+                                                                                            </h2>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-dff88a9 elementor-widget elementor-widget-agrarium_history_carousel"
+                                                                                    data-id="dff88a9"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="agrarium_history_carousel.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div
+                                                                                            class="history-carousel-wrapper">
+                                                                                            <div
+                                                                                                class="history-slider-container">
+                                                                                                <div class="history-slider owl-carousel owl-theme"
+                                                                                                    data-slider-options='{"items":1,"autoplayHoverPause":true,"autoplay":false,"autoplaySpeed":300,"autoplayTimeout":5000,"loop":true,"speed":500,"dotsContainer":".owl-dots-dff88a9"}'>
+                                                                                                    <div
+                                                                                                        class="history-item slider-item">
+                                                                                                        <div
+                                                                                                            class="history-year-wrapper">
+                                                                                                            <div
+                                                                                                                class="history-year">
+                                                                                                                1956
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                        <div
+                                                                                                            class="history-wrapper">
+                                                                                                            <h5
+                                                                                                                class="history-title">
+                                                                                                                The
+                                                                                                                Begging
+                                                                                                            </h5>
+                                                                                                            <div
+                                                                                                                class="history-text">
+                                                                                                                <p>
+                                                                                                                    Ballan
+                                                                                                                    wrasse
+                                                                                                                    climbing
+                                                                                                                    gourami
+                                                                                                                    amur
+                                                                                                                    pike
+                                                                                                                    Arctic
+                                                                                                                    char,
+                                                                                                                    steelhead
+                                                                                                                    sprat
+                                                                                                                    sea
+                                                                                                                    lamprey
+                                                                                                                    grunion.
+                                                                                                                    Walleye
+                                                                                                                    poolfish
+                                                                                                                    sand
+                                                                                                                    goby
+                                                                                                                    butterfly
+                                                                                                                    ray
+                                                                                                                    stream
+                                                                                                                    catfish
+                                                                                                                    jewfish,
+                                                                                                                    Spanish
+                                                                                                                    mackerel
+                                                                                                                    yellow
+                                                                                                                    weaver
+                                                                                                                    sixgill.
+                                                                                                                    Sandperch
+                                                                                                                    flyingfish
+                                                                                                                    yellowfin
+                                                                                                                </p>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                    <div
+                                                                                                        class="history-item slider-item">
+                                                                                                        <div
+                                                                                                            class="history-year-wrapper">
+                                                                                                            <div
+                                                                                                                class="history-year">
+                                                                                                                1956
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                        <div
+                                                                                                            class="history-wrapper">
+                                                                                                            <h5
+                                                                                                                class="history-title">
+                                                                                                                The
+                                                                                                                Begging
+                                                                                                            </h5>
+                                                                                                            <div
+                                                                                                                class="history-text">
+                                                                                                                <p>
+                                                                                                                    Ballan
+                                                                                                                    wrasse
+                                                                                                                    climbing
+                                                                                                                    gourami
+                                                                                                                    amur
+                                                                                                                    pike
+                                                                                                                    Arctic
+                                                                                                                    char,
+                                                                                                                    steelhead
+                                                                                                                    sprat
+                                                                                                                    sea
+                                                                                                                    lamprey
+                                                                                                                    grunion.
+                                                                                                                    Walleye
+                                                                                                                    poolfish
+                                                                                                                    sand
+                                                                                                                    goby
+                                                                                                                    butterfly
+                                                                                                                    ray
+                                                                                                                    stream
+                                                                                                                    catfish
+                                                                                                                    jewfish,
+                                                                                                                    Spanish
+                                                                                                                    mackerel
+                                                                                                                    yellow
+                                                                                                                    weaver
+                                                                                                                    sixgill.
+                                                                                                                    Sandperch
+                                                                                                                    flyingfish
+                                                                                                                    yellowfin
+                                                                                                                </p>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                    <div
+                                                                                                        class="history-item slider-item">
+                                                                                                        <div
+                                                                                                            class="history-year-wrapper">
+                                                                                                            <div
+                                                                                                                class="history-year">
+                                                                                                                1956
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                        <div
+                                                                                                            class="history-wrapper">
+                                                                                                            <h5
+                                                                                                                class="history-title">
+                                                                                                                The
+                                                                                                                Begging
+                                                                                                            </h5>
+                                                                                                            <div
+                                                                                                                class="history-text">
+                                                                                                                <p>
+                                                                                                                    Ballan
+                                                                                                                    wrasse
+                                                                                                                    climbing
+                                                                                                                    gourami
+                                                                                                                    amur
+                                                                                                                    pike
+                                                                                                                    Arctic
+                                                                                                                    char,
+                                                                                                                    steelhead
+                                                                                                                    sprat
+                                                                                                                    sea
+                                                                                                                    lamprey
+                                                                                                                    grunion.
+                                                                                                                    Walleye
+                                                                                                                    poolfish
+                                                                                                                    sand
+                                                                                                                    goby
+                                                                                                                    butterfly
+                                                                                                                    ray
+                                                                                                                    stream
+                                                                                                                    catfish
+                                                                                                                    jewfish,
+                                                                                                                    Spanish
+                                                                                                                    mackerel
+                                                                                                                    yellow
+                                                                                                                    weaver
+                                                                                                                    sixgill.
+                                                                                                                    Sandperch
+                                                                                                                    flyingfish
+                                                                                                                    yellowfin
+                                                                                                                </p>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                            <div
+                                                                                                class="owl-dots owl-dots-dff88a9">
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-220fd45 elementor-widget__width-auto scroll-motion-no elementor-widget elementor-widget-image"
+                                                                                    data-id="220fd45"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="image.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div class="elementor-image">
+                                                                                            <img decoding="async"
+                                                                                                width="100" height="101"
+                                                                                                src="images/08-Vector-Smart-Object-9.png"
+                                                                                                class="attachment-large size-large wp-image-7377"
+                                                                                                alt="" />
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-985136d elementor-widget__width-auto scroll-motion-no elementor-widget elementor-widget-image"
+                                                                                    data-id="985136d"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="image.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div class="elementor-image">
+                                                                                            <img decoding="async"
+                                                                                                loading="lazy"
+                                                                                                width="92" height="92"
+                                                                                                src="images/08-Vector-Smart-Object1.png"
+                                                                                                class="attachment-large size-large wp-image-7381"
+                                                                                                alt="" />
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-b73cf0b elementor-widget__width-auto scroll-motion-no elementor-widget elementor-widget-image"
+                                                                                    data-id="b73cf0b"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="image.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div class="elementor-image">
+                                                                                            <img decoding="async"
+                                                                                                loading="lazy"
+                                                                                                width="113" height="100"
+                                                                                                src="images/08-Vector-Smart-Object2.png"
+                                                                                                class="attachment-large size-large wp-image-7382"
+                                                                                                alt="" />
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-acbb16c elementor-widget__width-auto scroll-motion-no elementor-widget elementor-widget-image"
+                                                                                    data-id="acbb16c"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="image.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div class="elementor-image">
+                                                                                            <img decoding="async"
+                                                                                                loading="lazy"
+                                                                                                width="94" height="93"
+                                                                                                src="images/08-Vector-Smart-Object3.png"
+                                                                                                class="attachment-large size-large wp-image-7383"
+                                                                                                alt="" />
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a300615"
+                                                                        data-id="a300615" data-element_type="column">
+                                                                        <div
+                                                                            class="elementor-column-wrap elementor-element-populated">
+                                                                            <div class="elementor-widget-wrap">
+                                                                                <div class="elementor-element elementor-element-86e8c65 elementor-widget__width-initial scroll-motion-no elementor-widget elementor-widget-image"
+                                                                                    data-id="86e8c65"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="image.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div class="elementor-image">
+                                                                                            <img decoding="async"
+                                                                                                loading="lazy"
+                                                                                                width="1019"
+                                                                                                height="647"
+                                                                                                src="images/08-Vector-Smart-Object-8.png"
+                                                                                                class="attachment-full size-full wp-image-7351"
+                                                                                                alt="" srcset="
+                                                                                                https://g2h4v2c9.stackpathcdn.com/themes/agrarium/wp-content/uploads/2021/08/Vector-Smart-Object-8.png         1019w,
+                                                                                                https://g2h4v2c9.stackpathcdn.com/themes/agrarium/wp-content/uploads/2021/08/Vector-Smart-Object-8-600x381.png  600w,
+                                                                                                https://g2h4v2c9.stackpathcdn.com/themes/agrarium/wp-content/uploads/2021/08/Vector-Smart-Object-8-300x190.png  300w,
+                                                                                                https://g2h4v2c9.stackpathcdn.com/themes/agrarium/wp-content/uploads/2021/08/Vector-Smart-Object-8-768x488.png  768w
+                                                                                            " sizes="(max-width: 1019px) 100vw, 1019px" />
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </section> -->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+                                <section
+                                    class="elementor-section elementor-top-section elementor-element elementor-element-169505c4 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default"
+                                    data-id="169505c4" data-element_type="section"
+                                    data-settings='{"stretch_section":"section-stretched","animation":"none"}'>
+                                    <div class="elementor-container elementor-column-gap-no">
+                                        <div class="elementor-row">
+                                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1bdf80be"
+                                                data-id="1bdf80be" data-element_type="column">
+                                                <div class="elementor-column-wrap elementor-element-populated">
+                                                    <div class="elementor-widget-wrap">
+                                                        <section
+                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-ee3f55f elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                            data-id="ee3f55f" data-element_type="section"
+                                                            data-settings='{"animation":"none"}'>
+                                                            <div
+                                                                class="elementor-container elementor-column-gap-default">
+                                                                <div class="elementor-row">
+                                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-30710cba"
+                                                                        data-id="30710cba" data-element_type="column"
+                                                                        data-settings='{"animation":"none"}'>
+                                                                        <div
+                                                                            class="elementor-column-wrap elementor-element-populated">
+                                                                            <div class="elementor-widget-wrap">
+                                                                                <div class="elementor-element elementor-element-1edb1cf8 elementor-widget elementor-widget-agrarium_heading"
+                                                                                    data-id="1edb1cf8"
+                                                                                    data-element_type="widget"
+                                                                                    data-settings='{"_animation":"none"}'
+                                                                                    data-widget_type="agrarium_heading.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div
+                                                                                            class="agrarium-heading-widget">
+                                                                                            <h2
+                                                                                                class="agrarium-heading">
+                                                                                                <span style="padding-bottom: 2%;" class="agrarium-subheading">Team
+                                                                                                    Farmers</span>
+                                                                                                    <span
+                                                                                                    class="agrarium-heading-content">Key people in the team</span>
+                                                                                            </h2>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </section>
+                                                        <section
+                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-709b0f4 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                            data-id="709b0f4" data-element_type="section">
+                                                            <div
+                                                                class="elementor-container elementor-column-gap-default">
+                                                                <div class="elementor-row">
+                                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-2667a3e7"
+                                                                        data-id="2667a3e7" data-element_type="column">
+                                                                        <div
+                                                                            class="elementor-column-wrap elementor-element-populated">
+                                                                            <div class="elementor-widget-wrap">
+                                                                                <div class="elementor-element elementor-element-5c7d3cdb elementor-absolute elementor-widget elementor-widget-agrarium_special_text"
+                                                                                    data-id="5c7d3cdb"
+                                                                                    data-element_type="widget"
+                                                                                    data-settings='{"_position":"absolute"}'
+                                                                                    data-widget_type="agrarium_special_text.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div class="special-text">
+                                                                                            <!-- Team -->
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </section>
+                                                        <section style="padding-top: 8%;" class="elementor-section elementor-inner-section elementor-element elementor-element-c22fd42 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                            data-id="c22fd42" data-element_type="section">
+                                                            <div
+                                                                class="elementor-container elementor-column-gap-default">
+                                                                <div class="elementor-row">
+                                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-08e8b97"
+                                                                        data-id="08e8b97" data-element_type="column">
+                                                                        <div
+                                                                            class="elementor-column-wrap elementor-element-populated">
+                                                                            <div class="elementor-widget-wrap">
+                                                                                <div class="elementor-element elementor-element-ac1e873 elementor-widget elementor-widget-agrarium_team_members"
+                                                                                    data-id="ac1e873"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="agrarium_team_members.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div
+                                                                                            class="agrarium-team-members-widget">
+                                                                                            <div class="archive-listing"
+                                                                                                data-ajax='{"post_type":"agrarium_team_member","ignore_sticky_posts":true,"suppress_filters":true,"orderby":"date","order":"desc","link_base":"https:\/\/demo.artureanec.com\/themes\/agrarium\/about","posts_per_page":4,"columns_number":4,"paged":1,"show_pagination":""}'
+                                                                                                data-widget='{"item_class":"team-item-wrapper","columns_number":4}'>
+                                                                                                <div
+                                                                                                    class="archive-listing-wrapper team-listing-wrapper team-grid-listing columns-4">
+                                                                                                    <div
+                                                                                                        class="team-item-wrapper post-547 agrarium_team_member type-agrarium_team_member status-publish has-post-thumbnail hentry">
+                                                                                                        <div
+                                                                                                            class="team-item">
+                                                                                                            <div
+                                                                                                                class="team-item-media">
+                                                                                                                <a
+                                                                                                                    href="#"><img
+                                                                                                                        decoding="async"
+                                                                                                                        alt="team-1"
+                                                                                                                        title="team-1"
+                                                                                                                        src="images/site/x.png"
+                                                                                                                        class="attachment-agrarium_team_thumbnail size-agrarium_team_thumbnail wp-post-image" /></a>
+                                                                                                                <!-- <div
+                                                                                                                    class="team-item-socials">
+                                                                                                                    <i
+                                                                                                                        class="icomoon-social socials-trigger"></i>
+                                                                                                                    <ul
+                                                                                                                        class="team-socials wrapper-socials">
+                                                                                                                        <li>
+                                                                                                                            <a href="#"
+                                                                                                                                target="_blank"
+                                                                                                                                class="fab fa-twitter"></a>
+                                                                                                                        </li>
+                                                                                                                        <li>
+                                                                                                                            <a href="#"
+                                                                                                                                target="_blank"
+                                                                                                                                class="fab fa-facebook-f"></a>
+                                                                                                                        </li>
+                                                                                                                        <li>
+                                                                                                                            <a href="#"
+                                                                                                                                target="_blank"
+                                                                                                                                class="fab fa-linkedin-in"></a>
+                                                                                                                        </li>
+                                                                                                                        <li>
+                                                                                                                            <a href="#"
+                                                                                                                                target="_blank"
+                                                                                                                                class="fab fa-instagram"></a>
+                                                                                                                        </li>
+                                                                                                                    </ul>
+                                                                                                                </div> -->
+                                                                                                            </div>
+                                                                                                            <span
+                                                                                                                class="team-item-content"><a
+                                                                                                                    href="james-willson.html"
+                                                                                                                    class="team-item-link"><span
+                                                                                                                        class="post-title">Alex
+                                                                                                                        Belini</span></a><span
+                                                                                                                    class="team-item-position">Founder
+                                                                                                                    &amp;
+                                                                                                                    owner</span></span>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                    <div
+                                                                                                        class="team-item-wrapper post-546 agrarium_team_member type-agrarium_team_member status-publish has-post-thumbnail hentry">
+                                                                                                        <div
+                                                                                                            class="team-item">
+                                                                                                            <div
+                                                                                                                class="team-item-media">
+                                                                                                                <a
+                                                                                                                    href="#"><img
+                                                                                                                        decoding="async"
+                                                                                                                        alt="team-2"
+                                                                                                                        title="team-2"
+                                                                                                                        src="images/site/y.jpg"
+                                                                                                                        class="attachment-agrarium_team_thumbnail size-agrarium_team_thumbnail wp-post-image" /></a>
+                                                                                                                <!-- <div
+                                                                                                                    class="team-item-socials">
+                                                                                                                    <i
+                                                                                                                        class="icomoon-social socials-trigger"></i>
+                                                                                                                    <ul
+                                                                                                                        class="team-socials wrapper-socials">
+                                                                                                                        <li>
+                                                                                                                            <a href="#"
+                                                                                                                                target="_blank"
+                                                                                                                                class="fab fa-twitter"></a>
+                                                                                                                        </li>
+                                                                                                                        <li>
+                                                                                                                            <a href="#"
+                                                                                                                                target="_blank"
+                                                                                                                                class="fab fa-facebook-f"></a>
+                                                                                                                        </li>
+                                                                                                                        <li>
+                                                                                                                            <a href="#"
+                                                                                                                                target="_blank"
+                                                                                                                                class="fab fa-linkedin-in"></a>
+                                                                                                                        </li>
+                                                                                                                        <li>
+                                                                                                                            <a href="#"
+                                                                                                                                target="_blank"
+                                                                                                                                class="fab fa-instagram"></a>
+                                                                                                                        </li>
+                                                                                                                    </ul>
+                                                                                                                </div> -->
+                                                                                                            </div>
+                                                                                                            <span
+                                                                                                                class="team-item-content"><a
+                                                                                                                    href="john-anderson.html"
+                                                                                                                    class="team-item-link"><span
+                                                                                                                        class="post-title">Joyce
+                                                                                                                        Okendo</span></a><span
+                                                                                                                    class="team-item-position">Winery
+                                                                                                                    Master</span></span>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                    <div
+                                                                                                        class="team-item-wrapper post-545 agrarium_team_member type-agrarium_team_member status-publish has-post-thumbnail hentry">
+                                                                                                        <div
+                                                                                                            class="team-item">
+                                                                                                            <div
+                                                                                                                class="team-item-media">
+                                                                                                                <a href="#"><img
+                                                                                                                        decoding="async"
+                                                                                                                        alt="team-3"
+                                                                                                                        title="team-3"
+                                                                                                                        src="images/site/z.jpg"
+                                                                                                                        class="attachment-agrarium_team_thumbnail size-agrarium_team_thumbnail wp-post-image" /></a>
+                                                                                                                    <!-- <div
+                                                                                                                        class="team-item-socials">
+                                                                                                                        <i
+                                                                                                                            class="icomoon-social socials-trigger"></i>
+                                                                                                                        <ul
+                                                                                                                            class="team-socials wrapper-socials">
+                                                                                                                            <li>
+                                                                                                                                <a href="#"
+                                                                                                                                    target="_blank"
+                                                                                                                                    class="fab fa-twitter"></a>
+                                                                                                                            </li>
+                                                                                                                            <li>
+                                                                                                                                <a href="#"
+                                                                                                                                    target="_blank"
+                                                                                                                                    class="fab fa-facebook-f"></a>
+                                                                                                                            </li>
+                                                                                                                            <li>
+                                                                                                                                <a href="#"
+                                                                                                                                    target="_blank"
+                                                                                                                                    class="fab fa-linkedin-in"></a>
+                                                                                                                            </li>
+                                                                                                                            <li>
+                                                                                                                                <a href="#"
+                                                                                                                                    target="_blank"
+                                                                                                                                    class="fab fa-instagram"></a>
+                                                                                                                            </li>
+                                                                                                                        </ul>
+                                                                                                                    </div> -->
+                                                                                                            </div>
+                                                                                                            <span
+                                                                                                                class="team-item-content"><a
+                                                                                                                    href="dan-rich.html"
+                                                                                                                    class="team-item-link"><span
+                                                                                                                        class="post-title">Mumba
+                                                                                                                        Miller</span></a><span
+                                                                                                                    class="team-item-position">Farmer</span></span>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                    <div
+                                                                                                        class="team-item-wrapper post-544 agrarium_team_member type-agrarium_team_member status-publish has-post-thumbnail hentry">
+                                                                                                        <div
+                                                                                                            class="team-item">
+                                                                                                            <div
+                                                                                                                class="team-item-media">
+                                                                                                                <a
+                                                                                                                    href="#"><img
+                                                                                                                        decoding="async"
+                                                                                                                        alt="team-4"
+                                                                                                                        title="team-4"
+                                                                                                                        src="images/site/f.jpg"
+                                                                                                                        class="attachment-agrarium_team_thumbnail size-agrarium_team_thumbnail wp-post-image" /></a>
+                                                                                                                <!-- <div
+                                                                                                                    class="team-item-socials">
+                                                                                                                    <i
+                                                                                                                        class="icomoon-social socials-trigger"></i>
+                                                                                                                    <ul
+                                                                                                                        class="team-socials wrapper-socials">
+                                                                                                                        <li>
+                                                                                                                            <a href="#"
+                                                                                                                                target="_blank"
+                                                                                                                                class="fab fa-twitter"></a>
+                                                                                                                        </li>
+                                                                                                                        <li>
+                                                                                                                            <a href="#"
+                                                                                                                                target="_blank"
+                                                                                                                                class="fab fa-facebook-f"></a>
+                                                                                                                        </li>
+                                                                                                                        <li>
+                                                                                                                            <a href="#"
+                                                                                                                                target="_blank"
+                                                                                                                                class="fab fa-linkedin-in"></a>
+                                                                                                                        </li>
+                                                                                                                        <li>
+                                                                                                                            <a href="#"
+                                                                                                                                target="_blank"
+                                                                                                                                class="fab fa-instagram"></a>
+                                                                                                                        </li>
+                                                                                                                    </ul>
+                                                                                                                </div> -->
+                                                                                                            </div>
+                                                                                                            <span
+                                                                                                                class="team-item-content"><a
+                                                                                                                    href="anna-colins.html"
+                                                                                                                    class="team-item-link"><span
+                                                                                                                        class="post-title">Alen
+                                                                                                                        Cooper</span></a><span
+                                                                                                                    class="team-item-position">Mechanic</span></span>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <!-- <div class="elementor-element elementor-element-b3d16e7 elementor-widget elementor-widget-agrarium_button"
+                                                                                    data-id="b3d16e7"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="agrarium_button.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div class="button-widget">
+                                                                                            <div
+                                                                                                class="button-container">
+                                                                                                <a class="agrarium-button"
+                                                                                                    href="team.html"
+                                                                                                    target="_blank">More
+                                                                                                    about</a>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div> -->
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </section>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>
+                                <!-- <section data-parallax="scroll"
+                                    class="elementor-section elementor-top-section elementor-element elementor-element-0f42eeb elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                    data-id="0f42eeb" data-element_type="section"
+                                    data-settings='{"stretch_section":"section-stretched","background_background":"classic","animation":"none"}'>
+                                    <div class="elementor-container elementor-column-gap-no">
+                                        <div class="elementor-row">
+                                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c17a6c9"
+                                                data-id="c17a6c9" data-element_type="column"
+                                                data-settings='{"animation":"none"}'>
+                                                <div class="elementor-column-wrap elementor-element-populated">
+                                                    <div class="elementor-widget-wrap">
+                                                        <section
+                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-d9ac7c2 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                            data-id="d9ac7c2" data-element_type="section"
+                                                            data-settings='{"background_background":"classic"}'>
+                                                            <div class="elementor-background-overlay"></div>
+                                                            <div
+                                                                class="elementor-container elementor-column-gap-default">
+                                                                <div class="elementor-row">
+                                                                    <div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-a583277"
+                                                                        data-id="a583277" data-element_type="column">
+                                                                        <div
+                                                                            class="elementor-column-wrap elementor-element-populated">
+                                                                            <div class="elementor-widget-wrap">
+                                                                                <div class="elementor-element elementor-element-8c5279e elementor-widget elementor-widget-agrarium_heading"
+                                                                                    data-id="8c5279e"
+                                                                                    data-element_type="widget"
+                                                                                    data-settings='{"_animation":"none"}'
+                                                                                    data-widget_type="agrarium_heading.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div
+                                                                                            class="agrarium-heading-widget">
+                                                                                            <h2
+                                                                                                class="agrarium-heading">
+                                                                                                <span
+                                                                                                    class="agrarium-subheading">Testimonials</span><span
+                                                                                                    class="agrarium-heading-content"><span
+                                                                                                        style="
+                                                                                                                    text-decoration: underline;
+                                                                                                                ">People</span>
+                                                                                                    says about
+                                                                                                    Agrarium</span>
+                                                                                            </h2>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div class="elementor-element elementor-element-2e10f60 elementor-widget elementor-widget-agrarium_testimonial_carousel"
+                                                                                    data-id="2e10f60"
+                                                                                    data-element_type="widget"
+                                                                                    data-settings='{"_animation":"none","_animation_delay":100}'
+                                                                                    data-widget_type="agrarium_testimonial_carousel.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div
+                                                                                            class="agrarium-testimonial-carousel-widget">
+                                                                                            <div
+                                                                                                class="testimonial-carousel-wrapper">
+                                                                                                <div
+                                                                                                    class="testimonials-slider-container">
+                                                                                                    <div class="testimonials-slider owl-carousel owl-theme"
+                                                                                                        data-slider-options='{"items":1,"autoplayHoverPause":true,"autoplay":false,"autoplaySpeed":300,"autoplayTimeout":5000,"loop":true,"speed":500,"dotsContainer":".owl-dots-2e10f60"}'>
+                                                                                                        <div
+                                                                                                            class="testimonial-item slider-item">
+                                                                                                            <div
+                                                                                                                class="author-container">
+                                                                                                                <div
+                                                                                                                    class="testimonial-photo">
+                                                                                                                    <img decoding="async"
+                                                                                                                        src="images/08-man-with-showing-harvest-holding-basket-full-red-delicious-apples_7502-1231-e1628495888683.jpg"
+                                                                                                                        alt="" />
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                            <div
+                                                                                                                class="testimonial-wrapper">
+                                                                                                                <div
+                                                                                                                    class="testimonial">
+                                                                                                                    <p>
+                                                                                                                        Ballan
+                                                                                                                        wrasse
+                                                                                                                        climbing
+                                                                                                                        gourami
+                                                                                                                        amur
+                                                                                                                        pike
+                                                                                                                        Arctic
+                                                                                                                        char,
+                                                                                                                        steelhead
+                                                                                                                        sprat
+                                                                                                                        sea
+                                                                                                                        lamprey
+                                                                                                                        grunion."
+                                                                                                                        Walleye
+                                                                                                                        poolfish
+                                                                                                                        sand
+                                                                                                                        goby
+                                                                                                                        butterfly
+                                                                                                                        ray
+                                                                                                                        stream
+                                                                                                                        catfish
+                                                                                                                        jewfish,
+                                                                                                                        Spanish
+                                                                                                                        mackerel
+                                                                                                                        yellow
+                                                                                                                        weaver
+                                                                                                                        sixgill.
+                                                                                                                        Sandperch
+                                                                                                                        flyingfish
+                                                                                                                        yellowfin
+                                                                                                                        cutthroat
+                                                                                                                        trout
+                                                                                                                        grouper
+                                                                                                                        whitebait
+                                                                                                                        horsefish
+                                                                                                                        bullhead
+                                                                                                                        shark
+                                                                                                                        California
+                                                                                                                        smoothtongue,
+                                                                                                                        striped
+                                                                                                                        burrfish
+                                                                                                                        threadtail
+                                                                                                                        saber-toothed
+                                                                                                                        blenny
+                                                                                                                        Red
+                                                                                                                        California
+                                                                                                                        smoothtongue,
+                                                                                                                        striped
+                                                                                                                        burrfish
+                                                                                                                        threadtail
+                                                                                                                        saber-toothed
+                                                                                                                        blenny
+                                                                                                                        Red
+                                                                                                                    </p>
+                                                                                                                </div>
+                                                                                                                <div
+                                                                                                                    class="author-info">
+                                                                                                                    <div
+                                                                                                                        class="author-name">
+                                                                                                                        Andy
+                                                                                                                        Collins
+                                                                                                                    </div>
+                                                                                                                    , 
+                                                                                                                    <div
+                                                                                                                        class="author-position">
+                                                                                                                        Agrarium
+                                                                                                                        LLC
+                                                                                                                    </div>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                        <div
+                                                                                                            class="testimonial-item slider-item">
+                                                                                                            <div
+                                                                                                                class="author-container">
+                                                                                                                <div
+                                                                                                                    class="testimonial-photo">
+                                                                                                                    <img decoding="async"
+                                                                                                                        src="images/08-man-with-showing-harvest-holding-basket-full-red-delicious-apples_7502-1231-e1628495888683.jpg"
+                                                                                                                        alt="" />
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                            <div
+                                                                                                                class="testimonial-wrapper">
+                                                                                                                <div
+                                                                                                                    class="testimonial">
+                                                                                                                    <p>
+                                                                                                                        Ballan
+                                                                                                                        wrasse
+                                                                                                                        climbing
+                                                                                                                        gourami
+                                                                                                                        amur
+                                                                                                                        pike
+                                                                                                                        Arctic
+                                                                                                                        char,
+                                                                                                                        steelhead
+                                                                                                                        sprat
+                                                                                                                        sea
+                                                                                                                        lamprey
+                                                                                                                        grunion."
+                                                                                                                        Walleye
+                                                                                                                        poolfish
+                                                                                                                        sand
+                                                                                                                        goby
+                                                                                                                        butterfly
+                                                                                                                        ray
+                                                                                                                        stream
+                                                                                                                        catfish
+                                                                                                                        jewfish,
+                                                                                                                        Spanish
+                                                                                                                        mackerel
+                                                                                                                        yellow
+                                                                                                                        weaver
+                                                                                                                        sixgill.
+                                                                                                                        Sandperch
+                                                                                                                        flyingfish
+                                                                                                                        yellowfin
+                                                                                                                        cutthroat
+                                                                                                                        trout
+                                                                                                                        grouper
+                                                                                                                        whitebait
+                                                                                                                        horsefish
+                                                                                                                        bullhead
+                                                                                                                        shark
+                                                                                                                        California
+                                                                                                                        smoothtongue,
+                                                                                                                        striped
+                                                                                                                        burrfish
+                                                                                                                        threadtail
+                                                                                                                        saber-toothed
+                                                                                                                        blenny
+                                                                                                                        Red
+                                                                                                                        California
+                                                                                                                        smoothtongue,
+                                                                                                                        striped
+                                                                                                                        burrfish
+                                                                                                                        threadtail
+                                                                                                                        saber-toothed
+                                                                                                                        blenny
+                                                                                                                        Red
+                                                                                                                    </p>
+                                                                                                                </div>
+                                                                                                                <div
+                                                                                                                    class="author-info">
+                                                                                                                    <div
+                                                                                                                        class="author-name">
+                                                                                                                        Andy
+                                                                                                                        Collins
+                                                                                                                    </div>
+                                                                                                                    , 
+                                                                                                                    <div
+                                                                                                                        class="author-position">
+                                                                                                                        Agrarium
+                                                                                                                        LLC
+                                                                                                                    </div>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                        <div
+                                                                                                            class="testimonial-item slider-item">
+                                                                                                            <div
+                                                                                                                class="author-container">
+                                                                                                                <div
+                                                                                                                    class="testimonial-photo">
+                                                                                                                    <img decoding="async"
+                                                                                                                        src="images/10-891.jpg"
+                                                                                                                        alt="" />
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                            <div
+                                                                                                                class="testimonial-wrapper">
+                                                                                                                <div
+                                                                                                                    class="testimonial">
+                                                                                                                    <p>
+                                                                                                                        Ballan
+                                                                                                                        wrasse
+                                                                                                                        climbing
+                                                                                                                        gourami
+                                                                                                                        amur
+                                                                                                                        pike
+                                                                                                                        Arctic
+                                                                                                                        char,
+                                                                                                                        steelhead
+                                                                                                                        sprat
+                                                                                                                        sea
+                                                                                                                        lamprey
+                                                                                                                        grunion."
+                                                                                                                        Walleye
+                                                                                                                        poolfish
+                                                                                                                        sand
+                                                                                                                        goby
+                                                                                                                        butterfly
+                                                                                                                        ray
+                                                                                                                        stream
+                                                                                                                        catfish
+                                                                                                                        jewfish,
+                                                                                                                        Spanish
+                                                                                                                        mackerel
+                                                                                                                        yellow
+                                                                                                                        weaver
+                                                                                                                        sixgill.
+                                                                                                                        Sandperch
+                                                                                                                        flyingfish
+                                                                                                                        yellowfin
+                                                                                                                        cutthroat
+                                                                                                                        trout
+                                                                                                                        grouper
+                                                                                                                        whitebait
+                                                                                                                        horsefish
+                                                                                                                        bullhead
+                                                                                                                        shark
+                                                                                                                        California
+                                                                                                                        smoothtongue,
+                                                                                                                        striped
+                                                                                                                        burrfish
+                                                                                                                        threadtail
+                                                                                                                        saber-toothed
+                                                                                                                        blenny
+                                                                                                                        Red
+                                                                                                                        California
+                                                                                                                        smoothtongue,
+                                                                                                                        striped
+                                                                                                                        burrfish
+                                                                                                                        threadtail
+                                                                                                                        saber-toothed
+                                                                                                                        blenny
+                                                                                                                        Red
+                                                                                                                    </p>
+                                                                                                                </div>
+                                                                                                                <div
+                                                                                                                    class="author-info">
+                                                                                                                    <div
+                                                                                                                        class="author-name">
+                                                                                                                        Andy
+                                                                                                                        Collins
+                                                                                                                    </div>
+                                                                                                                    , 
+                                                                                                                    <div
+                                                                                                                        class="author-position">
+                                                                                                                        Agrarium
+                                                                                                                        LLC
+                                                                                                                    </div>
+                                                                                                                </div>
+                                                                                                            </div>
+                                                                                                        </div>
+                                                                                                    </div>
+                                                                                                </div>
+                                                                                                <div
+                                                                                                    class="owl-dots owl-dots-2e10f60">
+                                                                                                </div>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </section>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section>  -->
+                                <!-- <section style="padding-top: 4%; padding-bottom:4%" lass="elementor-section elementor-top-section elementor-element elementor-element-477720b8 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                    data-id="477720b8" data-element_type="section">
+                                    <div class="elementor-container elementor-column-gap-default">
+                                        <div class="elementor-row">
+                                            <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8a7238f"
+                                                data-id="8a7238f" data-element_type="column">
+                                                <div class="elementor-column-wrap elementor-element-populated">
+                                                    <div class="elementor-widget-wrap">
+                                                        <div style="padding-left: 6%;padding-bottom: 6%;padding-top: 6%;" class="elementor-element elementor-element-1bfbc6fb elementor-widget elementor-widget-agrarium_heading"
+                                                            data-id="1bfbc6fb" data-element_type="widget"
+                                                            data-widget_type="agrarium_heading.default">
+                                                            <div class="elementor-widget-container">
+                                                                <div class="agrarium-heading-widget">
+                                                                    <h2 class="agrarium-heading">
+                                                                        <span class="agrarium-subheading">Partners &amp;
+                                                                            Clients</span><span
+                                                                            class="agrarium-heading-content">People Who
+                                                                            Trust us</span>
+                                                                    </h2>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <section
+                                                            class="elementor-section elementor-inner-section elementor-element elementor-element-13b9cbb elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+                                                            data-id="13b9cbb" data-element_type="section"
+                                                            data-settings='{"background_background":"classic"}'>
+                                                            <div
+                                                                class="elementor-container elementor-column-gap-default">
+                                                                <div class="elementor-row">
+                                                                    <div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-3ff9f48a"
+                                                                        data-id="3ff9f48a" data-element_type="column">
+                                                                        <div
+                                                                            class="elementor-column-wrap elementor-element-populated">
+                                                                            <div class="elementor-widget-wrap">
+                                                                                <div class="elementor-element elementor-element-17095ff5 scroll-motion-no elementor-widget elementor-widget-image"
+                                                                                    data-id="17095ff5"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="image.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div class="elementor-image">
+                                                                                            <img decoding="async"
+                                                                                                loading="lazy"
+                                                                                                width="88" height="86"
+                                                                                                src="images/08-Vector-Smart-Object.png"
+                                                                                                class="attachment-full size-full wp-image-2530"
+                                                                                                alt="" />
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-b110af3"
+                                                                        data-id="b110af3" data-element_type="column">
+                                                                        <div
+                                                                            class="elementor-column-wrap elementor-element-populated">
+                                                                            <div class="elementor-widget-wrap">
+                                                                                <div class="elementor-element elementor-element-61960ecf scroll-motion-no elementor-widget elementor-widget-image"
+                                                                                    data-id="61960ecf"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="image.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div class="elementor-image">
+                                                                                            <img decoding="async"
+                                                                                                loading="lazy"
+                                                                                                width="129" height="66"
+                                                                                                src="images/06-client-logo-1.png"
+                                                                                                class="attachment-full size-full wp-image-719"
+                                                                                                alt="" />
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-73c3fff6"
+                                                                        data-id="73c3fff6" data-element_type="column">
+                                                                        <div
+                                                                            class="elementor-column-wrap elementor-element-populated">
+                                                                            <div class="elementor-widget-wrap">
+                                                                                <div class="elementor-element elementor-element-74afdc71 scroll-motion-no elementor-widget elementor-widget-image"
+                                                                                    data-id="74afdc71"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="image.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div class="elementor-image">
+                                                                                            <img decoding="async"
+                                                                                                loading="lazy"
+                                                                                                width="105" height="93"
+                                                                                                src="images/06-client-logo-2.png"
+                                                                                                class="attachment-full size-full wp-image-723"
+                                                                                                alt="" />
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-7667df04"
+                                                                        data-id="7667df04" data-element_type="column">
+                                                                        <div
+                                                                            class="elementor-column-wrap elementor-element-populated">
+                                                                            <div class="elementor-widget-wrap">
+                                                                                <div class="elementor-element elementor-element-57a0fb66 scroll-motion-no elementor-widget elementor-widget-image"
+                                                                                    data-id="57a0fb66"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="image.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div class="elementor-image">
+                                                                                            <img decoding="async"
+                                                                                                loading="lazy"
+                                                                                                width="144" height="69"
+                                                                                                src="images/06-client-logo-3.png"
+                                                                                                class="attachment-full size-full wp-image-722"
+                                                                                                alt="" />
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-ab6cdf5"
+                                                                        data-id="ab6cdf5" data-element_type="column">
+                                                                        <div
+                                                                            class="elementor-column-wrap elementor-element-populated">
+                                                                            <div class="elementor-widget-wrap">
+                                                                                <div class="elementor-element elementor-element-31600f2f scroll-motion-no elementor-widget elementor-widget-image"
+                                                                                    data-id="31600f2f"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="image.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div class="elementor-image">
+                                                                                            <img decoding="async"
+                                                                                                loading="lazy"
+                                                                                                width="138" height="49"
+                                                                                                src="images/06-client-logo-4.png"
+                                                                                                class="attachment-full size-full wp-image-721"
+                                                                                                alt="" />
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-1a5b01e2"
+                                                                        data-id="1a5b01e2" data-element_type="column">
+                                                                        <div
+                                                                            class="elementor-column-wrap elementor-element-populated">
+                                                                            <div class="elementor-widget-wrap">
+                                                                                <div class="elementor-element elementor-element-33bf6059 scroll-motion-no elementor-widget elementor-widget-image"
+                                                                                    data-id="33bf6059"
+                                                                                    data-element_type="widget"
+                                                                                    data-widget_type="image.default">
+                                                                                    <div
+                                                                                        class="elementor-widget-container">
+                                                                                        <div class="elementor-image">
+                                                                                            <img decoding="async"
+                                                                                                loading="lazy"
+                                                                                                width="128" height="83"
+                                                                                                src="images/06-client-logo-5.png"
+                                                                                                class="attachment-full size-full wp-image-720"
+                                                                                                alt="" />
+                                                                                        </div>
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </section>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </section> -->
+                                <br>
                             </div>
                         </div>
                     </div>

@@ -53,8 +53,9 @@
                                                             <div class="sc_title sc_title_default">
                                                                 <h2
                                                                     class="sc_item_title sc_title_title sc_item_title_style_default sc_item_title_tag">
-                                                                    <span class="sc_item_title_text">We Help You Choose the Best for Solution
-                                                                        Your Agro Needs !</span></h2>
+                                                                    <span class="sc_item_title_text">
+                                                                    We Help You Choose the Best Solution for Your Agro Needs !
+                                                                    </span></h2>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -90,7 +91,7 @@
                                                         data-widget_type="text-editor.default">
                                                         <div class="elementor-widget-container">
                                                             <div class="elementor-text-editor elementor-clearfix">
-                                                                <p>Zambia &mdash;<br>10445p Great East Road Munali, Lusaka</p>
+                                                                <p>Zambia &mdash;<br>10445P Great East Road, Chainama, Lusaka</p>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -266,14 +267,13 @@
                                                                         <a
                                                                             href="index.php"><span>Home</span></a>
                                                                     </li>
-                                                                    <li id="menu-item-19465"
-                                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19465">
-                                                                        <a
-                                                                            href="services.php"><span>Services</span></a>
-                                                                    </li>
                                                                     <li id="menu-item-19463"
                                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19463">
-                                                                        <a href="about.html"><span>About</span></a></li>
+                                                                        <a href="about.php"><span>About</span></a></li>
+                                                                    <li id="menu-item-19465"
+                                                                        class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19465">
+                                                                        <a href="services.php"><span>Services</span></a>
+                                                                    </li>
                                                                     <li id="menu-item-19466"
                                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19466">
                                                                         <a href="https://market.greenwebbtech.com"><span>Marketplace</span></a></li>
@@ -346,10 +346,8 @@
     </div>
   </div>
 </div> -->
-
-
 <script>
-    // Get the Agronomist link and the modal elements
+// Get the Agronomist link and the modal elements
 const registerNow = document.getElementById('register_now');
 const modal = document.getElementById('myModal');
 const closeModalButton = document.getElementById('closeModal');
