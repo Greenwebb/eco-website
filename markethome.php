@@ -197,7 +197,7 @@
             --wp--preset--color--bd-color: #DDDAD3;
             --wp--preset--color--text-dark: #0A1108;
             --wp--preset--color--text-light: #9D9890;
-            --wp--preset--color--text-link: #F2C200;
+            --wp--preset--color--text-link: #770614;
             --wp--preset--color--text-hover: #DCB000;
             --wp--preset--color--text-link-2: #92BB53;
             --wp--preset--color--text-hover-2: #80AB3E;
@@ -725,7 +725,7 @@
 
         .elementor-18091 .elementor-element.elementor-element-35fdf84f:not(.elementor-motion-effects-element-type-background),
         .elementor-18091 .elementor-element.elementor-element-35fdf84f>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-            background-color: #F2C200;
+            background-color: #770614;
         }
 
         .elementor-18091 .elementor-element.elementor-element-35fdf84f {
@@ -1512,15 +1512,15 @@
 
         #rev_slider_4_1_wrapper .bullets_dots_fill .tp-bullet.rs-touchhover,
         #rev_slider_4_1_wrapper .bullets_dots_fill .tp-bullet.selected {
-            background: #f2c200;
+            background: #770614;
             box-shadow: 0px 0px 0px 5px transparent
         }
     </style>
     <style type="text/css">
         .trx_demo_inline_229443735 {
             color: #ffffff !important;
-            border-color: #f2c200 !important;
-            background-color: #f2c200 !important;
+            border-color: #770614 !important;
+            background-color: #770614 !important;
         }
 
         .trx_demo_inline_1571945291:hover {
@@ -2083,7 +2083,7 @@
                                                                                                                         <rs-layer id="slider-4-slide-7-layer-19" data-type="shape" data-rsp_ch="on" data-xy="xo:50px,37px,19px,11px;yo:160px,120px,64px,39px;" data-text="w:normal;s:20,15,8,4;c:both;l:0,18,9,6;" data-flcr="c:both;" data-dim="w:100%;h:50px,36px,32px,20px;" data-frame_999="o:0;st:w;sR:8700;" style="z-index:6;">
                                                                                                                         </rs-layer>
                                                                                                                         <!--
-										--><a id="slider-4-slide-7-layer-21" class="rs-layer rev-btn" href="marketplace.php" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:54,52,50,50;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-padding="r:40,32,28,28;l:40,32,28,28;" data-frame_0="x:30px;" data-frame_1="st:1250;sp:1000;" data-frame_999="o:0;st:w;sR:6750;" data-frame_hover="rX:0deg;rY:0deg;bgc:#dcb000;boc:#1f242e;bor:0px,0px,0px,0px;bos:solid;bow:0px,0px,0px,0px;e:power1.inOut;" style="z-index:7;background-color:#f2c200;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">Go
+										--><a id="slider-4-slide-7-layer-21" class="rs-layer rev-btn" href="marketplace.php" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:54,52,50,50;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-padding="r:40,32,28,28;l:40,32,28,28;" data-frame_0="x:30px;" data-frame_1="st:1250;sp:1000;" data-frame_999="o:0;st:w;sR:6750;" data-frame_hover="rX:0deg;rY:0deg;bgc:#dcb000;boc:#1f242e;bor:0px,0px,0px,0px;bos:solid;bow:0px,0px,0px,0px;e:power1.inOut;" style="z-index:7;background-color:#770614;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">Go
                                                                                                                             to
                                                                                                                             the
                                                                                                                             Shop
@@ -2138,7 +2138,7 @@
                                                                                                                         <rs-layer id="slider-4-slide-8-layer-19" data-type="shape" data-rsp_ch="on" data-xy="xo:50px,37px,19px,11px;yo:160px,120px,64px,39px;" data-text="w:normal;s:20,15,8,4;c:both;l:0,18,9,6;" data-flcr="c:both;" data-dim="w:100%;h:44px,30px,26px,20px;" data-frame_999="o:0;st:w;sR:8700;" style="z-index:6;">
                                                                                                                         </rs-layer>
                                                                                                                         <!--
-										--><a id="slider-4-slide-8-layer-21" class="rs-layer rev-btn" href="marketplace.php" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:54,52,50,50;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-margin="r:10,8,6,6;" data-padding="r:40,32,28,28;l:40,32,28,28;" data-frame_0="x:30px;" data-frame_1="st:1250;sp:1000;sR:1250;" data-frame_999="o:0;st:w;sR:6750;" data-frame_hover="rX:0deg;rY:0deg;bgc:#dcb000;boc:#1f242e;bor:0px,0px,0px,0px;bos:solid;bow:0px,0px,0px,0px;e:power1.inOut;" style="z-index:7;background-color:#f2c200;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">Go
+										--><a id="slider-4-slide-8-layer-21" class="rs-layer rev-btn" href="marketplace.php" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:54,52,50,50;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-margin="r:10,8,6,6;" data-padding="r:40,32,28,28;l:40,32,28,28;" data-frame_0="x:30px;" data-frame_1="st:1250;sp:1000;sR:1250;" data-frame_999="o:0;st:w;sR:6750;" data-frame_hover="rX:0deg;rY:0deg;bgc:#dcb000;boc:#1f242e;bor:0px,0px,0px,0px;bos:solid;bow:0px,0px,0px,0px;e:power1.inOut;" style="z-index:7;background-color:#770614;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">Go
                                                                                                                             to
                                                                                                                             the
                                                                                                                             Shop
@@ -3339,7 +3339,7 @@
             "user_logged_in": "",
             "theme_slug": "agricola",
             "theme_bg_color": "#FFFFFF",
-            "theme_accent_color": "#F2C200",
+            "theme_accent_color": "#770614",
             "page_wrap_class": ".page_wrap",
             "columns_wrap_class": "trx_addons_columns_wrap",
             "columns_in_single_row_class": "columns_in_single_row",
@@ -3563,7 +3563,7 @@
             "msg_i_agree_error": "Please accept the terms of our Privacy Policy.",
             "toggle_title": "Filter by ",
             "msg_copied": "Copied!",
-            "alter_link_color": "#F2C200",
+            "alter_link_color": "#770614",
             "mc4wp_msg_email_min": "Email address is too short (or empty)",
             "mc4wp_msg_email_max": "Too long email address",
             "button_hover": "default"

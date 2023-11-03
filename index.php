@@ -1970,7 +1970,7 @@
 
         #rev_slider_4_1_wrapper .bullets_dots_fill .tp-bullet.rs-touchhover,
         #rev_slider_4_1_wrapper .bullets_dots_fill .tp-bullet.selected {
-            background: #f2c200;
+            background: #770614;
             box-shadow: 0px 0px 0px 5px transparent
         }
     </style>
@@ -2484,25 +2484,25 @@
         .trx_addons_inline_1726964019 img.logo_image {
             max-height: 53px;
         }
-        .darken-image:after {
-            content: '';
-            background: transparent url('http://watchmaker.haz.wiki/_media/tips:stripes.png') repeat top left;
-            /*background: transparent url('http://erinsowards.com/articles/2012/07/graphics/bkg_patterns_08.gif') repeat top left;*/
-        }
-        .darken-image {
+        
+    </style>
+    <style>
+        .darken-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
             width: 100%;
             height: 100%;
-            position: absolute;
-            top: 0px;
-            left: 0px;
-            color: transparent;
-            background-size: cover;
-            background-position: 50% 50%;
-            background-repeat: none;
-            opacity: 0;
+            background-color: rgba(0, 0, 0, 0.1); /* Adjust the alpha value (0.5) for the level of transparency */
+            z-index: 1;
+        }
+        .rs-slide {
+            position: relative;
+        }
+        .rs-slide img {
+            position: relative;
             z-index: 0;
-            animation: imageAnimation 18s linear infinite 0s;
-}
+        }
     </style>
 </head>
 
@@ -2557,11 +2557,11 @@
                                                                                             <rs-module-wrap id="rev_slider_4_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;">
                                                                                                 <rs-module id="rev_slider_4_1" style="" data-version="6.5.31">
                                                                                                     <rs-slides>
-                                                                                                    <rs-slide style="position: relative; overflow: hidden;" data-key="rs-6" data-title="Slide" data-thumb="//agricola.axiomthemes.com/wp-content/uploads/2022/08/slider-4-slide-1-copyright-146x102.jpg" data-anim="adpr:false;ms:1000ms;" data-in="o:0;" data-out="a:false;">
-                                                                                                            <div style="position: relative;">
-                                                                                                                <img decoding="async" src="images/site/10.jpeg" alt="" title="slider-4-slide-1-copyright" width="1920" height="980" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="images/site/10.jpeg" data-parallax="off" data-panzoom="d:10000;ss:100;se:110%;">
-                                                                                                                <div style="top: 0; left: 0; width: 100%; height: 100%; background: #000"></div>
-                                                                                                            </div>
+
+                                                                                                        <rs-slide style="position: relative; overflow: hidden;" data-key="rs-6" data-title="Slide" data-thumb="//agricola.axiomthemes.com/wp-content/uploads/2022/08/slider-4-slide-1-copyright-146x102.jpg" data-anim="adpr:false;ms:1000ms;" data-in="o:0;" data-out="a:false;">
+                                                                                                            <div class="darken-overlay"></div>
+                                                                                                            <img decoding="async" src="images/site/10.jpeg" alt="" title="slider-4-slide-1-copyright" width="1920" height="980" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="images/site/10.jpeg" data-parallax="off" data-panzoom="d:10000;ss:100;se:110%;">
+                                                                                                         
                                                                                                             
                                                                                                             <rs-zone id="rrzm_6" class="rev_row_zone_middle" style="z-index: 14;">
                                                                                                                 
@@ -2578,18 +2578,19 @@
                                                                                                                         <rs-layer id="slider-4-slide-6-layer-3" class="sldr-title" data-type="text" data-xy="xo:0,35px,35px,35px;yo:0,281px,281px,281px;" data-text="w:normal;s:78,58,40,28;l:72,58,42,34;fw:500;a:center;" data-rsp_o="off" data-disp="inline-block" data-frame_0="x:50;" data-frame_1="st:740;sp:1000;sR:740;" data-frame_999="o:0;st:w;sR:7260;" style="z-index:5;font-family:'halyard-display';display:inline-block;">
                                                                                                                             Get the help you need
                                                                                                                         </rs-layer>
-                                        <!--                                                                                                                         
+                                                                                                                        <!--                                                                                                                         
                                                                                                                         <rs-layer id="slider-4-slide-6-layer-19" data-type="shape" data-rsp_ch="on" data-xy="xo:50px,37px,19px,11px;yo:160px,120px,64px,39px;" data-text="w:normal;s:20,15,8,4;c:both;l:0,18,9,6;" data-flcr="c:both;" data-dim="w:100%;h:50px,36px,32px,20px;" data-frame_999="o:0;st:w;sR:8700;" style="z-index:6;">
                                                                                                                         </rs-layer> -->
                                                                                                                         <p>Access expert guidance tailored to your needs for proficient problem-solving and progress</p>
                                                                                                                     </rs-column>
                                                                                                                 </rs-row>
                                                                                                             </rs-zone>
-                                                                                                            
                                                                                                         </rs-slide>
+
                                                                                                         <rs-slide style="position: absolute;" data-key="rs-7" data-title="Slide" data-thumb="//agricola.axiomthemes.com/wp-content/uploads/2022/08/slider-4-slide-2-copyright-146x102.jpg" data-anim="adpr:false;ms:1000ms;" data-in="o:0;" data-out="a:false;">
-                                                                                                            <img decoding="async" src="images/site/3.png" alt="Slider Slide" title="slider-4-slide-2-copyright" width="1920" height="980" class="rev-slidebg tp-rs-img rs-lazyload  darken-image" data-lazyload="images/site/3.png" data-parallax="off" data-panzoom="d:10000;ss:100;se:110%;" data-no-retina>
-                                                                                                            
+                                                                                                            <div class="darken-overlay"></div>
+                                                                                                            <img decoding="async" src="images/site/3.png" alt="Slider Slide" title="slider-4-slide-2-copyright" width="1920" height="980" class="rev-slidebg tp-rs-img rs-lazyload darken-image" data-lazyload="images/site/3.png" data-parallax="off" data-panzoom="d:10000;ss:100;se:110%;" data-no-retina>
+    
                                                                                                             <rs-zone id="rrzm_7" class="rev_row_zone_middle" style="z-index: 14;">
                                                                                                                 
                                                                                                                 <rs-row id="slider-4-slide-7-layer-13" data-type="row" data-xy="xo:50px;yo:50px;" data-cbreak="nobreak" data-basealign="slide" data-rsp_bd="off" data-frame_0="o:1;" data-frame_999="o:0;st:w;sR:8700;sA:9000;" style="z-index:1;">
@@ -2609,14 +2610,15 @@
                                                                                                                         
                                                                                                                         <rs-layer id="slider-4-slide-7-layer-19" data-type="shape" data-rsp_ch="on" data-xy="xo:50px,37px,19px,11px;yo:160px,120px,64px,39px;" data-text="w:normal;s:20,15,8,4;c:both;l:0,18,9,6;" data-flcr="c:both;" data-dim="w:100%;h:50px,36px,32px,20px;" data-frame_999="o:0;st:w;sR:8700;" style="z-index:6;">
                                                                                                                         </rs-layer>
-                                                                                                                        <a id="slider-4-slide-7-layer-21" class="rs-layer rev-btn" href="contact.php" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:54,52,50,50;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-padding="r:40,32,28,28;l:40,32,28,28;" data-frame_0="x:30px;" data-frame_1="st:1250;sp:1000;" data-frame_999="o:0;st:w;sR:6750;" data-frame_hover="rX:0deg;rY:0deg;bgc:#dcb000;boc:#1f242e;bor:0px,0px,0px,0px;bos:solid;bow:0px,0px,0px,0px;e:power1.inOut;" style="z-index:7;background-color:#f2c200;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">Go
-                                                                                                                            Contact Us
+                                                                                                                        <a id="slider-4-slide-7-layer-21" class="rs-layer rev-btn" href="contact.php" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:54,52,50,50;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-padding="r:40,32,28,28;l:40,32,28,28;" data-frame_0="x:30px;" data-frame_1="st:1250;sp:1000;" data-frame_999="o:0;st:w;sR:6750;" data-frame_hover="rX:0deg;rY:0deg;bgc:#dcb000;boc:#1f242e;bor:0px,0px,0px,0px;bos:solid;bow:0px,0px,0px,0px;e:power1.inOut;" style="z-index:7;background-color:#770614;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">
+                                                                                                                            Go Contact Us
                                                                                                                         </a>
                                                                                                                     </rs-column>
                                                                                                                 </rs-row>
                                                                                                             </rs-zone>
                                                                                                         </rs-slide>
                                                                                                         <rs-slide style="position: absolute;" data-key="rs-8" data-title="Slide" data-thumb="images/site/6.jpg" data-anim="adpr:false;ms:1000ms;" data-in="o:0;" data-out="a:false;">
+                                                                                                            <div class="darken-overlay"></div>
                                                                                                             <img decoding="async" src="images/site/6.jpg" alt="Slider Slide" title="slider-4-slide-3-copyright" width="1920" height="980" class="rev-slidebg tp-rs-img rs-lazyload darken-image" data-lazyload="images/site/6.jpg" data-parallax="off" data-panzoom="d:10000;ss:100;se:110%;" data-no-retina>
                                                                                                             
                                                                                                             <rs-zone id="rrzm_8" class="rev_row_zone_middle" style="z-index: 14;">
@@ -2631,17 +2633,15 @@
                                                                                                                         <rs-layer id="slider-4-slide-8-layer-0" data-type="shape" data-rsp_ch="on" data-xy="xo:50px,37px,19px,11px;yo:160px,120px,64px,39px;" data-text="w:normal;s:20,15,8,4;c:both;l:0,18,9,6;" data-flcr="c:both;" data-dim="w:100%;h:22px,16px,8px,0px;" data-frame_999="o:0;st:w;sR:8700;" style="z-index:4;">
                                                                                                                         </rs-layer>
                                                                                                                         <rs-layer id="slider-4-slide-8-layer-24" class="sldr-title" data-type="text" data-xy="xo:0,35px,35px,35px;yo:0,281px,281px,281px;" data-text="w:normal;s:92,72,54,38;l:92,76,64,46;fw:500;a:center;" data-rsp_o="off" data-disp="inline-block" data-frame_0="x:50;" data-frame_1="st:740;sp:1000;sR:740;" data-frame_999="o:0;st:w;sR:7260;" style="z-index:5;font-family:'halyard-display';display:inline-block;">
-                                                                                                                             Increase your prodctivity 
+                                                                                                                            Increase your prodctivity 
                                                                                                                         </rs-layer>
                                                                                                                         <rs-layer id="slider-4-slide-8-layer-19" data-type="shape" data-rsp_ch="on" data-xy="xo:50px,37px,19px,11px;yo:160px,120px,64px,39px;" data-text="w:normal;s:20,15,8,4;c:both;l:0,18,9,6;" data-flcr="c:both;" data-dim="w:100%;h:44px,30px,26px,20px;" data-frame_999="o:0;st:w;sR:8700;" style="z-index:6;">
                                                                                                                         </rs-layer>
-                                                                                                                        <a id="slider-4-slide-8-layer-21" class="rs-layer rev-btn" href="https://market.ecoagrozm.com/shop-products" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:54,52,50,50;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-margin="r:10,8,6,6;" data-padding="r:40,32,28,28;l:40,32,28,28;" data-frame_0="x:30px;" data-frame_1="st:1250;sp:1000;sR:1250;" data-frame_999="o:0;st:w;sR:6750;" data-frame_hover="rX:0deg;rY:0deg;bgc:#dcb000;boc:#1f242e;bor:0px,0px,0px,0px;bos:solid;bow:0px,0px,0px,0px;e:power1.inOut;" style="z-index:7;background-color:#f2c200;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">Go
-                                                                                                                            to
-                                                                                                                            the
-                                                                                                                            Shop
+                                                                                                                        <a id="slider-4-slide-8-layer-21" class="rs-layer rev-btn" href="https://market.ecoagrozm.com/shop-products" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:54,52,50,50;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-margin="r:10,8,6,6;" data-padding="r:40,32,28,28;l:40,32,28,28;" data-frame_0="x:30px;" data-frame_1="st:1250;sp:1000;sR:1250;" data-frame_999="o:0;st:w;sR:6750;" data-frame_hover="rX:0deg;rY:0deg;bgc:#dcb000;boc:#1f242e;bor:0px,0px,0px,0px;bos:solid;bow:0px,0px,0px,0px;e:power1.inOut;" style="z-index:7;background-color:#770614;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">
+                                                                                                                            Goto the Shop
                                                                                                                         </a>
-                                                                                                                        <a id="slider-4-slide-8-layer-2" class="rs-layer rev-btn" href="contact.php" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:50,48,46,46;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-padding="r:38,30,26,26;l:38,30,26,26;" data-border="bos:solid;boc:#ffffff;bow:2px,2px,2px,2px;" data-frame_0="x:30px;" data-frame_1="st:1350;sp:1000;sR:1350;" data-frame_999="o:0;st:w;sR:6650;" data-frame_hover="rX:0deg;rY:0deg;bgc:#92bb53;boc:#92bb53;bor:0px,0px,0px,0px;bos:solid;bow:2px,2px,2px,2px;e:power1.inOut;" style="z-index:8;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">Contact
-                                                                                                                            Info
+                                                                                                                        <a id="slider-4-slide-8-layer-2" class="rs-layer rev-btn" href="contact.php" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:50,48,46,46;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-padding="r:38,30,26,26;l:38,30,26,26;" data-border="bos:solid;boc:#ffffff;bow:2px,2px,2px,2px;" data-frame_0="x:30px;" data-frame_1="st:1350;sp:1000;sR:1350;" data-frame_999="o:0;st:w;sR:6650;" data-frame_hover="rX:0deg;rY:0deg;bgc:#92bb53;boc:#92bb53;bor:0px,0px,0px,0px;bos:solid;bow:2px,2px,2px,2px;e:power1.inOut;" style="z-index:8;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">
+                                                                                                                            Contact Info
                                                                                                                         </a>
                                                                                                                     </rs-column>
                                                                                                                 </rs-row>
@@ -4805,7 +4805,7 @@
             "user_logged_in": "",
             "theme_slug": "agricola",
             "theme_bg_color": "#FFFFFF",
-            "theme_accent_color": "#F2C200",
+            "theme_accent_color": "#770614",
             "page_wrap_class": ".page_wrap",
             "columns_wrap_class": "trx_addons_columns_wrap",
             "columns_in_single_row_class": "columns_in_single_row",
@@ -5029,7 +5029,7 @@
             "msg_i_agree_error": "Please accept the terms of our Privacy Policy.",
             "toggle_title": "Filter by ",
             "msg_copied": "Copied!",
-            "alter_link_color": "#F2C200",
+            "alter_link_color": "#770614",
             "mc4wp_msg_email_min": "Email address is too short (or empty)",
             "mc4wp_msg_email_max": "Too long email address",
             "button_hover": "default"
