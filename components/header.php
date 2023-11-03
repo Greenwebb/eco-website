@@ -1,4 +1,10 @@
 
+<?php
+    $user = $_GET['user'];
+    // if(isset($_GET['user'])){
+    //     $userData = json_encode($user);
+    // }
+?>
 <style>
     /* Style for the dropdown content */
 #dropdown-content {
@@ -30,7 +36,7 @@
                                     <div class="elementor-widget-wrap">
                                         <div class="sc_layouts_item elementor-element elementor-element-f112344 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="f112344" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
                                         <div class="elementor-widget-container">
-                                            <a href="https://website.greenwebbtech.com" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1675068927">
+                                            <a href="#../../jdjd#" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1675068927">
                                                 <img style="width: 150px; height: 160px" class="logo_image" src="images/logo.png" srcset="images/logo.png 2x" alt="Ecoagro" width="200" height="83">
                                             </a>
                                         </div>
@@ -40,23 +46,43 @@
                                                 <nav class="sc_layouts_menu sc_layouts_menu_default sc_layouts_menu_dir_horizontal menu_hover_zoom_line" data-animation-in="fadeInUpSmall" data-animation-out="fadeOutDownSmall">
                                                     <ul id="menu_main" class="sc_layouts_menu_nav menu_main_nav">
                                                         <li id="menu-item-18273" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-18273">
-                                                            <a href="https://website.greenwebbtech.com"><span>Home</span></a>
+                                                            <a href="https://website.ecoagrozm.com"><span>Home</span></a>
 
                                                         </li>
                                                         <li id="menu-item-18295" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18295">
-                                                            <a href="about.php"><span>About</span></a>
+                                                            <?php 
+                                                                if(isset($_GET['user'])){
+                                                            ?>   
+                                                                <a href="about.php?user=<?= urlencode($user) ?>"><span>About</span></a>
+                                                            <?php 
+                                                                }else{
+                                                            ?>   
+                                                                <a href="about.php"><span>About</span></a>
+                                                            <?php   
+                                                                }
+                                                            ?>
                                                         </li>
                                                         <li id="menu-item-17651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17651">
-                                                            <a href="services.php"><span>Services</span></a>
+                                                            <?php 
+                                                                if(isset($_GET['user'])){
+                                                            ?>   
+                                                                <a href="services.php?user=<?= urlencode($user) ?>"><span>Services</span></a>
+                                                            <?php 
+                                                                }else{
+                                                            ?>   
+                                                                <a href="services.php"><span>Services</span></a>
+                                                            <?php   
+                                                                }
+                                                            ?>
                                                             <ul class="sub-menu">
                                                                 <li id="menu-item-18280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18280">
-                                                                    <a href="https://callcenter.greenwebbtech.com"><span>Call Center</span></a>
+                                                                    <a href="https://callcenter.ecoagrozm.com"><span>Call Center</span></a>
                                                                 </li>
                                                                 <li id="menu-item-18286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18286">
-                                                                    <a href="https://callcenter.greenwebbtech.com"><span>Online Advisory Services</span></a>
+                                                                    <a href="https://callcenter.ecoagrozm.com"><span>Online Advisory Services</span></a>
                                                                 </li>
                                                                 <li id="menu-item-18288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18288">
-                                                                    <a  href="https://market.greenwebbtech.com"><span>Marketplace</span></a>
+                                                                    <a  href="https://market.ecoagrozm.com"><span>Marketplace</span></a>
                                                                 </li>
                                                                 <!-- <li id="menu-item-18287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18287">
                                                                     <a href="#"><span>Ecopay Payment Gateway</span></a>
@@ -65,11 +91,31 @@
                                                             </ul>
                                                         </li>
                                                         <li id="menu-item-18300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18300">
-                                                            <a href="https://market.greenwebbtech.com"><span>Marketplace</span></a>
-
+                                                            <!-- <a href="https://market.ecoagrozm.com"><span>Marketplace</span></a> -->
+                                                            <?php 
+                                                                if(isset($_GET['user'])){
+                                                            ?>   
+                                                                <a href="http://localhost/eco-market/login?user=<?= urlencode($user) ?>"><span>Marketplace</span></a>
+                                                            <?php 
+                                                                }else{
+                                                            ?>   
+                                                                <a href="http://localhost/eco-market"><span>Marketplace</span></a>
+                                                            <?php   
+                                                                }
+                                                            ?>
                                                         </li>
                                                         <li id="menu-item-17194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17194">
-                                                            <a href="contact.php"><span>Contact</span></a>
+                                                            <?php 
+                                                                if(isset($_GET['user'])){
+                                                            ?>   
+                                                                <a href="contact.php?user=<?= urlencode($user) ?>"><span>Contact</span></a>
+                                                            <?php 
+                                                                }else{
+                                                            ?>   
+                                                                <a href="contact.php"><span>Contact</span></a>
+                                                            <?php   
+                                                                }
+                                                            ?>
                                                         </li>
                                                         <!-- <li id="menu-item-17194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17194">
                                                             <a href="tel:+260773505560" style="color: #CF4A2A; font-weight:bold; font-size: 21px;"><span>+260 773 505 560</span></a>
@@ -142,13 +188,13 @@
                                                         </a>
                                                         <div id="dropdown-content" style="display: none; text-align:left; padding:3%; border-top:1px solid #2B6A3B">
                                                             <p>
-                                                                <a class="" style="display: flex; gap: 4px; " href="https://auth.greenwebbtech.com/register?source=website&destination=website&type=farmer">
+                                                                <a class="" style="display: flex; gap: 4px; " href="https://auth.ecoagrozm.com/register?source=website&destination=website&type=farmer">
                                                                     <span><img width="20" src="images/site/farmer.png"></span>  
                                                                     <span style="margin-top:8%">Farmer</span>
                                                                 </a>
                                                             </p>
                                                             <p>
-                                                                <a class="" style="display: flex; gap: 4px; " href="https://auth.greenwebbtech.com/register?source=website&destination=website&type=agronomist">
+                                                                <a class="" style="display: flex; gap: 4px; " href="https://auth.ecoagrozm.com/register?source=website&destination=website&type=agronomist">
                                                                     <span><img width="20" src="images/site/agronomist.png"></span>  
                                                                     <span style="margin-top:8%">Agronomist</span>
                                                                 </a>
@@ -163,7 +209,7 @@
                                                                 </span>
                                                             </span>
                                                         </a>
-                                                        <a id="showLoginLink" href="https://auth.greenwebbtech.com/login?source=website&destination=website" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                        <a id="showLoginLink" href="https://auth.ecoagrozm.com/login?source=website&destination=website" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                                                             <span class="sc_button_text">
                                                                 <span class="sc_button_title">
                                                                     Login
@@ -258,7 +304,7 @@
                                         <div class="sc_layouts_item elementor-element elementor-element-feaea9d sc_layouts_hide_on_mobile sc_fly_static elementor-widget elementor-widget-trx_sc_button" data-id="feaea9d" data-element_type="widget" data-widget_type="trx_sc_button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="sc_item_button sc_button_wrap">
-                                                    <a href="https://auth.greenwebbtech.com/register?source=website&destination=website&type=farmer" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button hide_on_mobile sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                    <a href="https://auth.ecoagrozm.com/register?source=website&destination=website&type=farmer" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button hide_on_mobile sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                                                         <span class="sc_button_text">
                                                             <span class="sc_button_title">Farmer</span>
                                                         </span>
@@ -270,7 +316,7 @@
                                         <div class="sc_layouts_item elementor-element elementor-element-feaea9d sc_layouts_hide_on_mobile sc_fly_static elementor-widget elementor-widget-trx_sc_button" data-id="feaea9d" data-element_type="widget" data-widget_type="trx_sc_button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="sc_item_button sc_button_wrap">
-                                                    <a href="https://auth.greenwebbtech.com/register?source=website&destination=website&type=agronomist" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button hide_on_mobile sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                    <a href="https://auth.ecoagrozm.com/register?source=website&destination=website&type=agronomist" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button hide_on_mobile sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                                                         <span class="sc_button_text">
                                                             <span class="sc_button_title">Agronomist</span>
                                                         </span>
@@ -312,13 +358,13 @@
                             <a href="services.php"><span>Services</span></a>
                             <ul class="sub-menu">
                                 <li id="menu_mobile-item-18280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18280">
-                                    <a href="https://callcenter.greenwebbtech.com"><span>Call Center</span></a>
+                                    <a href="https://callcenter.ecoagrozm.com"><span>Call Center</span></a>
                                 </li>
                                 <li id="menu_mobile-item-18286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18286">
-                                    <a href="https://callcenter.greenwebbtech.com"><span>Online Advisory Services</span></a>
+                                    <a href="https://callcenter.ecoagrozm.com"><span>Online Advisory Services</span></a>
                                 </li>
                                 <li id="menu_mobile-item-18288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18288">
-                                    <a href="https://market.greenwebbtech.com"><span>Marketplace</span></a>
+                                    <a href="https://market.ecoagrozm.com"><span>Marketplace</span></a>
                                 </li>
                                 <!-- <li id="menu_mobile-item-18287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18287">
                                     <a href="#under-construction"><span>Ecopay Payment Gateway</span></a>
@@ -331,7 +377,7 @@
 
                         </li>
                         <li id="menu_mobile-item-18300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18300">
-                            <a href="https://market.greenwebbtech.com"><span>Marketplace</span></a>
+                            <a href="https://market.ecoagrozm.com"><span>Marketplace</span></a>
 
                         </li>
                         <li id="menu_mobile-item-17194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17194">
@@ -343,7 +389,7 @@
                 <div class="sc_layouts_item elementor-element elementor-element-d662b41 sc_fly_static elementor-widget elementor-widget-trx_sc_button" data-id="d662b41" data-element_type="widget" data-widget_type="trx_sc_button.default">
                     <div class="elementor-widget-container">
                         <div class="sc_item_button sc_button_wrap">
-                            <a style="background: #770614;" href="https://auth.greenwebbtech.com/register?source=website&destination=website&type=farmer" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                            <a style="background: #770614;" href="https://auth.ecoagrozm.com/register?source=website&destination=website&type=farmer" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                             <span class="sc_button_text">
                                 <span class="sc_button_title">
                                     Join as Farmer
@@ -357,7 +403,7 @@
                 <div class="sc_layouts_item elementor-element elementor-element-d662b41 sc_fly_static elementor-widget elementor-widget-trx_sc_button" data-id="d662b41" data-element_type="widget" data-widget_type="trx_sc_button.default">
                     <div class="elementor-widget-container">
                         <div class="sc_item_button sc_button_wrap">
-                            <a style="background: #770614;" href="https://auth.greenwebbtech.com/register?source=website&destination=website&type=agronomist" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                            <a style="background: #770614;" href="https://auth.ecoagrozm.com/register?source=website&destination=website&type=agronomist" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                             <span class="sc_button_text">
                                 <span class="sc_button_title">
                                     Join as an Agronomist
@@ -398,7 +444,7 @@
 
                             <div class="extra_item">
                                 <h6>Want to Buy Products?</h6>
-                                <a href="https://market.greenwebbtech.com">Go to Marketplace</a>
+                                <a href="https://market.ecoagrozm.com">Go to Marketplace</a>
                             </div>
                         </div>
                     </aside>

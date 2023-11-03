@@ -25,13 +25,13 @@
                                                             <a href="services.php"><span>Services</span></a>
                                                             <ul class="sub-menu">
                                                                 <li id="menu-item-18280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18280">
-                                                                    <a href="https://callcenter.greenwebbtech.com"><span>The Call Center</span></a>
+                                                                    <a href="https://callcenter.ecoagrozm.com"><span>The Call Center</span></a>
                                                                 </li>
                                                                 <li id="menu-item-18286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18286">
-                                                                    <a href="https://callcenter.greenwebbtech.com"><span>Online Advisory Services</span></a>
+                                                                    <a href="https://callcenter.ecoagrozm.com"><span>Online Advisory Services</span></a>
                                                                 </li>
                                                                 <li id="menu-item-18288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18288">
-                                                                    <a  href="https://market.greenwebbtech.com"><span>The Marketplace</span></a>
+                                                                    <a  href="https://market.ecoagrozm.com"><span>The Marketplace</span></a>
                                                                 </li>
                                                                 <li id="menu-item-18287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18287">
                                                                     <a href="#"><span>Ecopay Payment Gateway</span></a>
@@ -44,7 +44,7 @@
 
                                                         </li>
                                                         <li id="menu-item-18300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18300">
-                                                            <a href="https://market.greenwebbtech.com"><span>Marketplace</span></a>
+                                                            <a href="https://market.ecoagrozm.com"><span>Marketplace</span></a>
 
                                                         </li>
                                                         <li id="menu-item-17194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17194">
@@ -121,7 +121,7 @@
                                         <div class="sc_layouts_item elementor-element elementor-element-d662b41 sc_fly_static elementor-widget elementor-widget-trx_sc_button" data-id="d662b41" data-element_type="widget" data-widget_type="trx_sc_button.default">
                                             <div class="elementor-widget-container">
                                                 <div class="sc_item_button sc_button_wrap" style="width: 100%;">
-                                                <!-- http://auth.greenwebbtech.com/register?source=website&destination=website&type=agronomist -->
+                                                <!-- http://auth.ecoagrozm.com/register?source=website&destination=website&type=agronomist -->
                                                     <div class="sc_item_button sc_button_wrap">
                                                         <a id="register_now" title="Register as an Agronomist" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2 registerMyAccount">
                                                             <span class="sc_button_text">
@@ -137,7 +137,7 @@
                                                                 </span>
                                                             </span>
                                                         </a>
-                                                        <a id="showLoginLink" href="https://auth.greenwebbtech.com/login?source=website&destination=website" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                                                        <a id="showLoginLink" href="https://auth.ecoagrozm.com/login?source=website&destination=website" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                                                         <!-- <a id="showLoginLink" href="http://localhost/eco-auth/eco-auth/login?source=website&destination=website" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2"> -->
                                                             <span class="sc_button_text">
                                                                 <span class="sc_button_title">
@@ -287,13 +287,13 @@
                             <a href="services.php"><span>Services</span></a>
                             <ul class="sub-menu">
                                 <li id="menu_mobile-item-18280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18280">
-                                    <a href="https://callcenter.greenwebbtech.com"><span>The Call Center</span></a>
+                                    <a href="https://callcenter.ecoagrozm.com"><span>The Call Center</span></a>
                                 </li>
                                 <li id="menu_mobile-item-18286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18286">
-                                    <a href="https://callcenter.greenwebbtech.com"><span>Online Advisory Services</span></a>
+                                    <a href="https://callcenter.ecoagrozm.com"><span>Online Advisory Services</span></a>
                                 </li>
                                 <li id="menu_mobile-item-18288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18288">
-                                    <a href="https://market.greenwebbtech.com"><span>The Marketplace</span></a>
+                                    <a href="https://market.ecoagrozm.com"><span>The Marketplace</span></a>
                                 </li>
                                 <li id="menu_mobile-item-18287" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18287">
                                     <a href="#under-construction"><span>Ecopay Payment Gateway</span></a>
@@ -306,7 +306,7 @@
 
                         </li>
                         <li id="menu_mobile-item-18300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-18300">
-                            <a href="https://market.greenwebbtech.com"><span>Marketplace</span></a>
+                            <a href="https://market.ecoagrozm.com"><span>Marketplace</span></a>
 
                         </li>
                         <li id="menu_mobile-item-17194" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17194">
@@ -318,7 +318,7 @@
                 <div class="sc_layouts_item elementor-element elementor-element-d662b41 sc_fly_static elementor-widget elementor-widget-trx_sc_button" data-id="d662b41" data-element_type="widget" data-widget_type="trx_sc_button.default">
                     <div class="elementor-widget-container">
                         <div class="sc_item_button sc_button_wrap">
-                            <a style="background: #770614;" href="https://auth.greenwebbtech.com/register?source=website&destination=website&type=farmer" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                            <a style="background: #770614;" href="https://auth.ecoagrozm.com/register?source=website&destination=website&type=farmer" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                             <span class="sc_button_text">
                                 <span class="sc_button_title">
                                     Join as Farmer
@@ -332,7 +332,7 @@
                 <div class="sc_layouts_item elementor-element elementor-element-d662b41 sc_fly_static elementor-widget elementor-widget-trx_sc_button" data-id="d662b41" data-element_type="widget" data-widget_type="trx_sc_button.default">
                     <div class="elementor-widget-container">
                         <div class="sc_item_button sc_button_wrap">
-                            <a style="background: #770614;" href="https://auth.greenwebbtech.com/register?source=website&destination=website&type=agronomist" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+                            <a style="background: #770614;" href="https://auth.ecoagrozm.com/register?source=website&destination=website&type=agronomist" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                             <span class="sc_button_text">
                                 <span class="sc_button_title">
                                     Join as an Agronomist
@@ -373,7 +373,7 @@
 
                             <div class="extra_item">
                                 <h6>Want to Buy Products?</h6>
-                                <a href="https://market.greenwebbtech.com">Go to Marketplace</a>
+                                <a href="https://market.ecoagrozm.com">Go to Marketplace</a>
                             </div>
                         </div>
                     </aside>

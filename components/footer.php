@@ -276,7 +276,7 @@
                                                                     </li>
                                                                     <li id="menu-item-19466"
                                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19466">
-                                                                        <a href="https://market.greenwebbtech.com"><span>Marketplace</span></a></li>
+                                                                        <a href="https://market.ecoagrozm.com"><span>Marketplace</span></a></li>
                                                                     <li id="menu-item-19464"
                                                                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19464">
                                                                         <a
@@ -324,7 +324,7 @@
         <div class="item1">
             <h4>Register as an Agronomist</h4>
             <img src="images/1.jpg" width="45%">
-            <a href="https://auth.greenwebbtech.com/register?source=website&destination=website&type=agronomist" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+            <a href="https://auth.ecoagrozm.com/register?source=website&destination=website&type=agronomist" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                 <span class="sc_button_text">
                     <span class="sc_button_title">
                     Agronomist
@@ -335,7 +335,7 @@
         <div class="item2">
             <h4>Register as Farmer</h4>
             <img src="images/5.jpg" width="50%">
-            <a href="https://auth.greenwebbtech.com/register?source=website&destination=website&type=farmer" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
+            <a href="https://auth.ecoagrozm.com/register?source=website&destination=website&type=farmer" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
             <span class="sc_button_text">
                 <span class="sc_button_title">
                 Farmer

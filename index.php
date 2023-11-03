@@ -2477,13 +2477,32 @@
         }
     </style>
     <style type="text/css" id="trx_addons-inline-styles-inline-css">
-    .trx_addons_inline_1675068927 img.logo_image {
-        max-height: 53px;
-    }
+        .trx_addons_inline_1675068927 img.logo_image {
+            max-height: 53px;
+        }
 
-    .trx_addons_inline_1726964019 img.logo_image {
-        max-height: 53px;
-    }
+        .trx_addons_inline_1726964019 img.logo_image {
+            max-height: 53px;
+        }
+        .darken-image:after {
+            content: '';
+            background: transparent url('http://watchmaker.haz.wiki/_media/tips:stripes.png') repeat top left;
+            /*background: transparent url('http://erinsowards.com/articles/2012/07/graphics/bkg_patterns_08.gif') repeat top left;*/
+        }
+        .darken-image {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            color: transparent;
+            background-size: cover;
+            background-position: 50% 50%;
+            background-repeat: none;
+            opacity: 0;
+            z-index: 0;
+            animation: imageAnimation 18s linear infinite 0s;
+}
     </style>
 </head>
 
@@ -2538,8 +2557,12 @@
                                                                                             <rs-module-wrap id="rev_slider_4_1_wrapper" data-source="gallery" style="visibility:hidden;background:transparent;padding:0;">
                                                                                                 <rs-module id="rev_slider_4_1" style="" data-version="6.5.31">
                                                                                                     <rs-slides>
-                                                                                                        <rs-slide style="position: absolute;" data-key="rs-6" data-title="Slide" data-thumb="//agricola.axiomthemes.com/wp-content/uploads/2022/08/slider-4-slide-1-copyright-146x102.jpg" data-anim="adpr:false;ms:1000ms;" data-in="o:0;" data-out="a:false;">
-                                                                                                            <img decoding="async" src="css/plugins/revslider/public/assets/assets/dummy.png" alt="" title="slider-4-slide-1-copyright" width="1920" height="980" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="images/site/10.jpeg" data-parallax="off" data-panzoom="d:10000;ss:100;se:110%;" data-no-retina>
+                                                                                                    <rs-slide style="position: relative; overflow: hidden;" data-key="rs-6" data-title="Slide" data-thumb="//agricola.axiomthemes.com/wp-content/uploads/2022/08/slider-4-slide-1-copyright-146x102.jpg" data-anim="adpr:false;ms:1000ms;" data-in="o:0;" data-out="a:false;">
+                                                                                                            <div style="position: relative;">
+                                                                                                                <img decoding="async" src="images/site/10.jpeg" alt="" title="slider-4-slide-1-copyright" width="1920" height="980" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="images/site/10.jpeg" data-parallax="off" data-panzoom="d:10000;ss:100;se:110%;">
+                                                                                                                <div style="top: 0; left: 0; width: 100%; height: 100%; background: #000"></div>
+                                                                                                            </div>
+                                                                                                            
                                                                                                             <rs-zone id="rrzm_6" class="rev_row_zone_middle" style="z-index: 14;">
                                                                                                                 
                                                                                                                 <rs-row id="slider-4-slide-6-layer-13" data-type="row" data-xy="xo:50px;yo:50px;" data-cbreak="nobreak" data-basealign="slide" data-rsp_bd="off" data-frame_0="o:1;" data-frame_999="o:0;st:w;sR:8700;sA:9000;" style="z-index:1;">
@@ -2555,13 +2578,17 @@
                                                                                                                         <rs-layer id="slider-4-slide-6-layer-3" class="sldr-title" data-type="text" data-xy="xo:0,35px,35px,35px;yo:0,281px,281px,281px;" data-text="w:normal;s:78,58,40,28;l:72,58,42,34;fw:500;a:center;" data-rsp_o="off" data-disp="inline-block" data-frame_0="x:50;" data-frame_1="st:740;sp:1000;sR:740;" data-frame_999="o:0;st:w;sR:7260;" style="z-index:5;font-family:'halyard-display';display:inline-block;">
                                                                                                                             Get the help you need
                                                                                                                         </rs-layer>
+                                        <!--                                                                                                                         
+                                                                                                                        <rs-layer id="slider-4-slide-6-layer-19" data-type="shape" data-rsp_ch="on" data-xy="xo:50px,37px,19px,11px;yo:160px,120px,64px,39px;" data-text="w:normal;s:20,15,8,4;c:both;l:0,18,9,6;" data-flcr="c:both;" data-dim="w:100%;h:50px,36px,32px,20px;" data-frame_999="o:0;st:w;sR:8700;" style="z-index:6;">
+                                                                                                                        </rs-layer> -->
+                                                                                                                        <p>Access expert guidance tailored to your needs for proficient problem-solving and progress</p>
                                                                                                                     </rs-column>
                                                                                                                 </rs-row>
                                                                                                             </rs-zone>
                                                                                                             
                                                                                                         </rs-slide>
                                                                                                         <rs-slide style="position: absolute;" data-key="rs-7" data-title="Slide" data-thumb="//agricola.axiomthemes.com/wp-content/uploads/2022/08/slider-4-slide-2-copyright-146x102.jpg" data-anim="adpr:false;ms:1000ms;" data-in="o:0;" data-out="a:false;">
-                                                                                                            <img decoding="async" src="css/plugins/revslider/public/assets/assets/dummy.png" alt="Slider Slide" title="slider-4-slide-2-copyright" width="1920" height="980" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="images/site/3.png" data-parallax="off" data-panzoom="d:10000;ss:100;se:110%;" data-no-retina>
+                                                                                                            <img decoding="async" src="images/site/3.png" alt="Slider Slide" title="slider-4-slide-2-copyright" width="1920" height="980" class="rev-slidebg tp-rs-img rs-lazyload  darken-image" data-lazyload="images/site/3.png" data-parallax="off" data-panzoom="d:10000;ss:100;se:110%;" data-no-retina>
                                                                                                             
                                                                                                             <rs-zone id="rrzm_7" class="rev_row_zone_middle" style="z-index: 14;">
                                                                                                                 
@@ -2577,8 +2604,7 @@
                                                                                                                         </rs-layer>
                                                                                                                         
                                                                                                                         <rs-layer id="slider-4-slide-7-layer-24" class="sldr-title" data-type="text" data-xy="xo:0,35px,35px,35px;yo:0,281px,281px,281px;" data-text="w:normal;s:78,58,40,28;l:72,58,42,34;fw:500;a:center;" data-rsp_o="off" data-disp="inline-block" data-frame_0="x:50;" data-frame_1="st:740;sp:1000;sR:740;" data-frame_999="o:0;st:w;sR:7260;" style="z-index:5;font-family:'halyard-display';display:inline-block;">
-                                                                                                                        Professional help is <br />on call
-                                                                                                                        
+                                                                                                                            Professional help is <br />on call
                                                                                                                         </rs-layer>
                                                                                                                         
                                                                                                                         <rs-layer id="slider-4-slide-7-layer-19" data-type="shape" data-rsp_ch="on" data-xy="xo:50px,37px,19px,11px;yo:160px,120px,64px,39px;" data-text="w:normal;s:20,15,8,4;c:both;l:0,18,9,6;" data-flcr="c:both;" data-dim="w:100%;h:50px,36px,32px,20px;" data-frame_999="o:0;st:w;sR:8700;" style="z-index:6;">
@@ -2591,7 +2617,7 @@
                                                                                                             </rs-zone>
                                                                                                         </rs-slide>
                                                                                                         <rs-slide style="position: absolute;" data-key="rs-8" data-title="Slide" data-thumb="images/site/6.jpg" data-anim="adpr:false;ms:1000ms;" data-in="o:0;" data-out="a:false;">
-                                                                                                            <img decoding="async" src="images/site/6.jpg" alt="Slider Slide" title="slider-4-slide-3-copyright" width="1920" height="980" class="rev-slidebg tp-rs-img rs-lazyload" data-lazyload="images/site/6.jpg" data-parallax="off" data-panzoom="d:10000;ss:100;se:110%;" data-no-retina>
+                                                                                                            <img decoding="async" src="images/site/6.jpg" alt="Slider Slide" title="slider-4-slide-3-copyright" width="1920" height="980" class="rev-slidebg tp-rs-img rs-lazyload darken-image" data-lazyload="images/site/6.jpg" data-parallax="off" data-panzoom="d:10000;ss:100;se:110%;" data-no-retina>
                                                                                                             
                                                                                                             <rs-zone id="rrzm_8" class="rev_row_zone_middle" style="z-index: 14;">
                                                                                                             
@@ -2609,7 +2635,7 @@
                                                                                                                         </rs-layer>
                                                                                                                         <rs-layer id="slider-4-slide-8-layer-19" data-type="shape" data-rsp_ch="on" data-xy="xo:50px,37px,19px,11px;yo:160px,120px,64px,39px;" data-text="w:normal;s:20,15,8,4;c:both;l:0,18,9,6;" data-flcr="c:both;" data-dim="w:100%;h:44px,30px,26px,20px;" data-frame_999="o:0;st:w;sR:8700;" style="z-index:6;">
                                                                                                                         </rs-layer>
-                                                                                                                        <a id="slider-4-slide-8-layer-21" class="rs-layer rev-btn" href="https://market.greenwebbtech.com/shop-products" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:54,52,50,50;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-margin="r:10,8,6,6;" data-padding="r:40,32,28,28;l:40,32,28,28;" data-frame_0="x:30px;" data-frame_1="st:1250;sp:1000;sR:1250;" data-frame_999="o:0;st:w;sR:6750;" data-frame_hover="rX:0deg;rY:0deg;bgc:#dcb000;boc:#1f242e;bor:0px,0px,0px,0px;bos:solid;bow:0px,0px,0px,0px;e:power1.inOut;" style="z-index:7;background-color:#f2c200;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">Go
+                                                                                                                        <a id="slider-4-slide-8-layer-21" class="rs-layer rev-btn" href="https://market.ecoagrozm.com/shop-products" target="_self" data-type="button" data-text="w:normal;s:14,14,14,13;l:54,52,50,50;ls:1.5px;fw:500;a:center;" data-dim="minh:0px,none,none,none;" data-rsp_o="off" data-rsp_bd="off" data-disp="inline-block" data-margin="r:10,8,6,6;" data-padding="r:40,32,28,28;l:40,32,28,28;" data-frame_0="x:30px;" data-frame_1="st:1250;sp:1000;sR:1250;" data-frame_999="o:0;st:w;sR:6750;" data-frame_hover="rX:0deg;rY:0deg;bgc:#dcb000;boc:#1f242e;bor:0px,0px,0px,0px;bos:solid;bow:0px,0px,0px,0px;e:power1.inOut;" style="z-index:7;background-color:#f2c200;font-family:'halyard-display';text-transform:uppercase;display:inline-block;will-change:transform;">Go
                                                                                                                             to
                                                                                                                             the
                                                                                                                             Shop
@@ -2839,7 +2865,7 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a  href="https://callcenter.greenwebbtech.com">Call Center</a>
+                                                                                                            <a  href="https://callcenter.ecoagrozm.com">Call Center</a>
                                                                                                         </h6>
                                                                                                         <div
                                                                                                             class="sc_services_item_text">
@@ -2849,7 +2875,7 @@
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="sc_services_item_button sc_item_button">
-                                                                                                            <a href="https://callcenter.greenwebbtech.com" class="sc_services_item_more_link">
+                                                                                                            <a href="https://callcenter.ecoagrozm.com" class="sc_services_item_more_link">
                                                                                                                 <span
                                                                                                                     class="link_text">Read
                                                                                                                     more</span><span
@@ -2877,7 +2903,7 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a  href="https://callcenter.greenwebbtech.com">Advisory
+                                                                                                            <a  href="https://callcenter.ecoagrozm.com">Advisory
                                                                                                                 Services</a>
                                                                                                         </h6>
                                                                                                         <div
@@ -2888,7 +2914,7 @@
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="sc_services_item_button sc_item_button">
-                                                                                                            <a href="https://callcenter.greenwebbtech.com" class="sc_services_item_more_link">
+                                                                                                            <a href="https://callcenter.ecoagrozm.com" class="sc_services_item_more_link">
                                                                                                                 <span
                                                                                                                     class="link_text">Read
                                                                                                                     more</span><span
@@ -2898,7 +2924,7 @@
                                                                                                     </div>
                                                                                                 </div><a
                                                                                                     class="sc_services_item_link"
-                                                                                                    href="https://callcenter.greenwebbtech.com"></a>
+                                                                                                    href="https://callcenter.ecoagrozm.com"></a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -2913,7 +2939,7 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a href="https://market.greenwebbtech.com">
+                                                                                                            <a href="https://market.ecoagrozm.com">
                                                                                                                 Marketplace</a>
                                                                                                         </h6>
                                                                                                         <div
@@ -2926,7 +2952,7 @@
                                                                                                         </div>
                                                                                                         <div
                                                                                                             class="sc_services_item_button sc_item_button">
-                                                                                                            <a href="https://market.greenwebbtech.com" class="sc_services_item_more_link">
+                                                                                                            <a href="https://market.ecoagrozm.com" class="sc_services_item_more_link">
                                                                                                                 <span
                                                                                                                     class="link_text">Read
                                                                                                                     more</span><span
@@ -2936,7 +2962,7 @@
                                                                                                     </div>
                                                                                                 </div><a
                                                                                                     class="sc_services_item_link"
-                                                                                                    href="https://market.greenwebbtech.com"></a>
+                                                                                                    href="https://market.ecoagrozm.com"></a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
