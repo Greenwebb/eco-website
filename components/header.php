@@ -95,11 +95,11 @@
                                                             <?php 
                                                                 if(isset($_GET['user'])){
                                                             ?>   
-                                                                <a href="http://localhost/eco-market/login?user=<?= urlencode($user) ?>"><span>Marketplace</span></a>
+                                                                <a href="http://market.ecoagrozm.com/login?user=<?= urlencode($user) ?>"><span>Marketplace</span></a>
                                                             <?php 
                                                                 }else{
                                                             ?>   
-                                                                <a href="http://localhost/eco-market"><span>Marketplace</span></a>
+                                                                <a href="http://market.ecoagrozm.com"><span>Marketplace</span></a>
                                                             <?php   
                                                                 }
                                                             ?>
