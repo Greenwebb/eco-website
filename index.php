@@ -2138,7 +2138,7 @@
         }
 
         .elementor-18654 .elementor-element.elementor-element-f112344 .logo_image {
-            max-height: 53px;
+            max-height: 63px;
         }
 
         .elementor-18654 .elementor-element.elementor-element-f112344>.elementor-widget-container {

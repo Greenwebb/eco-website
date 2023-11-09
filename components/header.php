@@ -37,7 +37,7 @@
                                         <div class="sc_layouts_item elementor-element elementor-element-f112344 sc_fly_static elementor-widget elementor-widget-trx_sc_layouts_logo" data-id="f112344" data-element_type="widget" data-widget_type="trx_sc_layouts_logo.default">
                                         <div class="elementor-widget-container">
                                             <a href="https://ecoagrozm.com" class="sc_layouts_logo sc_layouts_logo_default trx_addons_inline_1675068927">
-                                                <img style="width: 150px; height: 160px" class="logo_image" src="images/logo.png" srcset="images/logo.png 2x" alt="Ecoagro" width="200" height="83">
+                                                <img class="logo_image" src="images/logo.png" srcset="images/logo.png 2x" alt="Ecoagro">
                                             </a>
                                         </div>
                                         </div>
