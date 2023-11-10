@@ -188,14 +188,14 @@
                                                         </a>
                                                         <div id="dropdown-content" style="display: none; text-align:left; padding:3%; border-top:1px solid #2B6A3B">
                                                             <p>
-                                                                <a class="" style="display: flex; gap: 4px; " href="https://auth.ecoagrozm.com/register?source=website&destination=website&type=farmer">
-                                                                    <span><img width="20" src="images/site/farmer.png"></span>  
-                                                                    <span style="margin-top:8%">Become a Seller</span>
+                                                                <a class="" style="display: flex; gap: 4px; font-size:13px;" href="https://auth.ecoagrozm.com/register?source=website&destination=marketplace&type=seller">
+                                                                    <span><img width="18" src="images/site/farmer.png"></span>  
+                                                                    <span style="margin-top:8% ">Become a Seller</span>
                                                                 </a>
                                                             </p>
                                                             <p>
-                                                                <a class="" style="display: flex; gap: 4px; " href="https://auth.ecoagrozm.com/register?source=website&destination=website&type=agronomist">
-                                                                    <span><img width="20" src="images/site/agronomist.png"></span>  
+                                                                <a class="" style="display: flex; gap: 4px; font-size:13px;" href="https://auth.ecoagrozm.com/register?source=website&destination=call-center&type=agronomist">
+                                                                    <span><img width="18" src="images/site/agronomist.png"></span>  
                                                                     <span style="margin-top:8%">Agronomist</span>
                                                                 </a>
                                                             </p>

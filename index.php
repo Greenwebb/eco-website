@@ -2952,7 +2952,7 @@
                                                                                                         <div
                                                                                                             class="sc_services_item_text">
                                                                                                             <p>
-                                                                                                            Access farming advice via e-extensions.
+                                                                                                            Get farming advice via e-extensions.
                                                                                                             </p>
                                                                                                         </div>
                                                                                                         <div
@@ -2976,8 +2976,7 @@
                                                                                             class="sc_services_item sc_item_container post_container with_content with_more with_image sc_services_item_featured_none post-864 cpt_services type-cpt_services status-publish has-post-thumbnail hentry cpt_services_group-what-we-do">
                                                                                             <div class="sc_services_item_content "
                                                                                                 style="background-image: url('images/site/55.jpg');">
-                                                                                                <div
-                                                                                                    class="sc_services_item_content_inner">
+                                                                                                <div class="sc_services_item_content_inner">
                                                                                                     <div
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
@@ -2990,7 +2989,7 @@
                                                                                                             <p>Buy and
                                                                                                                 Sell
                                                                                                                 Your
-                                                                                                                Produce
+                                                                                                                Farm Produce
                                                                                                             </p>
                                                                                                         </div>
                                                                                                         <div
@@ -3003,9 +3002,8 @@
                                                                                                             </a>
                                                                                                         </div>
                                                                                                     </div>
-                                                                                                </div><a
-                                                                                                    class="sc_services_item_link"
-                                                                                                    href="https://market.ecoagrozm.com"></a>
+                                                                                                </div>
+                                                                                                <a class="sc_services_item_link" href="https://market.ecoagrozm.com"></a>
                                                                                             </div>
                                                                                         </div>
                                                                                     </div>
@@ -5310,107 +5308,107 @@
 
     <!-- Slider -->
     <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    const slider = document.querySelector(".slider");
-    const slideTrack = document.querySelector(".slide-track");
-    const slides = document.querySelectorAll(".slide");
+        document.addEventListener("DOMContentLoaded", function () {
+            const slider = document.querySelector(".slider");
+            const slideTrack = document.querySelector(".slide-track");
+            const slides = document.querySelectorAll(".slide");
 
-    let currentIndex = 0;
-    const totalSlides = slides.length;
-    const slideWidth = slides[0].clientWidth;
-    let startX;
-    let isDragging = false;
+            let currentIndex = 0;
+            const totalSlides = slides.length;
+            const slideWidth = slides[0].clientWidth;
+            let startX;
+            let isDragging = false;
 
-    // Duplicate the first and last slides for looping
-    slideTrack.innerHTML = slideTrack.innerHTML + slideTrack.innerHTML;
+            // Duplicate the first and last slides for looping
+            slideTrack.innerHTML = slideTrack.innerHTML + slideTrack.innerHTML;
 
-    // Set the initial position of the slide track
-    slideTrack.style.transform = `translateX(${-currentIndex * slideWidth}px)`;
+            // Set the initial position of the slide track
+            slideTrack.style.transform = `translateX(${-currentIndex * slideWidth}px)`;
 
-    // Auto slide every 3 seconds
-    setInterval(() => {
-      if (!isDragging) {
-        currentIndex++;
-        updateSlide();
-      }
-    }, 3000);
+            // Auto slide every 3 seconds
+            setInterval(() => {
+                if (!isDragging) {
+                currentIndex++;
+                updateSlide();
+                }
+            }, 3000);
 
-    // Handle touch and click events for navigation
-    // slider.addEventListener("touchstart", handleTouchStart);
-    // slider.addEventListener("touchmove", handleTouchMove);
-    // slider.addEventListener("touchend", handleTouchEnd);
-    // slider.addEventListener("mousedown", handleMouseDown);
-    // slider.addEventListener("mousemove", handleMouseMove);
-    // slider.addEventListener("mouseup", handleMouseUp);
-    // slider.addEventListener("mouseleave", handleMouseLeave);
+            // Handle touch and click events for navigation
+            slider.addEventListener("touchstart", handleTouchStart);
+            slider.addEventListener("touchmove", handleTouchMove);
+            slider.addEventListener("touchend", handleTouchEnd);
+            slider.addEventListener("mousedown", handleMouseDown);
+            slider.addEventListener("mousemove", handleMouseMove);
+            slider.addEventListener("mouseup", handleMouseUp);
+            slider.addEventListener("mouseleave", handleMouseLeave);
 
-    function handleTouchStart(e) {
-      startX = e.touches[0].clientX;
-      isDragging = true;
-    }
+            function handleTouchStart(e) {
+                startX = e.touches[0].clientX;
+                isDragging = true;
+            }
 
-    function handleTouchMove(e) {
-      if (isDragging) {
-        const currentX = e.touches[0].clientX;
-        const deltaX = currentX - startX;
+            function handleTouchMove(e) {
+                if (isDragging) {
+                const currentX = e.touches[0].clientX;
+                const deltaX = currentX - startX;
 
-        currentIndex -= deltaX / slideWidth;
-        updateSlide();
-        startX = currentX;
-      }
-    }
+                currentIndex -= deltaX / slideWidth;
+                updateSlide();
+                startX = currentX;
+                }
+            }
 
-    function handleTouchEnd() {
-      isDragging = false;
-    }
+            function handleTouchEnd() {
+                isDragging = false;
+            }
 
-    function handleMouseDown(e) {
-      startX = e.clientX;
-      isDragging = true;
-    }
+            function handleMouseDown(e) {
+                startX = e.clientX;
+                isDragging = true;
+            }
 
-    function handleMouseMove(e) {
-      if (isDragging) {
-        const currentX = e.clientX;
-        const deltaX = currentX - startX;
+            function handleMouseMove(e) {
+                if (isDragging) {
+                const currentX = e.clientX;
+                const deltaX = currentX - startX;
 
-        currentIndex -= deltaX / slideWidth;
-        updateSlide();
-        startX = currentX;
-      }
-    }
+                currentIndex -= deltaX / slideWidth;
+                updateSlide();
+                startX = currentX;
+                }
+            }
 
-    function handleMouseUp() {
-      isDragging = false;
-      updateSlide();
-    }
+            function handleMouseUp() {
+                isDragging = false;
+                updateSlide();
+            }
 
-    function handleMouseLeave() {
-      if (isDragging) {
-        isDragging = false;
-        updateSlide();
-      }
-    }
+            function handleMouseLeave() {
+                if (isDragging) {
+                isDragging = false;
+                updateSlide();
+                }
+            }
 
-    function updateSlide() {
-      const newPosition = -currentIndex * slideWidth;
-      slideTrack.style.transition = "transform 0.5s ease-in-out";
+            function updateSlide() {
+                const newPosition = -currentIndex * slideWidth;
+                slideTrack.style.transition = "transform 0.5s ease-in-out";
 
-      // Check for the last duplicate slide to reset to the first slide
-      if (currentIndex >= totalSlides * 2) {
-        currentIndex = 0;
-        slideTrack.style.transition = "none"; // Disable transition for instant jump
-        newPosition = 0;
-      } else if (currentIndex < 0) {
-        currentIndex = totalSlides;
-        slideTrack.style.transition = "none"; // Disable transition for instant jump
-        newPosition = -currentIndex * slideWidth;
-      }
+                // Check if currentIndex exceeds the total number of slides
+                if (currentIndex >= totalSlides) {
+                currentIndex = 0;
+                slideTrack.style.transition = "none"; // Disable transition for instant jump
+                newPosition = 0;
+                } else if (currentIndex < 0) {
+                currentIndex = totalSlides - 1;
+                slideTrack.style.transition = "none"; // Disable transition for instant jump
+                newPosition = -currentIndex * slideWidth;
+                }
 
-      slideTrack.style.transform = `translateX(${newPosition}px)`;
-    }
-  });
-</script>
+                slideTrack.style.transform = `translateX(${newPosition}px)`;
+            }
+            });             
+    </script>
 </body>
 
 </html>
