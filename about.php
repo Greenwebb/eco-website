@@ -5873,7 +5873,7 @@
                                                                                                         commitment to sustainability and 
                                                                                                         environmental stewardship, we aim to 
                                                                                                         revolutionize the way farmers interact 
-                                                                                                        with agricultural services and 
+                                                                                                        with agricultural E-extensions and 
                                                                                                         information. 
                                                                                                         <br><br>
                                                                                                         As a local Zambian call 

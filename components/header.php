@@ -66,7 +66,7 @@
                                                             <?php 
                                                                 if(isset($_GET['user'])){
                                                             ?>   
-                                                                <a href="services.php?user=<?= urlencode($user) ?>"><span>Services</span></a>
+                                                                <a href="services.php?user=<?= urlencode($user) ?>"><span>E-extensions</span></a>
                                                             <?php 
                                                                 }else{
                                                             ?>   
@@ -79,7 +79,7 @@
                                                                     <a href="https://callcenter.ecoagrozm.com"><span>Call Center</span></a>
                                                                 </li>
                                                                 <li id="menu-item-18286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18286">
-                                                                    <a href="https://callcenter.ecoagrozm.com"><span>Online Advisory Services</span></a>
+                                                                    <a href="https://callcenter.ecoagrozm.com"><span>BPO Business Process Outsourcing</span></a>
                                                                 </li>
                                                                 <li id="menu-item-18288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18288">
                                                                     <a  href="https://market.ecoagrozm.com"><span>Marketplace</span></a>
@@ -355,13 +355,13 @@
 
                         </li>
                         <li id="menu_mobile-item-17651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17651">
-                            <a href="services.php"><span>Services</span></a>
+                            <a href="services.php"><span>E-extensions</span></a>
                             <ul class="sub-menu">
                                 <li id="menu_mobile-item-18280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18280">
                                     <a href="https://callcenter.ecoagrozm.com"><span>Call Center</span></a>
                                 </li>
                                 <li id="menu_mobile-item-18286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18286">
-                                    <a href="https://callcenter.ecoagrozm.com"><span>Online Advisory Services</span></a>
+                                    <a href="https://callcenter.ecoagrozm.com"><span>BPO Business Process Outsourcing</span></a>
                                 </li>
                                 <li id="menu_mobile-item-18288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18288">
                                     <a href="https://market.ecoagrozm.com"><span>Marketplace</span></a>
