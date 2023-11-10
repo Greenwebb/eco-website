@@ -66,17 +66,17 @@
                                                             <?php 
                                                                 if(isset($_GET['user'])){
                                                             ?>   
-                                                                <a href="services.php?user=<?= urlencode($user) ?>"><span>E-extensions</span></a>
+                                                                <a href="services.php?user=<?= urlencode($user) ?>"><span>Services</span></a>
                                                             <?php 
                                                                 }else{
                                                             ?>   
-                                                                <a href="services.php"><span>E-extensions</span></a>
+                                                                <a href="services.php"><span>Services</span></a>
                                                             <?php   
                                                                 }
                                                             ?>
                                                             <ul class="sub-menu">
                                                                 <li id="menu-item-18280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18280">
-                                                                    <a href="https://callcenter.ecoagrozm.com"><span>Call Center</span></a>
+                                                                    <a href="https://callcenter.ecoagrozm.com"><span>E-extensions</span></a>
                                                                 </li>
                                                                 <li id="menu-item-18286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18286">
                                                                     <a href="https://callcenter.ecoagrozm.com"><span>BPO Business Process Outsourcing</span></a>
@@ -190,7 +190,7 @@
                                                             <p>
                                                                 <a class="" style="display: flex; gap: 4px; " href="https://auth.ecoagrozm.com/register?source=website&destination=website&type=farmer">
                                                                     <span><img width="20" src="images/site/farmer.png"></span>  
-                                                                    <span style="margin-top:8%">Farmer</span>
+                                                                    <span style="margin-top:8%">Become a Seller</span>
                                                                 </a>
                                                             </p>
                                                             <p>
@@ -306,7 +306,7 @@
                                                 <div class="sc_item_button sc_button_wrap">
                                                     <a href="https://auth.ecoagrozm.com/register?source=website&destination=website&type=farmer" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button hide_on_mobile sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                                                         <span class="sc_button_text">
-                                                            <span class="sc_button_title">Farmer</span>
+                                                            <span class="sc_button_title">Become a Seller</span>
                                                         </span>
                                                     </a>
                                                 </div>
@@ -355,10 +355,10 @@
 
                         </li>
                         <li id="menu_mobile-item-17651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-17651">
-                            <a href="services.php"><span>E-extensions</span></a>
+                            <a href="services.php"><span>Services</span></a>
                             <ul class="sub-menu">
                                 <li id="menu_mobile-item-18280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18280">
-                                    <a href="https://callcenter.ecoagrozm.com"><span>Call Center</span></a>
+                                    <a href="https://callcenter.ecoagrozm.com"><span>E-extensions</span></a>
                                 </li>
                                 <li id="menu_mobile-item-18286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18286">
                                     <a href="https://callcenter.ecoagrozm.com"><span>BPO Business Process Outsourcing</span></a>
@@ -392,7 +392,7 @@
                             <a style="background: #770614;" href="https://auth.ecoagrozm.com/register?source=website&destination=website&type=farmer" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                             <span class="sc_button_text">
                                 <span class="sc_button_title">
-                                    Join as Farmer
+                                    Join as Seller
                                 </span>
                             </span>
                             </a>

@@ -348,34 +348,34 @@
 </div> -->
 <script>
 // Get the Agronomist link and the modal elements
-const registerNow = document.getElementById('register_now');
-const modal = document.getElementById('myModal');
-const closeModalButton = document.getElementById('closeModal');
+// const registerNow = document.getElementById('register_now');
+// const modal = document.getElementById('myModal');
+// const closeModalButton = document.getElementById('closeModal');
 
-// Function to display the modal
-function openModal() {
-  modal.style.display = 'block';
-}
+// // Function to display the modal
+// function openModal() {
+//   modal.style.display = 'block';
+// }
 
-// Function to close the modal
-function closeModal() {
-  modal.style.display = 'none';
-}
+// // Function to close the modal
+// function closeModal() {
+//   modal.style.display = 'none';
+// }
 
-// Event listeners
-registerNow.addEventListener('click', function (e) {
-  e.preventDefault(); // Prevent the default link behavior
-  openModal();
-});
+// // Event listeners
+// registerNow.addEventListener('click', function (e) {
+//   e.preventDefault(); // Prevent the default link behavior
+//   openModal();
+// });
 
-closeModalButton.addEventListener('click', closeModal);
+// closeModalButton.addEventListener('click', closeModal);
 
-// Close the modal if the user clicks outside of it
-window.addEventListener('click', function (e) {
-  if (e.target === modal) {
-    closeModal();
-  }
-});
+// // Close the modal if the user clicks outside of it
+// window.addEventListener('click', function (e) {
+//   if (e.target === modal) {
+//     closeModal();
+//   }
+// });
 </script>
 <script src="script/main.js"></script>
 <script src="script/routes.js"></script>
