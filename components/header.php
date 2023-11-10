@@ -70,7 +70,7 @@
                                                             <?php 
                                                                 }else{
                                                             ?>   
-                                                                <a href="services.php"><span>Services</span></a>
+                                                                <a href="services.php"><span>E-extensions</span></a>
                                                             <?php   
                                                                 }
                                                             ?>

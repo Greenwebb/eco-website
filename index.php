@@ -2872,7 +2872,7 @@
                                                                                                         <div
                                                                                                             class="sc_services_item_text">
                                                                                                             <p>
-                                                                                                            Access call center services
+                                                                                                            Acquire BPO (Business Process Outsourcing).
                                                                                                             </p>
                                                                                                         </div>
                                                                                                         <div
@@ -2911,7 +2911,7 @@
                                                                                                         <div
                                                                                                             class="sc_services_item_text">
                                                                                                             <p>
-                                                                                                                Your advisory services
+                                                                                                            Access farming advice via e-extensions.
                                                                                                             </p>
                                                                                                         </div>
                                                                                                         <div
