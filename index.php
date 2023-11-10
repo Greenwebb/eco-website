@@ -2510,42 +2510,42 @@
     <!-- Slider -->
     <style>
         .slider {
-  background: pr;
-  box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.125);
-  height: 100px;
-  margin: auto;
-  overflow: hidden;
-  position: relative;
-  width: 100%;
-}
-.slider::before,
-.slider::after {
-  background: linear-gradient(to right, white 0%, rgba(255, 255, 255, 0) 100%);
-  content: "";
-  height: 100px;
-  position: absolute;
-  width: 200px;
-  z-index: 2;
-}
-.slider::after {
-  right: 0;
-  top: 0;
-  -webkit-transform: rotateZ(180deg);
-  transform: rotateZ(180deg);
-}
-.slider::before {
-  left: 0;
-  top: 0;
-}
-.slider .slide-track {
-  -webkit-animation: scroll 15s linear infinite;
-  animation: scroll 15s linear infinite;
-  display: flex;
-  width: calc(250px * 14);
-}
-.slider .slide {
-  width: 100%;
-}
+            background: pr;
+            box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.125);
+            height: 100px;
+            margin: auto;
+            overflow: hidden;
+            position: relative;
+            width: 100%;
+        }
+        .slider::before,
+        .slider::after {
+            background: linear-gradient(to right, white 0%, rgba(255, 255, 255, 0) 100%);
+            content: "";
+            height: 100px;
+            position: absolute;
+            width: 200px;
+            z-index: 2;
+        }
+        .slider::after {
+            right: 0;
+            top: 0;
+            -webkit-transform: rotateZ(180deg);
+            transform: rotateZ(180deg);
+        }
+        .slider::before {
+            left: 0;
+            top: 0;
+        }
+        .slider .slide-track {
+            -webkit-animation: scroll 15s linear infinite;
+            animation: scroll 15s linear infinite;
+            display: flex;
+            width: calc(250px * 14);
+        }
+        .slider .slide {
+            width: 100%;
+        }
     </style>
 </head>
 
@@ -3061,165 +3061,7 @@
 
                                             </section>
                                             <section  style="padding-top:2%" class="elementor-section elementor-top-section elementor-element elementor-element-1e9fbafa scheme_default elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static" data-id="1e9fbafa" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                                                <div class="slider">
-                                                    <div class="slide-track">
-                                                      <div class="slide">
-                                                        <div style="padding:2%;padding-bottom:2%; font-size:16px">
-                                                            <span style="padding-left:2%; font-weight: bold;">Wheat:</span> 
-                                                            2189 No. 1  
-                                                            <br>
-                                                            <span style="padding:2%; background-color:#fff;border-radius:12px; border:1px solid #c7ced1">
-                                                                <span style="color:#1a5741; font-size:12px;font-weight:bold">Max Price: 2500</span>
-                                                                <span style="color:#d04c00; font-size:12px;font-weight:bold">Min Price: 2075 </span>
-                                                            </span>
-                                                        </div>
-                                                      </div>
-                                                      <div class="slide">
-                                                        <div style="padding:2%;padding-bottom:2%; font-size:16px">
-                                                            <span style="padding-left:2%; font-weight: bold;">Maize:</span> 
-                                                            50 Kg. 23  
-                                                            <br>
-                                                            <span style="padding:2%; background-color:#fff;border-radius:12px; border:1px solid #c7ced1">
-                                                                <span style="color:#1a5741; font-size:12px;font-weight:bold">Max Price: 1500</span>
-                                                                <span style="color:#d04c00; font-size:12px;font-weight:bold">Min Price: 875 </span>
-                                                            </span>
-                                                        </div>  
-                                                      </div>
-                                                      <div class="slide">
-                                                        <div style="padding:2%;padding-bottom:2%; font-size:16px">
-                                                            <span style="padding-left:2%; font-weight: bold;">Rice:</span> 
-                                                            50 Kg. 23  
-                                                            <br>
-                                                            <span style="padding:2%; background-color:#fff;border-radius:12px; border:1px solid #c7ced1">
-                                                                <span style="color:#1a5741; font-size:12px;font-weight:bold">Max Price: 1500</span>
-                                                                <span style="color:#d04c00; font-size:12px;font-weight:bold">Min Price: 875 </span>
-                                                            </span>
-                                                        </div>  
-                                                    </div>
-                                                      <div class="slide">
-                                                        <div style="padding:2%;padding-bottom:2%; font-size:16px">
-                                                            <span style="padding-left:2%; font-weight: bold;">Soya Beans:</span> 
-                                                            50 Kg. 23  
-                                                            <br>
-                                                            <span style="padding:2%; background-color:#fff;border-radius:12px; border:1px solid #c7ced1">
-                                                                <span style="color:#1a5741; font-size:12px;font-weight:bold">Max Price: 1500</span>
-                                                                <span style="color:#d04c00; font-size:12px;font-weight:bold">Min Price: 875 </span>
-                                                            </span>
-                                                        </div>                                                     
-                                                      </div>
-                                                      <div class="slide">
-                                                        
-                                                        <div style="padding:2%;padding-bottom:2%; font-size:16px">
-                                                            <span style="padding-left:2%; font-weight: bold;">Tomatoes:</span> 
-                                                            2189 No. 1  
-                                                            <br>
-                                                            <span style="padding:2%; background-color:#fff;border-radius:12px; border:1px solid #c7ced1">
-                                                                <span style="color:#1a5741; font-size:12px;font-weight:bold">Max Price: 250</span>
-                                                                <span style="color:#d04c00; font-size:12px;font-weight:bold">Min Price: 75 </span>
-                                                            </span>
-                                                        </div>  
-                                                      </div>
-                                                      <div class="slide">
-                                                        <div style="padding:2%;padding-bottom:2%; font-size:16px">
-                                                            <span style="padding-left:2%; font-weight: bold;">Onion:</span> 
-                                                            50 Kg 
-                                                            <br>
-                                                            <span style="padding:2%; background-color:#fff;border-radius:12px; border:1px solid #c7ced1">
-                                                                <span style="color:#1a5741; font-size:12px;font-weight:bold">Max Price: 430</span>
-                                                                <span style="color:#d04c00; font-size:12px;font-weight:bold">Min Price: 195 </span>
-                                                            </span>
-                                                        </div>  
-                                                      </div>
-                                                      <div class="slide">
-                                                        <div style="padding:2%;padding-bottom:2%; font-size:16px">
-                                                            <span style="padding-left:2%; font-weight: bold;">Feed:</span> 
-                                                            90 Kg. 23  
-                                                            <br>
-                                                            <span style="padding:2%; background-color:#fff;border-radius:12px; border:1px solid #c7ced1">
-                                                                <span style="color:#1a5741; font-size:12px;font-weight:bold">Max Price: 800</span>
-                                                                <span style="color:#d04c00; font-size:12px;font-weight:bold">Min Price: 375 </span>
-                                                            </span>
-                                                        </div>  
-                                                      </div>
-                                                      <div class="slide">
-                                                        <div style="padding:2%;padding-bottom:2%; font-size:16px">
-                                                            <span style="padding-left:2%; font-weight: bold;">Maize:</span> 
-                                                            50 Kg. 23  
-                                                            <br>
-                                                            <span style="padding:2%; background-color:#fff;border-radius:12px; border:1px solid #c7ced1">
-                                                                <span style="color:#1a5741; font-size:12px;font-weight:bold">Max Price: 1500</span>
-                                                                <span style="color:#d04c00; font-size:12px;font-weight:bold">Min Price: 875 </span>
-                                                            </span>
-                                                        </div>  
-                                                      </div>
-                                                      <div class="slide">
-                                                        <div style="padding:2%;padding-bottom:2%; font-size:16px">
-                                                            <span style="padding-left:2%; font-weight: bold;">Maize:</span> 
-                                                            50 Kg. 23  
-                                                            <br>
-                                                            <span style="padding:2%; background-color:#fff;border-radius:12px; border:1px solid #c7ced1">
-                                                                <span style="color:#1a5741; font-size:12px;font-weight:bold">Max Price: 1500</span>
-                                                                <span style="color:#d04c00; font-size:12px;font-weight:bold">Min Price: 875 </span>
-                                                            </span>
-                                                        </div>  
-                                                      </div>
-                                                      <div class="slide">
-                                                        <div style="padding:2%;padding-bottom:2%; font-size:16px">
-                                                            <span style="padding-left:2%; font-weight: bold;">Fertilizer:</span> 
-                                                            50 Kg. 
-                                                            <br>
-                                                            <span style="padding:2%; background-color:#fff;border-radius:12px; border:1px solid #c7ced1">
-                                                                <span style="color:#1a5741; font-size:12px;font-weight:bold">Max Price: 1500</span>
-                                                                <span style="color:#d04c00; font-size:12px;font-weight:bold">Min Price: 875 </span>
-                                                            </span>
-                                                        </div>  
-                                                      </div>
-                                                      <div class="slide">
-                                                        <div style="padding:2%;padding-bottom:2%; font-size:16px">
-                                                            <span style="padding-left:2%; font-weight: bold;">Pesticides:</span> 
-                                                            2393.21 
-                                                            <br>
-                                                            <span style="padding:2%; background-color:#fff;border-radius:12px; border:1px solid #c7ced1">
-                                                                <span style="color:#1a5741; font-size:12px;font-weight:bold">Max Price: 420</span>
-                                                                <span style="color:#d04c00; font-size:12px;font-weight:bold">Min Price: 195 </span>
-                                                            </span>
-                                                        </div>  
-                                                      </div>
-                                                      <div class="slide">
-                                                        <div style="padding:2%;padding-bottom:2%; font-size:16px">
-                                                            <span style="padding-left:2%; font-weight: bold;">Bananas:</span> 
-                                                            100 Kg. 
-                                                            <br>
-                                                            <span style="padding:2%; background-color:#fff;border-radius:12px; border:1px solid #c7ced1">
-                                                                <span style="color:#1a5741; font-size:12px;font-weight:bold">Max Price: 3500</span>
-                                                                <span style="color:#d04c00; font-size:12px;font-weight:bold">Min Price: 1175 </span>
-                                                            </span>
-                                                        </div>  
-                                                      </div>
-                                                      <div class="slide">
-                                                        <div style="padding:2%;padding-bottom:2%; font-size:16px">
-                                                            <span style="padding-left:2%; font-weight: bold;">Maize:</span> 
-                                                            50 Kg. 23  
-                                                            <br>
-                                                            <span style="padding:2%; background-color:#fff;border-radius:12px; border:1px solid #c7ced1">
-                                                                <span style="color:#1a5741; font-size:12px;font-weight:bold">Max Price: 1500</span>
-                                                                <span style="color:#d04c00; font-size:12px;font-weight:bold">Min Price: 875 </span>
-                                                            </span>
-                                                        </div>  
-                                                      </div>
-                                                      <div class="slide">
-                                                        <div style="padding:2%;padding-bottom:2%; font-size:16px">
-                                                            <span style="padding-left:2%; font-weight: bold;">Maize:</span> 
-                                                            100 Kg. 23  
-                                                            <br>
-                                                            <span style="padding:2%; background-color:#fff;border-radius:12px; border:1px solid #c7ced1">
-                                                                <span style="color:#1a5741; font-size:12px;font-weight:bold">Max Price: 2990</span>
-                                                                <span style="color:#d04c00; font-size:12px;font-weight:bold">Min Price: 1175 </span>
-                                                            </span>
-                                                        </div>  
-                                                      </div>
-                                                    </div>
-                                                  </div>
+                                                <?php include 'components/stock-rates.php' ?>
                                             </section>
                                             <section
                                                 class="elementor-section elementor-top-section elementor-element elementor-element-13d55f9 elementor-section-boxed elementor-section-height-default elementor-section-height-default sc_fly_static"
@@ -5477,16 +5319,15 @@
     const totalSlides = slides.length;
     const slideWidth = slides[0].clientWidth;
 
+    // Duplicate the first and last slides for looping
+    slideTrack.innerHTML += slideTrack.innerHTML;
+    
     // Set the initial position of the slide track
     slideTrack.style.transform = `translateX(${-currentIndex * slideWidth}px)`;
 
     // Auto slide every 3 seconds
     setInterval(() => {
-      if (currentIndex < totalSlides - 1) {
-        currentIndex++;
-      } else {
-        currentIndex = 0;
-      }
+      currentIndex++;
       updateSlide();
     }, 3000);
 
@@ -5517,9 +5358,9 @@
     function handleGesture() {
       const deltaX = endX - startX;
 
-      if (deltaX > 50 && currentIndex > 0) {
+      if (deltaX > 50) {
         currentIndex--;
-      } else if (deltaX < -50 && currentIndex < totalSlides - 1) {
+      } else if (deltaX < -50) {
         currentIndex++;
       }
 
@@ -5528,6 +5369,15 @@
 
     function updateSlide() {
       const newPosition = -currentIndex * slideWidth;
+      slideTrack.style.transition = "transform 0.5s ease-in-out";
+
+      // Check for the last duplicate slide to reset to the first slide
+      if (currentIndex >= totalSlides * 2) {
+        currentIndex = 0;
+        slideTrack.style.transition = "none"; // Disable transition for instant jump
+        newPosition = 0;
+      }
+
       slideTrack.style.transform = `translateX(${newPosition}px)`;
     }
   });
