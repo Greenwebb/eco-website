@@ -5318,53 +5318,78 @@
     let currentIndex = 0;
     const totalSlides = slides.length;
     const slideWidth = slides[0].clientWidth;
+    let startX;
+    let isDragging = false;
 
     // Duplicate the first and last slides for looping
-    slideTrack.innerHTML += slideTrack.innerHTML;
-    
+    slideTrack.innerHTML = slideTrack.innerHTML + slideTrack.innerHTML;
+
     // Set the initial position of the slide track
     slideTrack.style.transform = `translateX(${-currentIndex * slideWidth}px)`;
 
     // Auto slide every 3 seconds
     setInterval(() => {
-      currentIndex++;
-      updateSlide();
+      if (!isDragging) {
+        currentIndex++;
+        updateSlide();
+      }
     }, 3000);
 
     // Handle touch and click events for navigation
-    let startX;
-    let endX;
+    // slider.addEventListener("touchstart", handleTouchStart);
+    // slider.addEventListener("touchmove", handleTouchMove);
+    // slider.addEventListener("touchend", handleTouchEnd);
+    // slider.addEventListener("mousedown", handleMouseDown);
+    // slider.addEventListener("mousemove", handleMouseMove);
+    // slider.addEventListener("mouseup", handleMouseUp);
+    // slider.addEventListener("mouseleave", handleMouseLeave);
 
-    slider.addEventListener("touchstart", (e) => {
+    function handleTouchStart(e) {
       startX = e.touches[0].clientX;
-    });
-
-    slider.addEventListener("touchend", (e) => {
-      endX = e.changedTouches[0].clientX;
-      handleGesture();
-    });
-
-    slider.addEventListener("mousedown", (e) => {
-      startX = e.clientX;
-      window.addEventListener("mouseup", handleMouseUp);
-    });
-
-    function handleMouseUp(e) {
-      endX = e.clientX;
-      handleGesture();
-      window.removeEventListener("mouseup", handleMouseUp);
+      isDragging = true;
     }
 
-    function handleGesture() {
-      const deltaX = endX - startX;
+    function handleTouchMove(e) {
+      if (isDragging) {
+        const currentX = e.touches[0].clientX;
+        const deltaX = currentX - startX;
 
-      if (deltaX > 50) {
-        currentIndex--;
-      } else if (deltaX < -50) {
-        currentIndex++;
+        currentIndex -= deltaX / slideWidth;
+        updateSlide();
+        startX = currentX;
       }
+    }
 
+    function handleTouchEnd() {
+      isDragging = false;
+    }
+
+    function handleMouseDown(e) {
+      startX = e.clientX;
+      isDragging = true;
+    }
+
+    function handleMouseMove(e) {
+      if (isDragging) {
+        const currentX = e.clientX;
+        const deltaX = currentX - startX;
+
+        currentIndex -= deltaX / slideWidth;
+        updateSlide();
+        startX = currentX;
+      }
+    }
+
+    function handleMouseUp() {
+      isDragging = false;
       updateSlide();
+    }
+
+    function handleMouseLeave() {
+      if (isDragging) {
+        isDragging = false;
+        updateSlide();
+      }
     }
 
     function updateSlide() {
@@ -5376,6 +5401,10 @@
         currentIndex = 0;
         slideTrack.style.transition = "none"; // Disable transition for instant jump
         newPosition = 0;
+      } else if (currentIndex < 0) {
+        currentIndex = totalSlides;
+        slideTrack.style.transition = "none"; // Disable transition for instant jump
+        newPosition = -currentIndex * slideWidth;
       }
 
       slideTrack.style.transform = `translateX(${newPosition}px)`;
