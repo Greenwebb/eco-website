@@ -2494,8 +2494,8 @@
             width: 100%;
             height: 100%;
             
-            background: transparent url('http://watchmaker.haz.wiki/_media/tips:stripes.png') repeat top left;
-            /* background-color: rgba(0, 0, 0, 0.1); Adjust the alpha value (0.5) for the level of transparency */
+            /* background: transparent url('http://watchmaker.haz.wiki/_media/tips:stripes.png') repeat top left; */
+            background-color: rgba(0, 0, 0, 0.3); /*Adjust the alpha value (0.5) for the level of transparency*/
             z-index: 1;
         }
         .rs-slide {
