@@ -392,7 +392,7 @@
                             <a style="background: #770614;" href="https://auth.ecoagrozm.com/register?source=website&destination=website&type=farmer" data-bs-toggle="modal" data-bs-target="#staticBackdrop" class="sc_button sc_button_default sc_button_size_small sc_button_icon_left color_style_link2">
                             <span class="sc_button_text">
                                 <span class="sc_button_title">
-                                    Join as Seller
+                                    Become a Seller
                                 </span>
                             </span>
                             </a>
