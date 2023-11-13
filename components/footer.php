@@ -379,6 +379,7 @@
 </script>
 <script src="script/main.js"></script>
 <script src="script/routes.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
  <script>
     $(window).on('load', function () {
         // Hide the overlay when the page has loaded
