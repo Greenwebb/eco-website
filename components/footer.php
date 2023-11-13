@@ -314,7 +314,6 @@
                     </div>
                 </div>
             </footer><!-- /.footer_wrap -->
-
 <?php include 'components/modal.php' ?>
 <?php include 'components/agronomist.php' ?>
 <!-- <div id="myModal" class="modal">
@@ -379,11 +378,11 @@
 </script>
 <script src="script/main.js"></script>
 <script src="script/routes.js"></script>
- <script>
-    window.onload = function () {
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script>
+    $(window).on('load', function () {
         // Hide the overlay when the page has loaded
-        var overlay = document.getElementById('overlay');
-        overlay.style.transition = 'opacity 0.5s';
-        overlay.style.opacity = 0;
-    };
+        $('#overlayX').fadeOut(500);
+    });
 </script>
+

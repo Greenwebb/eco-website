@@ -23,7 +23,7 @@
     padding: 3%;
 }
 
-#overlay {
+    #overlayX {
         position: fixed;
         top: 0;
         left: 0;
@@ -37,7 +37,7 @@
     }
 
 
-    #overlay img {
+    #overlayX img {
         /* Add custom styles for your loader image */
         animation: pulse 1.5s infinite;
     }
@@ -54,9 +54,8 @@
         }
     }
 </style>
-<div id="overlay">
-    <!-- You can add a loading spinner or an image here -->
-    <img src="fav.png" alt="Loading...">
+<div id="overlayX">
+    <img src="fav.png">
 </div>
 <header class="top_panel top_panel_custom top_panel_custom_18654 top_panel_custom_header-modern	 without_bg_image">
     <div data-elementor-type="cpt_layouts" data-elementor-id="18654" class="elementor elementor-18654">
