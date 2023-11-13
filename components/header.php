@@ -23,7 +23,41 @@
     padding: 3%;
 }
 
+#overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgb(255, 255, 255);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 9999;
+    }
+
+
+    #overlay img {
+        /* Add custom styles for your loader image */
+        animation: pulse 1.5s infinite;
+    }
+
+    @keyframes pulse {
+        0% {
+            transform: scale(1);
+        }
+        50% {
+            transform: scale(1.2);
+        }
+        100% {
+            transform: scale(1);
+        }
+    }
 </style>
+<div id="overlay">
+    <!-- You can add a loading spinner or an image here -->
+    <img src="fav.png" alt="Loading...">
+</div>
 <header class="top_panel top_panel_custom top_panel_custom_18654 top_panel_custom_header-modern	 without_bg_image">
     <div data-elementor-type="cpt_layouts" data-elementor-id="18654" class="elementor elementor-18654">
         <div class="elementor-inner">

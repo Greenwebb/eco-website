@@ -379,3 +379,9 @@
 </script>
 <script src="script/main.js"></script>
 <script src="script/routes.js"></script>
+ <script>
+    $(window).on('load', function () {
+        // Hide the overlay when the page has loaded
+        $('#overlay').fadeOut(500);
+    });
+</script>
