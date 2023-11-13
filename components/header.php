@@ -1,9 +1,9 @@
 
 <?php
-    $user = $_GET['user'];
-    // if(isset($_GET['user'])){
-    //     $userData = json_encode($user);
-    // }
+    
+    if(isset($_GET['user'])){
+        $user = $_GET['user'];
+    }
 ?>
 <style>
     /* Style for the dropdown content */

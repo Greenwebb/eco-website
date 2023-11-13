@@ -10,9 +10,9 @@
     <meta name="robots" content="max-image-preview:large">
    
 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="preconnect prefetch stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="css/materialdesignicons.min.css">
+    <link  rel="preconnect prefetch stylesheet" href="css/materialdesignicons.min.css">
     <script type="text/javascript">
         window._wpemojiSettings = {
             "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/",
@@ -212,17 +212,17 @@
         padding: 0 !important;
       }
     </style>
-    <link property="stylesheet" rel="stylesheet" id="trx_addons-icons-css" href="css/css-trx_addons_icons.css"type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" href="css/prod.css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="trx_demo_icons-css" href="css/css-trx_demo_icons.css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="trx_demo_icons_animation-css" href="css/css-animation.css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="agricola-font-halyard-display-css" href="https://use.typekit.net/xog3vbp.css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="agricola-font-google_fonts-css" href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;subset=latin,latin-ext&amp;display=swap" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="agricola-fontello-css" href="css/css-fontello.css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="sbi_styles-css" href="css/css-sbi-styles.min.css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="wp-block-library-css" href="css/block-library-style.min.css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="wc-blocks-vendors-style-css" href="css/build-wc-blocks-vendors-style.css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="wc-blocks-style-css" href="css/build-wc-blocks-style.css" type="text/css" media="all">
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="trx_addons-icons-css" href="css/css-trx_addons_icons.css"type="text/css" media="all">
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" href="css/prod.css" type="text/css" media="all">
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="trx_demo_icons-css" href="css/css-trx_demo_icons.css" type="text/css" media="all">
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="trx_demo_icons_animation-css" href="css/css-animation.css" type="text/css" media="all">
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="agricola-font-halyard-display-css" href="https://use.typekit.net/xog3vbp.css" type="text/css" media="all">
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="agricola-font-google_fonts-css" href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,500;0,700;1,400;1,500;1,700&amp;subset=latin,latin-ext&amp;display=swap" type="text/css" media="all">
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="agricola-fontello-css" href="css/css-fontello.css" type="text/css" media="all">
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="sbi_styles-css" href="css/css-sbi-styles.min.css" type="text/css" media="all">
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="wp-block-library-css" href="css/block-library-style.min.css" type="text/css" media="all">
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="wc-blocks-vendors-style-css" href="css/build-wc-blocks-vendors-style.css" type="text/css" media="all">
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="wc-blocks-style-css" href="css/build-wc-blocks-style.css" type="text/css" media="all">
     <style id="classic-theme-styles-inline-css" type="text/css">
     /*! This file is auto-generated */
     .wp-block-button__link {
@@ -617,12 +617,12 @@
         line-height: 1.6;
     }
     </style>
-    <link property="stylesheet" rel="stylesheet" id="advanced-popups-css" href="css/css-advanced-popups-public.css"type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="contact-form-7-css" href="css/css-styles.css" type="text/css"media="all">
-    <link property="stylesheet" rel="stylesheet" id="powertip-css" href="css/css-jquery.powertip.min.css"type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="maps-points-css" href="css/css-maps_points.css" type="text/css"media="all">
-    <link property="stylesheet" rel="stylesheet" id="magnific-popup-css" href="css/magnific-magnific-popup.min.css"type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="trx_demo_panels-css" href="css/css-trx_demo_panels.css"type="text/css" media="all">
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="advanced-popups-css" href="css/css-advanced-popups-public.css"type="text/css" media="all">
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="contact-form-7-css" href="css/css-styles.css" type="text/css"media="all">
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="powertip-css" href="css/css-jquery.powertip.min.css"type="text/css" media="all">
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="maps-points-css" href="css/css-maps_points.css" type="text/css"media="all">
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="magnific-popup-css" href="css/magnific-magnific-popup.min.css"type="text/css" media="all">
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="trx_demo_panels-css" href="css/css-trx_demo_panels.css"type="text/css" media="all">
 
     <link property="stylesheet" rel='stylesheet' id='magnific-popup-css' href='css/plugins/trx_addons/js/magnific/magnific-popup.min.css' type='text/css' media='all' />
     <link property="stylesheet" rel='stylesheet' id='trx_demo_panels-css' href='css/plugins/trx_demo/css/trx_demo_panels.css' type='text/css' media='all' />
@@ -635,21 +635,21 @@
         }
     </style>
 
-    <link rel="stylesheet" href="css/bd-wizard.css">
+    <link rel="preconnect prefetch stylesheet" href="css/bd-wizard.css">
 
     <link property="stylesheet" rel="preload" as="font" type="font/woff2" crossorigin="anonymous"
         id="tinvwl-webfont-font-css"
         href="https://agricola.axiomthemes.com/wp-content/plugins/ti-woocommerce-wishlist/fonts/tinvwl-webfont.woff2?ver=xu2uyi"
         media="all">
-    <link property="stylesheet" rel="stylesheet" id="tinvwl-webfont-css" href="css/css-webfont.min.css" type="text/css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="tinvwl-webfont-css" href="css/css-webfont.min.css" type="text/css"
         media="all">
-    <link property="stylesheet" rel="stylesheet" id="tinvwl-css" href="css/css-public.min.css" type="text/css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="tinvwl-css" href="css/css-public.min.css" type="text/css"
         media="all">
-    <link property="stylesheet" rel="stylesheet" id="elementor-icons-css" href="css/css-elementor-icons.min.css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="elementor-icons-css" href="css/css-elementor-icons.min.css"
         type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="elementor-frontend-legacy-css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="elementor-frontend-legacy-css"
         href="css/css-frontend-legacy.min.css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="elementor-frontend-css" href="css/css-frontend.min.css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="elementor-frontend-css" href="css/css-frontend.min.css"
         type="text/css" media="all">
     <style id="elementor-frontend-inline-css" type="text/css">
     .elementor-kit-15 {
@@ -1512,25 +1512,25 @@
         }
     }
     </style>
-    <link property="stylesheet" rel="stylesheet" id="trx_addons-css" href="css/css-__styles.css" type="text/css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="trx_addons-css" href="css/css-__styles.css" type="text/css"
         media="all">
-    <link property="stylesheet" rel="stylesheet" id="trx_addons-sc_content-css" href="css/content-content.css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="trx_addons-sc_content-css" href="css/content-content.css"
         type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="trx_addons-sc_content-responsive-css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="trx_addons-sc_content-responsive-css"
         href="css/content-content.responsive.css" type="text/css" media="(max-width:1439px)">
-    <link property="stylesheet" rel="stylesheet" id="trx_addons-animations-css" href="css/css-trx_addons.animations.css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="trx_addons-animations-css" href="css/css-trx_addons.animations.css"
         type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="trx_addons-cf7-css" href="css/contact-form-7-contact-form-7.css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="trx_addons-cf7-css" href="css/contact-form-7-contact-form-7.css"
         type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="trx_addons-mouse-helper-css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="trx_addons-mouse-helper-css"
         href="css/mouse-helper-mouse-helper.css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="trx_addons-cpt_services-css" href="css/services-services.css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="trx_addons-cpt_services-css" href="css/services-services.css"
         type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="trx_addons-sc_blogger-css" href="css/blogger-blogger.css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="trx_addons-sc_blogger-css" href="css/blogger-blogger.css"
         type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="trx_addons-sc_skills-css" href="css/skills-skills.css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="trx_addons-sc_skills-css" href="css/skills-skills.css"
         type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="wpgdprc-front-css-css" href="css/css-front.css" type="text/css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="wpgdprc-front-css-css" href="css/css-front.css" type="text/css"
         media="all">
     <style id="wpgdprc-front-css-inline-css" type="text/css">
     :root {
@@ -1991,46 +1991,46 @@
         justify-content: center;
     }
     </style>
-    <link property="stylesheet" rel="stylesheet" id="agricola-style-css" href="css/agricola-style.css" type="text/css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="agricola-style-css" href="css/agricola-style.css" type="text/css"
         media="all">
-    <link property="stylesheet" rel="stylesheet" id="mediaelement-css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="mediaelement-css"
         href="css/mediaelement-mediaelementplayer-legacy.min.css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="wp-mediaelement-css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="wp-mediaelement-css"
         href="css/mediaelement-wp-mediaelement.min.css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="agricola-skin-default-css" href="css/css-style.css" type="text/css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="agricola-skin-default-css" href="css/css-style.css" type="text/css"
         media="all">
-    <link property="stylesheet" rel="stylesheet" id="agricola-plugins-css" href="css/css-__plugins.css" type="text/css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="agricola-plugins-css" href="css/css-__plugins.css" type="text/css"
         media="all">
-    <link property="stylesheet" rel="stylesheet" id="agricola-contact-form-7-css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="agricola-contact-form-7-css"
         href="css/contact-form-7-contact-form-7.css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="agricola-custom-css" href="css/css-__custom.css" type="text/css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="agricola-custom-css" href="css/css-__custom.css" type="text/css"
         media="all">
-    <link property="stylesheet" rel="stylesheet" id="e-animations-css" href="css/animations-animations.min.css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="e-animations-css" href="css/animations-animations.min.css"
         type="text/css" media="all">
     <link property="stylesheet" rel='stylesheet' id='rs-plugin-settings-css' href='css/plugins/revslider/public/assets/css/rs6.css' type='text/css' media='all' />
 
-    <link property="stylesheet" rel="stylesheet" id="trx_addons-responsive-css" href="css/css-__responsive.css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="trx_addons-responsive-css" href="css/css-__responsive.css"
         type="text/css" media="(max-width:1439px)">
-    <link property="stylesheet" rel="stylesheet" id="trx_addons-mouse-helper-responsive-css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="trx_addons-mouse-helper-responsive-css"
         href="css/mouse-helper-mouse-helper.responsive.css" type="text/css" media="(max-width:1279px)">
-    <link property="stylesheet" rel="stylesheet" id="trx_addons-cpt_services-responsive-css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="trx_addons-cpt_services-responsive-css"
         href="css/services-services.responsive.css" type="text/css" media="(max-width:1439px)">
-    <link property="stylesheet" rel="stylesheet" id="trx_addons-sc_blogger-responsive-css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="trx_addons-sc_blogger-responsive-css"
         href="css/blogger-blogger.responsive.css" type="text/css" media="(max-width:1279px)">
-    <link property="stylesheet" rel="stylesheet" id="trx_addons-sc_skills-responsive-css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="trx_addons-sc_skills-responsive-css"
         href="css/skills-skills.responsive.css" type="text/css" media="(max-width:1023px)">
-    <link property="stylesheet" rel="stylesheet" id="agricola-responsive-css" href="css/css-__responsive.css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="agricola-responsive-css" href="css/css-__responsive.css"
         type="text/css" media="(max-width:1679px)">
-    <link property="stylesheet" rel="stylesheet" id="agricola-trx-addons-extra-styles-css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="agricola-trx-addons-extra-styles-css"
         href="css/default-extra-styles.css" type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="swiper-css" href="css/swiper-swiper.min.css" type="text/css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="swiper-css" href="css/swiper-swiper.min.css" type="text/css"
         media="all">
-    <link property="stylesheet" rel="stylesheet" id="google-fonts-1-css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="google-fonts-1-css"
         href="https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.3.1"
         type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="elementor-icons-shared-0-css" href="css/css-fontawesome.min.css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="elementor-icons-shared-0-css" href="css/css-fontawesome.min.css"
         type="text/css" media="all">
-    <link property="stylesheet" rel="stylesheet" id="elementor-icons-fa-solid-css" href="css/css-solid.min.css"
+    <link property="stylesheet" rel="preconnect prefetch stylesheet" id="elementor-icons-fa-solid-css" href="css/css-solid.min.css"
         type="text/css" media="all">
     <script type="text/javascript" src="js/jquery-jquery.min.js" id="jquery-core-js"></script>
     <script type="text/javascript" src="js/jquery-jquery-migrate.min.js" id="jquery-migrate-js"></script>
