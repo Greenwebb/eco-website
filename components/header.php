@@ -232,6 +232,12 @@
                                                                     <span style="margin-top:8%">Agronomist</span>
                                                                 </a>
                                                             </p>
+                                                            <p>
+                                                                <a class="" style="display: flex; gap: 4px; font-size:13px;" href="https://auth.ecoagrozm.com/register?source=website&destination=call-center&type=bpo">
+                                                                    <span><img width="18" src="images/site/agronomist.png"></span>  
+                                                                    <span style="margin-top:8%">BPO (E-extensions)</span>
+                                                                </a>
+                                                            </p>
                                                             
                                                             <br>
                                                         </div>
