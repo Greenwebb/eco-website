@@ -379,10 +379,11 @@
 </script>
 <script src="script/main.js"></script>
 <script src="script/routes.js"></script>
-<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
  <script>
-    $(window).on('load', function () {
+    window.onload = function () {
         // Hide the overlay when the page has loaded
-        $('#overlay').fadeOut(500);
-    });
+        var overlay = document.getElementById('overlay');
+        overlay.style.transition = 'opacity 0.5s';
+        overlay.style.opacity = 0;
+    };
 </script>
