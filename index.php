@@ -2908,12 +2908,12 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a  href="https://callcenter.ecoagrozm.com">E-extensions</a>
+                                                                                                            <a  href="https://callcenter.ecoagrozm.com">E-extension</a>
                                                                                                         </h6>
                                                                                                         <div
                                                                                                             class="sc_services_item_text">
                                                                                                             <p>
-                                                                                                            Acquire BPO (Business Process Outsourcing).
+                                                                                                            Acquire Business Process Outsourcing (BPO).
                                                                                                             </p>
                                                                                                         </div>
                                                                                                         <div
@@ -2946,13 +2946,12 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a  href="https://callcenter.ecoagrozm.com">Advisory
-                                                                                                                Services</a>
+                                                                                                            <a  href="https://callcenter.ecoagrozm.com">E-extension</a>
                                                                                                         </h6>
                                                                                                         <div
                                                                                                             class="sc_services_item_text">
                                                                                                             <p>
-                                                                                                            Get farming advice via e-extensions.
+                                                                                                            Get farming advice via e-extension.
                                                                                                             </p>
                                                                                                         </div>
                                                                                                         <div

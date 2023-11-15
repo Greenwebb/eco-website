@@ -109,10 +109,10 @@
                                                             ?>
                                                             <ul class="sub-menu">
                                                                 <li id="menu-item-18280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18280">
-                                                                    <a href="https://callcenter.ecoagrozm.com"><span>E-extensions</span></a>
+                                                                    <a href="https://callcenter.ecoagrozm.com"><span>E-extension</span></a>
                                                                 </li>
                                                                 <li id="menu-item-18286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18286">
-                                                                    <a href="https://callcenter.ecoagrozm.com"><span>BPO Business Process Outsourcing</span></a>
+                                                                    <a href="https://callcenter.ecoagrozm.com"><span> Business Process Outsourcing (BPO)</span></a>
                                                                 </li>
                                                                 <li id="menu-item-18288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18288">
                                                                     <a  href="https://market.ecoagrozm.com"><span>Marketplace</span></a>
@@ -235,7 +235,7 @@
                                                             <p>
                                                                 <a class="" style="display: flex; gap: 4px; font-size:13px;" href="https://auth.ecoagrozm.com/register?source=website&destination=call-center&type=bpo">
                                                                     <span><img width="18" src="images/site/agronomist.png"></span>  
-                                                                    <span style="margin-top:8%">BPO (E-extensions)</span>
+                                                                    <span style="margin-top:8%">Business Process Outsourcing (BPO)</span>
                                                                 </a>
                                                             </p>
                                                             
@@ -397,10 +397,10 @@
                             <a href="services.php"><span>Services</span></a>
                             <ul class="sub-menu">
                                 <li id="menu_mobile-item-18280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18280">
-                                    <a href="https://callcenter.ecoagrozm.com"><span>E-extensions</span></a>
+                                    <a href="https://callcenter.ecoagrozm.com"><span>E-extension</span></a>
                                 </li>
                                 <li id="menu_mobile-item-18286" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18286">
-                                    <a href="https://callcenter.ecoagrozm.com"><span>BPO Business Process Outsourcing</span></a>
+                                    <a href="https://callcenter.ecoagrozm.com"><span> Business Process Outsourcing (BPO)</span></a>
                                 </li>
                                 <li id="menu_mobile-item-18288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18288">
                                     <a href="https://market.ecoagrozm.com"><span>Marketplace</span></a>
