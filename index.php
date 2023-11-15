@@ -2908,7 +2908,7 @@
                                                                                                         class="sc_services_item_content_inner_bottom">
                                                                                                         <h6
                                                                                                             class="sc_services_item_title">
-                                                                                                            <a  href="https://callcenter.ecoagrozm.com">E-extension</a>
+                                                                                                            <a  href="https://callcenter.ecoagrozm.com">Business Process Outsourcing (BPO)</a>
                                                                                                         </h6>
                                                                                                         <div
                                                                                                             class="sc_services_item_text">
